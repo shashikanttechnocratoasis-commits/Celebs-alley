@@ -377,7 +377,7 @@ END:VCALENDAR`;
                                   : "bg-bg-base/60 border-gold-500/20 hover:border-gold-500/40"
                               }`}
                             >
-                              <div className="w-12 h-12 rounded-xl bg-bg-surface overflow-hidden shrink-0 border border-gold-500/20">
+                              <div className="relative w-12 h-12 rounded-xl bg-bg-surface overflow-hidden shrink-0 border border-gold-500/20">
                                 <ImageWithFallback
                                   src={cons.avatar}
                                   alt={cons.name}
