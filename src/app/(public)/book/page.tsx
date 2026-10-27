@@ -377,15 +377,16 @@ END:VCALENDAR`;
                                   : "bg-bg-base/60 border-gold-500/20 hover:border-gold-500/40"
                               }`}
                             >
-                              <div className="relative w-12 h-12 rounded-xl bg-bg-surface overflow-hidden shrink-0 border border-gold-500/20">
-                                <ImageWithFallback
-                                  src={cons.avatar}
-                                  alt={cons.name}
-                                  fill
-                                  sizes="48px"
-                                  className="object-cover"
-                                />
-                              </div>
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
+                              <img
+                                src={cons.avatar}
+                                alt={cons.name}
+                                className="w-12 h-12 rounded-xl object-cover shrink-0 border border-gold-500/20 bg-bg-surface"
+                                onError={(e) => {
+                                  (e.currentTarget as HTMLImageElement).src =
+                                    "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80";
+                                }}
+                              />
                               <div>
                                 <h4 className="text-xs font-heading font-bold text-text-primary">
                                   {cons.name}
