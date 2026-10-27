@@ -1,0 +1,83 @@
+[
+  {
+    "id": "plan-free",
+    "name": "Starter Showcase",
+    "slug": "free",
+    "priceMonthly": 0,
+    "priceYearly": 0,
+    "description": "Ideal for boutique indie brands wanting to list up to 5 flagship products on Celebs Alley.",
+    "features": [
+      "List up to 5 SKU items",
+      "Basic AI recommendation placement",
+      "Standard payout cycle (14 days)",
+      "Standard seller support"
+    ],
+    "limits": {
+      "maxProducts": 5,
+      "maxOrdersPerMonth": 50,
+      "commissionRate": 18
+    }
+  },
+  {
+    "id": "plan-starter",
+    "name": "Growth Partner",
+    "slug": "starter",
+    "priceMonthly": 999,
+    "priceYearly": 9990,
+    "description": "Designed for established distributors expanding their digital reach and regional inventory.",
+    "features": [
+      "List up to 25 SKU items",
+      "Priority AI score matching engine",
+      "7-Day accelerated payouts",
+      "Multi-user staff logins (up to 3)",
+      "Basic sales analytics"
+    ],
+    "limits": {
+      "maxProducts": 25,
+      "maxOrdersPerMonth": 300,
+      "commissionRate": 14
+    }
+  },
+  {
+    "id": "plan-business",
+    "name": "Brand Empire",
+    "slug": "business",
+    "priceMonthly": 2999,
+    "priceYearly": 29990,
+    "description": "Full-scale powerhouse for luxury distributors managing nationwide logistics.",
+    "features": [
+      "Unlimited SKU catalog",
+      "Top-tier AI recommendation boost",
+      "Instant 48-hour automated payouts",
+      "Advanced multi-warehouse inventory",
+      "Full staff role permissions",
+      "Dedicated Account Concierge"
+    ],
+    "limits": {
+      "maxProducts": 9999,
+      "maxOrdersPerMonth": 99999,
+      "commissionRate": 10
+    },
+    "isPopular": true
+  },
+  {
+    "id": "plan-enterprise",
+    "name": "Sovereign Elite",
+    "slug": "enterprise",
+    "priceMonthly": 8999,
+    "priceYearly": 89990,
+    "description": "Tailored enterprise solutions for multi-brand luxury conglomerates and clinic chains.",
+    "features": [
+      "Custom API integrations",
+      "Dedicated private AI parameter rules",
+      "Zero platform commission tier",
+      "White-label clinic scan kiosks",
+      "SLA 99.99% uptime guarantee"
+    ],
+    "limits": {
+      "maxProducts": 99999,
+      "maxOrdersPerMonth": 999999,
+      "commissionRate": 6
+    }
+  }
+]

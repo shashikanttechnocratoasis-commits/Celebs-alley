@@ -1,0 +1,110 @@
+[
+  {
+    "id": "scan-1",
+    "customerName": "Ritu Sharma",
+    "date": "09 Oct 2026",
+    "age": 29,
+    "skinType": "Combination / Dehydrated",
+    "overallScore": 78,
+    "parameterScores": {
+      "param-1": 72,
+      "param-2": 82,
+      "param-3": 91,
+      "param-4": 86,
+      "param-5": 78,
+      "param-6": 85,
+      "param-7": 88,
+      "param-8": 90,
+      "hydration": 72,
+      "oil_balance": 82,
+      "texture": 91,
+      "pigmentation": 86,
+      "acne_blemishes": 78,
+      "fine_lines": 85,
+      "redness_sensitivity": 88,
+      "pore_visibility": 90
+    },
+    "primaryConcerns": [
+      "Epidermal Dehydration",
+      "Orbital Fine Lines",
+      "Transient Redness"
+    ],
+    "summary": "Your skin demonstrates exceptional cellular clarity and low acne propensity, but suffers from transepidermal water loss and early barrier sensitivity. Priority is humectant flooding and ceramide lipid sealing.",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "scan-2",
+    "customerName": "Aarav Mehta",
+    "date": "08 Oct 2026",
+    "age": 26,
+    "skinType": "Oily / Congested",
+    "overallScore": 68,
+    "parameterScores": {
+      "hydration": 78,
+      "oil_balance": 38,
+      "texture": 60,
+      "pigmentation": 74,
+      "acne_blemishes": 52,
+      "fine_lines": 92,
+      "redness_sensitivity": 65,
+      "pore_visibility": 44
+    },
+    "primaryConcerns": [
+      "Excess Sebum",
+      "Dilated Ostia",
+      "Follicular Comedones"
+    ],
+    "summary": "Strong moisture reserve and high collagen density, but unbalanced T-zone sebum flow is leading to dilated pores and recurrent inflammatory blemishes. Recommended BHA exfoliation and 10% Niacinamide.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "scan-3",
+    "customerName": "Natasha Roy",
+    "date": "05 Oct 2026",
+    "age": 44,
+    "skinType": "Dry / Mature",
+    "overallScore": 71,
+    "parameterScores": {
+      "hydration": 55,
+      "oil_balance": 70,
+      "texture": 58,
+      "pigmentation": 52,
+      "acne_blemishes": 95,
+      "fine_lines": 48,
+      "redness_sensitivity": 78,
+      "pore_visibility": 82
+    },
+    "primaryConcerns": [
+      "Sub-dermal Melasma",
+      "Periorbital Expression Lines",
+      "Sluggish Turnover"
+    ],
+    "summary": "Refined pore structure and calm neurovascular threshold, but signs of cumulative photo-damage and slowdown of extracellular elastin production. Recommended encapsulated Retinal and Tranexamic Acid.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "scan-4",
+    "customerName": "Zoya Akhtar",
+    "date": "01 Oct 2026",
+    "age": 32,
+    "skinType": "Sensitive / Reactive",
+    "overallScore": 74,
+    "parameterScores": {
+      "hydration": 60,
+      "oil_balance": 75,
+      "texture": 66,
+      "pigmentation": 80,
+      "acne_blemishes": 85,
+      "fine_lines": 80,
+      "redness_sensitivity": 38,
+      "pore_visibility": 76
+    },
+    "primaryConcerns": [
+      "Facial Erythema",
+      "Vascular Hyper-reactivity",
+      "Compromised Acid Mantle"
+    ],
+    "summary": "Elevated microvascular capillary flush and barrier thinness. Avoid all physical scrubs and high-percentage acids. Immediate focus on Madecassoside, Azelaic Acid, and non-nano zinc photoprotection.",
+    "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80"
+  }
+]

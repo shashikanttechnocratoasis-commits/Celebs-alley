@@ -1,0 +1,32 @@
+[
+  {
+    "id": "model-sim-1.0",
+    "version": "sim-1.0",
+    "name": "Neural Radiance v1.0 (Clinical Standard)",
+    "status": "live",
+    "description": "Standard multi-spectral facial topology and skin parameter simulator. Validated across 25,000 diverse Indian skin phototypes.",
+    "noiseOffsetMultiplier": 1.0,
+    "scanCount": 1280,
+    "releaseDate": "2026-08-15"
+  },
+  {
+    "id": "model-sim-0.9",
+    "version": "sim-0.9",
+    "name": "Legacy Dermal Vision v0.9",
+    "status": "archived",
+    "description": "Legacy 6-parameter heuristic engine with basic edge detection. Archived after clinical validation of v1.0.",
+    "noiseOffsetMultiplier": 1.35,
+    "scanCount": 340,
+    "releaseDate": "2026-04-01"
+  },
+  {
+    "id": "model-sim-2.0-beta",
+    "version": "sim-2.0-beta",
+    "name": "Next-Gen DeepDermis AI 2.0 (High Precision Beta)",
+    "status": "beta",
+    "description": "Sub-surface vascular chromophore mapping and high-dynamic range micro-wrinkle analysis with reduced diagnostic variance.",
+    "noiseOffsetMultiplier": 0.65,
+    "scanCount": 64,
+    "releaseDate": "2026-10-15"
+  }
+]

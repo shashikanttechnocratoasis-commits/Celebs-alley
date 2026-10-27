@@ -1,0 +1,46 @@
+[
+  {
+    "id": "log-1",
+    "timestamp": "2026-10-09T08:14:22Z",
+    "userId": "user-super-admin",
+    "userName": "Rajesh Sharma",
+    "role": "Super Admin",
+    "action": "AI_WEIGHT_UPDATE",
+    "resource": "SkinParameters",
+    "details": "Updated Hydration parameter weight from 0.14 to 0.15",
+    "ipAddress": "103.21.14.88"
+  },
+  {
+    "id": "log-2",
+    "timestamp": "2026-10-09T07:30:10Z",
+    "userId": "user-seller-owner",
+    "userName": "Kabir Singhania",
+    "role": "Distributor Owner",
+    "action": "INVENTORY_SYNC",
+    "resource": "InventoryBatch",
+    "details": "Synced 32 SKU stock levels for Royal Beauty Logistics",
+    "ipAddress": "115.99.204.12"
+  },
+  {
+    "id": "log-3",
+    "timestamp": "2026-10-08T19:45:00Z",
+    "userId": "user-admin",
+    "userName": "Ananya Roy",
+    "role": "Admin",
+    "action": "DISTRIBUTOR_APPROVAL",
+    "resource": "Sellers",
+    "details": "Approved Rajputana Luxury Beauty Corporation pending verification",
+    "ipAddress": "49.207.180.5"
+  },
+  {
+    "id": "log-4",
+    "timestamp": "2026-10-08T14:12:30Z",
+    "userId": "user-ai-manager",
+    "userName": "Dr. Sneha Iyer",
+    "role": "AI/Rule Manager",
+    "action": "RULE_VERSION_DEPLOY",
+    "resource": "DiagnosticRules",
+    "details": "Deployed Rule Engine v2.4.1 (South Asian Phototype optimization)",
+    "ipAddress": "122.161.80.19"
+  }
+]

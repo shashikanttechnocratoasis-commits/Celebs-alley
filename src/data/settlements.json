@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stl-2026-w38-s1",
+    "sellerId": "seller-1",
+    "cycleStart": "2026-09-15T00:00:00Z",
+    "cycleEnd": "2026-09-21T23:59:59Z",
+    "orderIds": ["ord-101", "ord-102", "ord-103", "ord-104"],
+    "grossAmount": 38400000,
+    "commissionAmount": 3840000,
+    "gatewayFee": 768000,
+    "tcsTdsAmount": 768000,
+    "netPayout": 33024000,
+    "status": "paid",
+    "paidAt": "2026-09-24T14:30:00Z",
+    "utrNumber": "HDFC0001234987612"
+  },
+  {
+    "id": "stl-2026-w39-s1",
+    "sellerId": "seller-1",
+    "cycleStart": "2026-09-22T00:00:00Z",
+    "cycleEnd": "2026-09-28T23:59:59Z",
+    "orderIds": ["ord-105", "ord-106", "ord-107", "ord-108", "ord-109"],
+    "grossAmount": 46500000,
+    "commissionAmount": 4650000,
+    "gatewayFee": 930000,
+    "tcsTdsAmount": 930000,
+    "netPayout": 39990000,
+    "status": "paid",
+    "paidAt": "2026-10-01T11:15:00Z",
+    "utrNumber": "HDFC0001234987654"
+  },
+  {
+    "id": "stl-2026-w40-s1",
+    "sellerId": "seller-1",
+    "cycleStart": "2026-09-29T00:00:00Z",
+    "cycleEnd": "2026-10-05T23:59:59Z",
+    "orderIds": ["ord-110", "ord-111", "ord-112"],
+    "grossAmount": 51200000,
+    "commissionAmount": 5120000,
+    "gatewayFee": 1024000,
+    "tcsTdsAmount": 1024000,
+    "netPayout": 44032000,
+    "status": "paid",
+    "paidAt": "2026-10-08T16:45:00Z",
+    "utrNumber": "HDFC0001234987799"
+  },
+  {
+    "id": "stl-2026-w40-s2",
+    "sellerId": "seller-2",
+    "cycleStart": "2026-09-29T00:00:00Z",
+    "cycleEnd": "2026-10-05T23:59:59Z",
+    "orderIds": ["ord-201", "ord-202"],
+    "grossAmount": 28500000,
+    "commissionAmount": 2850000,
+    "gatewayFee": 570000,
+    "tcsTdsAmount": 570000,
+    "netPayout": 24510000,
+    "status": "paid",
+    "paidAt": "2026-10-08T15:20:00Z",
+    "utrNumber": "ICIC0009876543211"
+  }
+]

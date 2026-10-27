@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Cleansers",
+    "slug": "cleansers",
+    "description": "Gentle oil-to-milk, gel, and foaming formulas that purify without stripping natural lipids.",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cat-2",
+    "name": "Serums",
+    "slug": "serums",
+    "description": "Targeted molecular concentrates delivering active cosmeceuticals deep into epidermal layers.",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cat-3",
+    "name": "Moisturizers",
+    "slug": "moisturizers",
+    "description": "Rich lipid replenishment creams and weightless water emulsions for lasting barrier protection.",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cat-4",
+    "name": "Sunscreens",
+    "slug": "sunscreens",
+    "description": "Broad-spectrum SPF 50+ PA++++ invisible luxury fluid shields against UVA, UVB, and HEV blue light.",
+    "image": "https://images.unsplash.com/photo-1556228722-d0b77a06a208?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cat-5",
+    "name": "Treatments",
+    "slug": "treatments",
+    "description": "Clinical grade AHA/BHA peels, retinal concentrates, and targeted dark spot correctors.",
+    "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cat-6",
+    "name": "Masks",
+    "slug": "masks",
+    "description": "Hydrogel sheets, clarifying biocellular clays, and overnight sleeping infusion wraps.",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cat-7",
+    "name": "Eye Care",
+    "slug": "eye-care",
+    "description": "Cooling peptide balms, caffeine serums, and micro-filling creams for orbital radiance.",
+    "image": "https://images.unsplash.com/photo-1608248597359-2b0c43632938?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cat-8",
+    "name": "Supplements",
+    "slug": "supplements",
+    "description": "Clinical ingestible marine collagen, glutathione, and antioxidant beauty elixirs.",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+  }
+]

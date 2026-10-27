@@ -1,0 +1,67 @@
+[
+  {
+    "id": "wh-1",
+    "sellerId": "seller-1",
+    "name": "Bhiwandi Central Cosmeceutical Hub",
+    "code": "BHW-01",
+    "address": "Unit 4B, Building C, Renaissance Industrial Smart City, Vashere",
+    "city": "Bhiwandi",
+    "state": "Maharashtra",
+    "pincode": "421302",
+    "isPrimary": true,
+    "contactPerson": "Rohan Gupta",
+    "contactPhone": "+91 98200 11007"
+  },
+  {
+    "id": "wh-2",
+    "sellerId": "seller-1",
+    "name": "Andheri Cold-Chain Depot",
+    "code": "BOM-02",
+    "address": "Plot 18, MIDC Central Road, Near Akruti Star, Andheri East",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400093",
+    "isPrimary": false,
+    "contactPerson": "Nikhil Shinde",
+    "contactPhone": "+91 98202 33441"
+  },
+  {
+    "id": "wh-3",
+    "sellerId": "seller-2",
+    "name": "Gurugram Gateway Hub",
+    "code": "GGN-01",
+    "address": "Warehouse 12, Pataudi Road Logistics Park",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "pincode": "122503",
+    "isPrimary": true,
+    "contactPerson": "Kavita Sethi",
+    "contactPhone": "+91 98110 33445"
+  },
+  {
+    "id": "wh-4",
+    "sellerId": "seller-3",
+    "name": "Whitefield Derma Depot",
+    "code": "BLR-01",
+    "address": "Site 24, EPIP Zone, Phase II, Whitefield",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560066",
+    "isPrimary": true,
+    "contactPerson": "Dinesh Rao",
+    "contactPhone": "+91 98450 77889"
+  },
+  {
+    "id": "wh-5",
+    "sellerId": "seller-4",
+    "name": "Sanand Industrial Logistics",
+    "code": "AMD-01",
+    "address": "Survey 112, GIDC Phase II, Sanand",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "382170",
+    "isPrimary": true,
+    "contactPerson": "Prakash Shah",
+    "contactPhone": "+91 98250 55667"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "notif-1",
+    "roleTarget": "all",
+    "title": "Welcome to Celebs Alley",
+    "message": "Explore the new AI-powered 8-parameter beauty commerce platform.",
+    "read": false,
+    "type": "info",
+    "createdAt": "2026-10-09T08:00:00Z",
+    "actionUrl": "/demo"
+  },
+  {
+    "id": "notif-2",
+    "roleTarget": "Customer",
+    "title": "Your Skin Routine is Ready",
+    "message": "Dr. Meera Nambiar has updated your custom barrier repair regimen.",
+    "read": false,
+    "type": "success",
+    "createdAt": "2026-10-09T09:30:00Z",
+    "actionUrl": "/app"
+  },
+  {
+    "id": "notif-3",
+    "roleTarget": "Distributor Owner",
+    "title": "New Luxury Order Received",
+    "message": "Order #CA-2026-8814 received for ₹8,437. Dispatch required within 24 hours.",
+    "read": false,
+    "type": "success",
+    "createdAt": "2026-10-09T10:15:00Z",
+    "actionUrl": "/seller"
+  },
+  {
+    "id": "notif-4",
+    "roleTarget": "Inventory Manager",
+    "title": "Low Stock Alert: Retinal Fluid",
+    "message": "SKU CA-CEL-005 has reached threshold (4 units remaining). Reorder recommended.",
+    "read": true,
+    "type": "warning",
+    "createdAt": "2026-10-08T18:00:00Z",
+    "actionUrl": "/seller"
+  },
+  {
+    "id": "notif-5",
+    "roleTarget": "Super Admin",
+    "title": "New Distributor Application",
+    "message": "Rajputana Luxury Beauty Corporation has submitted GST verification documents.",
+    "read": false,
+    "type": "info",
+    "createdAt": "2026-10-09T07:45:00Z",
+    "actionUrl": "/admin"
+  }
+]

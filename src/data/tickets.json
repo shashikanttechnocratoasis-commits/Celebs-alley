@@ -1,0 +1,502 @@
+[
+  {
+    "id": "tkt-1001",
+    "ticketNumber": "TKT-8841",
+    "customerId": "cust-1",
+    "requesterName": "Radhika Singhania",
+    "requesterEmail": "radhika.s@singhania.com",
+    "requesterRole": "Customer",
+    "subject": "Delayed delivery of 24K Gold Cellular Elixir",
+    "category": "shipping",
+    "priority": "high",
+    "status": "in_progress",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-18T09:30:00Z",
+    "updatedAt": "2026-10-18T11:15:00Z",
+    "slaMinutes": 120,
+    "messages": [
+      {
+        "id": "msg-1001-1",
+        "ticketId": "tkt-1001",
+        "senderId": "cust-1",
+        "senderName": "Radhika Singhania",
+        "senderRole": "Customer",
+        "message": "My order #ORD-2026-1001 was scheduled for delivery yesterday via BlueDart, but tracking states 'Delay at Mumbai Hub'. Please advise.",
+        "timestamp": "2026-10-18T09:30:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1001-2",
+        "ticketId": "tkt-1001",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "Checked with BlueDart Priority Desk. Heavy rainfall caused a temporary road delay. The consignment is out for delivery today by 4 PM.",
+        "timestamp": "2026-10-18T10:05:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1001-3",
+        "ticketId": "tkt-1001",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "Internal note: Verified with warehouse supervisor. Consignment tracking AWB 9482718910 verified on van.",
+        "timestamp": "2026-10-18T10:06:00Z",
+        "isInternal": true
+      }
+    ]
+  },
+  {
+    "id": "tkt-1002",
+    "ticketNumber": "TKT-8842",
+    "sellerId": "seller-1",
+    "requesterName": "Kabir Singhania",
+    "requesterEmail": "kabir@royalbeauty.in",
+    "requesterRole": "Distributor Owner",
+    "subject": "GST Tax invoice mismatch in monthly platform commission settlement",
+    "category": "payout",
+    "priority": "medium",
+    "status": "open",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-17T14:20:00Z",
+    "updatedAt": "2026-10-17T14:20:00Z",
+    "slaMinutes": 240,
+    "messages": [
+      {
+        "id": "msg-1002-1",
+        "ticketId": "tkt-1002",
+        "senderId": "seller-1",
+        "senderName": "Kabir Singhania",
+        "senderRole": "Distributor Owner",
+        "message": "The TDS / TCS deduction on settlement cycle #SET-OCT-01 shows ₹1,240 instead of ₹1,180 based on our 1% e-commerce withholding rate.",
+        "timestamp": "2026-10-17T14:20:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1003",
+    "ticketNumber": "TKT-8843",
+    "customerId": "cust-2",
+    "requesterName": "Ananya Sharma",
+    "requesterEmail": "ananya.s@gmail.com",
+    "requesterRole": "Customer",
+    "subject": "Allergy advisory check for Niacinamide 10% formulation",
+    "category": "skin_consult",
+    "priority": "low",
+    "status": "resolved",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-16T11:00:00Z",
+    "updatedAt": "2026-10-16T13:45:00Z",
+    "slaMinutes": 360,
+    "messages": [
+      {
+        "id": "msg-1003-1",
+        "ticketId": "tkt-1003",
+        "senderId": "cust-2",
+        "senderName": "Ananya Sharma",
+        "senderRole": "Customer",
+        "message": "I have mild flush reactions to high-strength niacinamide. Does the Clinical Niacinamide concentrate include soothing bisabolol?",
+        "timestamp": "2026-10-16T11:00:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1003-2",
+        "ticketId": "tkt-1003",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "Yes, it contains 1% bio-identical bisabolol and zinc PCA specifically calibrated to suppress any vascular flushing reaction.",
+        "timestamp": "2026-10-16T13:45:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1004",
+    "ticketNumber": "TKT-8844",
+    "sellerId": "seller-5",
+    "requesterName": "Mahesh Rathore",
+    "requesterEmail": "mahesh@rajputanabeauty.com",
+    "requesterRole": "Distributor Owner",
+    "subject": "Clarification on Drug License upload requirement for Ayurvedic cosmeceuticals",
+    "category": "kyc",
+    "priority": "urgent",
+    "status": "in_progress",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-19T08:10:00Z",
+    "updatedAt": "2026-10-19T09:00:00Z",
+    "slaMinutes": 60,
+    "messages": [
+      {
+        "id": "msg-1004-1",
+        "ticketId": "tkt-1004",
+        "senderId": "seller-5",
+        "senderName": "Mahesh Rathore",
+        "senderRole": "Distributor Owner",
+        "message": "Our products are certified AYUSH formulations manufactured under GMP license 26D. Is Form 20B still required or is the AYUSH certificate sufficient?",
+        "timestamp": "2026-10-19T08:10:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1005",
+    "ticketNumber": "TKT-8845",
+    "customerId": "cust-3",
+    "requesterName": "Vikram Seth",
+    "requesterEmail": "vikram.seth@outlook.com",
+    "requesterRole": "Customer",
+    "subject": "Return request escalation: Damaged outer seal on arrival",
+    "category": "order",
+    "priority": "high",
+    "status": "open",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-18T16:40:00Z",
+    "updatedAt": "2026-10-18T16:40:00Z",
+    "slaMinutes": 120,
+    "messages": [
+      {
+        "id": "msg-1005-1",
+        "ticketId": "tkt-1005",
+        "senderId": "cust-3",
+        "senderName": "Vikram Seth",
+        "senderRole": "Customer",
+        "message": "The outer luxury cellophane seal was torn and the dropper bottle showed slight leakage inside the foam sleeve. Requesting expedited replacement.",
+        "timestamp": "2026-10-18T16:40:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1006",
+    "ticketNumber": "TKT-8846",
+    "customerId": "cust-1",
+    "requesterName": "Radhika Singhania",
+    "requesterEmail": "radhika.s@singhania.com",
+    "requesterRole": "Customer",
+    "subject": "Question regarding 8-parameter diagnostic score changes",
+    "category": "skin_consult",
+    "priority": "low",
+    "status": "resolved",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-15T15:20:00Z",
+    "updatedAt": "2026-10-15T16:00:00Z",
+    "slaMinutes": 360,
+    "messages": [
+      {
+        "id": "msg-1006-1",
+        "ticketId": "tkt-1006",
+        "senderId": "cust-1",
+        "senderName": "Radhika Singhania",
+        "senderRole": "Customer",
+        "message": "My hydration score improved from 72% to 84% after 3 weeks of the peptide regimen. How often should I rescan?",
+        "timestamp": "2026-10-15T15:20:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1006-2",
+        "ticketId": "tkt-1006",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "Congratulations on the cellular progress! We recommend scanning once every 14 days under identical morning natural lighting.",
+        "timestamp": "2026-10-15T16:00:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1007",
+    "ticketNumber": "TKT-8847",
+    "sellerId": "seller-2",
+    "requesterName": "Zainab Merchant",
+    "requesterEmail": "zainab@orientalherbals.in",
+    "requesterRole": "Distributor Owner",
+    "subject": "Request to add new botanical brand listing",
+    "category": "product",
+    "priority": "medium",
+    "status": "in_progress",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-17T18:00:00Z",
+    "updatedAt": "2026-10-18T09:30:00Z",
+    "slaMinutes": 240,
+    "messages": [
+      {
+        "id": "msg-1007-1",
+        "ticketId": "tkt-1007",
+        "senderId": "seller-2",
+        "senderName": "Zainab Merchant",
+        "senderRole": "Distributor Owner",
+        "message": "We have secured exclusive import rights for Maison D'Orient botanical essence line. How do we submit brand trademark documents for verification?",
+        "timestamp": "2026-10-17T18:00:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1008",
+    "ticketNumber": "TKT-8848",
+    "customerId": "cust-4",
+    "requesterName": "Meenakshi Sundaram",
+    "requesterEmail": "meenakshi.sundaram@gmail.com",
+    "requesterRole": "Customer",
+    "subject": "OTP not arriving on BSNL mobile network during signup",
+    "category": "general",
+    "priority": "medium",
+    "status": "resolved",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-14T10:15:00Z",
+    "updatedAt": "2026-10-14T10:45:00Z",
+    "slaMinutes": 120,
+    "messages": [
+      {
+        "id": "msg-1008-1",
+        "ticketId": "tkt-1008",
+        "senderId": "cust-4",
+        "senderName": "Meenakshi Sundaram",
+        "senderRole": "Customer",
+        "message": "The 6-digit verification code was not received after 2 attempts on +91 94440 12345.",
+        "timestamp": "2026-10-14T10:15:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1008-2",
+        "ticketId": "tkt-1008",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "Our secondary SMS route via Airtel Enterprise Gateway was triggered and verification completed successfully.",
+        "timestamp": "2026-10-14T10:45:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1009",
+    "ticketNumber": "TKT-8849",
+    "sellerId": "seller-3",
+    "requesterName": "Arjun Bajaj",
+    "requesterEmail": "arjun@bajajdermal.com",
+    "requesterRole": "Distributor Owner",
+    "subject": "Integration with Delhivery surface logistics API",
+    "category": "shipping",
+    "priority": "low",
+    "status": "open",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-16T12:00:00Z",
+    "updatedAt": "2026-10-16T12:00:00Z",
+    "slaMinutes": 480,
+    "messages": [
+      {
+        "id": "msg-1009-1",
+        "ticketId": "tkt-1009",
+        "senderId": "seller-3",
+        "senderName": "Arjun Bajaj",
+        "senderRole": "Distributor Owner",
+        "message": "Can we configure automatic manifest generation for our Gurgaon warehouse facility?",
+        "timestamp": "2026-10-16T12:00:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1010",
+    "ticketNumber": "TKT-8850",
+    "customerId": "cust-5",
+    "requesterName": "Dr. Aarav Patel",
+    "requesterEmail": "aarav.patel@cardio.in",
+    "requesterRole": "Customer",
+    "subject": "Billing inquiry: GST tax invoice download with company GSTIN",
+    "category": "order",
+    "priority": "medium",
+    "status": "resolved",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-13T14:00:00Z",
+    "updatedAt": "2026-10-13T14:30:00Z",
+    "slaMinutes": 180,
+    "messages": [
+      {
+        "id": "msg-1010-1",
+        "ticketId": "tkt-1010",
+        "senderId": "cust-5",
+        "senderName": "Dr. Aarav Patel",
+        "senderRole": "Customer",
+        "message": "Needed B2B tax invoice with our clinic GSTIN 27AABCP1330K1Z9 for order #ORD-2026-1005.",
+        "timestamp": "2026-10-13T14:00:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1010-2",
+        "ticketId": "tkt-1010",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "B2B Tax Invoice generated and sent to your email. You can also download it directly from Order Details.",
+        "timestamp": "2026-10-13T14:30:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1011",
+    "ticketNumber": "TKT-8851",
+    "sellerId": "seller-1",
+    "requesterName": "Kabir Singhania",
+    "requesterEmail": "kabir@royalbeauty.in",
+    "requesterRole": "Distributor Owner",
+    "subject": "Request for warehouse temperature log audit exemption for dry powders",
+    "category": "kyc",
+    "priority": "low",
+    "status": "closed",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-10T11:20:00Z",
+    "updatedAt": "2026-10-11T16:00:00Z",
+    "slaMinutes": 360,
+    "messages": [
+      {
+        "id": "msg-1011-1",
+        "ticketId": "tkt-1011",
+        "senderId": "seller-1",
+        "senderName": "Kabir Singhania",
+        "senderRole": "Distributor Owner",
+        "message": "For clay masks and mineral powders, is the 18-24°C continuous temperature logging mandatory or is ambient warehouse audit adequate?",
+        "timestamp": "2026-10-10T11:20:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1011-2",
+        "ticketId": "tkt-1011",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "Per compliance guidelines, ambient logging is accepted for dry mineral formulations. Live cold-chain monitoring is restricted to active peptide ampoules.",
+        "timestamp": "2026-10-11T16:00:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1012",
+    "ticketNumber": "TKT-8852",
+    "customerId": "cust-2",
+    "requesterName": "Ananya Sharma",
+    "requesterEmail": "ananya.s@gmail.com",
+    "requesterRole": "Customer",
+    "subject": "Payment debited but order confirmation page timed out",
+    "category": "order",
+    "priority": "urgent",
+    "status": "resolved",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-15T09:12:00Z",
+    "updatedAt": "2026-10-15T09:35:00Z",
+    "slaMinutes": 30,
+    "messages": [
+      {
+        "id": "msg-1012-1",
+        "ticketId": "tkt-1012",
+        "senderId": "cust-2",
+        "senderName": "Ananya Sharma",
+        "senderRole": "Customer",
+        "message": "₹6,450 debited via HDFC UPI, but browser crashed before showing order number.",
+        "timestamp": "2026-10-15T09:12:00Z",
+        "isInternal": false
+      },
+      {
+        "id": "msg-1012-2",
+        "ticketId": "tkt-1012",
+        "senderId": "user-support",
+        "senderName": "Tarun Joshi",
+        "senderRole": "Support Agent",
+        "message": "Transaction verified via Razorpay webhook. Order #ORD-2026-1002 is active and allocated to dispatch.",
+        "timestamp": "2026-10-15T09:35:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1013",
+    "ticketNumber": "TKT-8853",
+    "sellerId": "seller-4",
+    "requesterName": "Geeta Raman",
+    "requesterEmail": "geeta@southerncosmetics.in",
+    "requesterRole": "Distributor Owner",
+    "subject": "Request to increase maximum batch size for customized orders",
+    "category": "product",
+    "priority": "medium",
+    "status": "open",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-18T10:00:00Z",
+    "updatedAt": "2026-10-18T10:00:00Z",
+    "slaMinutes": 240,
+    "messages": [
+      {
+        "id": "msg-1013-1",
+        "ticketId": "tkt-1013",
+        "senderId": "seller-4",
+        "senderName": "Geeta Raman",
+        "senderRole": "Distributor Owner",
+        "message": "We have an institutional inquiry for 250 units of the Peptide Barrier Shield. System currently caps individual orders at 50 units.",
+        "timestamp": "2026-10-18T10:00:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1014",
+    "ticketNumber": "TKT-8854",
+    "customerId": "cust-6",
+    "requesterName": "Rohit Verma",
+    "requesterEmail": "rohit.verma@techcorp.com",
+    "requesterRole": "Customer",
+    "subject": "Request to delete facial vector analysis and scan history",
+    "category": "general",
+    "priority": "medium",
+    "status": "in_progress",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-19T07:30:00Z",
+    "updatedAt": "2026-10-19T08:00:00Z",
+    "slaMinutes": 180,
+    "messages": [
+      {
+        "id": "msg-1014-1",
+        "ticketId": "tkt-1014",
+        "senderId": "cust-6",
+        "senderName": "Rohit Verma",
+        "senderRole": "Customer",
+        "message": "Submitted a formal DPDP Act deletion request via Privacy settings for all stored facial vectors and thumbnail captures.",
+        "timestamp": "2026-10-19T07:30:00Z",
+        "isInternal": false
+      }
+    ]
+  },
+  {
+    "id": "tkt-1015",
+    "ticketNumber": "TKT-8855",
+    "sellerId": "seller-1",
+    "requesterName": "Kabir Singhania",
+    "requesterEmail": "kabir@royalbeauty.in",
+    "requesterRole": "Distributor Owner",
+    "subject": "Expedited payout request approval for festival inventory ramp-up",
+    "category": "payout",
+    "priority": "urgent",
+    "status": "open",
+    "assignedTo": "user-support",
+    "createdAt": "2026-10-19T09:15:00Z",
+    "updatedAt": "2026-10-19T09:15:00Z",
+    "slaMinutes": 60,
+    "messages": [
+      {
+        "id": "msg-1015-1",
+        "ticketId": "tkt-1015",
+        "senderId": "seller-1",
+        "senderName": "Kabir Singhania",
+        "senderRole": "Distributor Owner",
+        "message": "Submitted payout withdrawal request #PAY-REQ-901 for ₹1,85,000 to clear pending raw material customs duty. Please expedite Finance approval.",
+        "timestamp": "2026-10-19T09:15:00Z",
+        "isInternal": false
+      }
+    ]
+  }
+]

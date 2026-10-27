@@ -1,0 +1,98 @@
+[
+  {
+    "id": "faq-1",
+    "question": "How does the Celebs Alley AI face scan work?",
+    "answer": "Our simulated visual analysis evaluates your facial topography across 8 critical dermatological parameters (Hydration, Oil Balance, Texture, Pigmentation, Acne, Fine Lines, Redness, and Pores). It maps your personal scores directly against our database of 25 active ingredients to provide 100% explainable product recommendations.",
+    "category": "AI Skin Scan"
+  },
+  {
+    "id": "faq-2",
+    "question": "Is my facial scan photo stored or shared?",
+    "answer": "Never. Privacy is foundational to Celebs Alley. Scans are processed entirely in memory and converted into anonymous numerical vectors. Your original camera feeds are never stored or shared with any third party.",
+    "category": "Privacy & Security"
+  },
+  {
+    "id": "faq-3",
+    "question": "Can the 8 skin parameters be configured by administrators?",
+    "answer": "Yes. Celebs Alley features an Admin-governed AI Parameter Engine where parameter weights, interpretation thresholds (low/medium/high), and diagnostic matching rules are dynamically configured without modifying core logic.",
+    "category": "AI Skin Scan"
+  },
+  {
+    "id": "faq-4",
+    "question": "How do multi-seller orders and shipments work?",
+    "answer": "When you purchase items from different luxury distributors, our intelligent routing engine splits the dispatch orders to the respective verified sellers while presenting you with a single unified checkout and tracking dashboard.",
+    "category": "Orders & Shipping"
+  },
+  {
+    "id": "faq-5",
+    "question": "What is the typical delivery timeline across India?",
+    "answer": "All our verified distributors maintain temperature-controlled stock in metropolitan hubs (Mumbai, Delhi, Bengaluru, Jaipur). Most orders are delivered within 24 to 72 hours via expedited air freight.",
+    "category": "Orders & Shipping"
+  },
+  {
+    "id": "faq-6",
+    "question": "How do I become a verified distributor or seller on Celebs Alley?",
+    "answer": "Distributors can apply via our Seller Portal by providing valid GST, PAN, and cosmetic distribution licenses. Once vetted by our compliance team, you can choose from our Growth, Business, or Enterprise SaaS plans.",
+    "category": "Seller & B2B"
+  },
+  {
+    "id": "faq-7",
+    "question": "What payment methods are accepted?",
+    "answer": "We support all major Indian payment methods: UPI (Google Pay, PhonePe, Paytm), Credit/Debit Cards (Visa, Mastercard, RuPay, Amex), NetBanking across 50+ banks, and EMI options on eligible cards.",
+    "category": "Payments"
+  },
+  {
+    "id": "faq-8",
+    "question": "Can I book virtual consultations with dermatologists?",
+    "answer": "Yes. You can schedule 1-on-1 video consultations with certified dermatologists and Ayurvedic cosmetologists directly through the Consultant panel to review your scan metrics and receive personalized prescriptions.",
+    "category": "Consultations"
+  },
+  {
+    "id": "faq-9",
+    "question": "Are all products 100% authentic and authentic-sealed?",
+    "answer": "Celebs Alley operates a closed-loop B2B2C marketplace. We onboard only authorized brand distributors with verified batch certificates of analysis. Every package comes with a tamper-evident holographic seal.",
+    "category": "Product Authenticity"
+  },
+  {
+    "id": "faq-10",
+    "question": "What happens if a product is contraindicated with my scan results?",
+    "answer": "Our AI recommendation engine flags contraindications in red (e.g. high-strength retinol for sensitized barriers or heavy comedogenic oils for congested pores), preventing harmful combinations before checkout.",
+    "category": "AI Skin Scan"
+  },
+  {
+    "id": "faq-11",
+    "question": "What is the return and refund policy for luxury cosmeceuticals?",
+    "answer": "Due to strict hygiene regulations, opened cosmeceuticals cannot be returned. If an item arrives damaged or compromised, our Concierge Support initiates an instant replacement or refund within 48 hours.",
+    "category": "Orders & Shipping"
+  },
+  {
+    "id": "faq-12",
+    "question": "How are distributor commissions and payouts calculated?",
+    "answer": "Commissions range from 6% to 18% depending on your SaaS subscription tier. Automated payout settlements occur on a weekly or bi-weekly cycle directly to the distributor's registered bank account.",
+    "category": "Seller & B2B"
+  },
+  {
+    "id": "faq-13",
+    "question": "Can I take repeated scans to track my skin progress over time?",
+    "answer": "Yes! Your Customer Portal archives historical scan scores so you can visually track improvements in hydration, redness reduction, and texture refinement over weeks of product usage.",
+    "category": "AI Skin Scan"
+  },
+  {
+    "id": "faq-14",
+    "question": "What is the 'Gold on Black' design philosophy?",
+    "answer": "Our visual identity reflects timeless luxury: near-black obsidian foundations (#0B0907), radiant gold leaf accents (#C99A45 / #E8C77A), and warm cream typography, evoking an elevated sanctuary of beauty science.",
+    "category": "Brand & Design"
+  },
+  {
+    "id": "faq-15",
+    "question": "Are the formulations cruelty-free and dermatologically tested?",
+    "answer": "All featured brands must adhere to non-animal testing compliance and provide dermatological patch-test safety documentation before being approved in our marketplace.",
+    "category": "Product Authenticity"
+  },
+  {
+    "id": "faq-16",
+    "question": "How do I switch roles in the live demo?",
+    "answer": "Simply navigate to the /demo route or use the Ctrl/Cmd+K command palette. You can seamlessly switch between Super Admin, Distributor Owner, Inventory Manager, Consultant, and Customer profiles with a single click.",
+    "category": "Platform Demo"
+  }
+]

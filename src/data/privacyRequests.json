@@ -1,0 +1,33 @@
+[
+  {
+    "id": "priv-101",
+    "customerId": "cust-1",
+    "customerName": "Radhika Singhania",
+    "customerEmail": "radhika.s@singhania.com",
+    "type": "export",
+    "requestedAt": "2026-10-18T14:15:00Z",
+    "status": "pending",
+    "notes": "Request generated from Customer Profile Privacy tab for all 8-parameter scan logs, order receipts, and consent metadata."
+  },
+  {
+    "id": "priv-102",
+    "customerId": "cust-6",
+    "customerName": "Rohit Verma",
+    "customerEmail": "rohit.verma@techcorp.com",
+    "type": "deletion",
+    "requestedAt": "2026-10-19T07:30:00Z",
+    "status": "pending",
+    "notes": "Customer requested full biometric facial vector anonymization and account decommissioning."
+  },
+  {
+    "id": "priv-103",
+    "customerId": "cust-3",
+    "customerName": "Vikram Seth",
+    "customerEmail": "vikram.seth@outlook.com",
+    "type": "export",
+    "requestedAt": "2026-10-10T11:00:00Z",
+    "status": "fulfilled",
+    "fulfilledAt": "2026-10-10T12:30:00Z",
+    "notes": "Full GDPR/DPDP export package generated in JSON format."
+  }
+]

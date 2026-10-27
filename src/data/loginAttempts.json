@@ -1,0 +1,56 @@
+[
+  {
+    "id": "log-9001",
+    "emailOrPhone": "rajesh.admin@celebsalley.com",
+    "role": "Super Admin",
+    "ipAddress": "103.21.124.12",
+    "device": "macOS Chrome 130 / Bandra West, Mumbai",
+    "status": "success",
+    "timestamp": "2026-10-19T08:30:00Z"
+  },
+  {
+    "id": "log-9002",
+    "emailOrPhone": "+91 98200 11005",
+    "role": "Distributor Owner",
+    "ipAddress": "115.112.44.89",
+    "device": "Windows 11 Edge / Nariman Point, Mumbai",
+    "status": "success",
+    "timestamp": "2026-10-19T08:45:00Z"
+  },
+  {
+    "id": "log-9003",
+    "emailOrPhone": "+91 98200 99999",
+    "role": "Customer",
+    "ipAddress": "49.36.128.210",
+    "device": "iOS Safari 18 / Bengaluru Urban",
+    "status": "failed_otp",
+    "timestamp": "2026-10-19T09:10:00Z"
+  },
+  {
+    "id": "log-9004",
+    "emailOrPhone": "+91 98200 99999",
+    "role": "Customer",
+    "ipAddress": "49.36.128.210",
+    "device": "iOS Safari 18 / Bengaluru Urban",
+    "status": "failed_otp",
+    "timestamp": "2026-10-19T09:11:00Z"
+  },
+  {
+    "id": "log-9005",
+    "emailOrPhone": "+91 98200 99999",
+    "role": "Customer",
+    "ipAddress": "49.36.128.210",
+    "device": "iOS Safari 18 / Bengaluru Urban",
+    "status": "locked",
+    "timestamp": "2026-10-19T09:12:00Z"
+  },
+  {
+    "id": "log-9006",
+    "emailOrPhone": "sneha.ai@celebsalley.com",
+    "role": "AI/Rule Manager",
+    "ipAddress": "182.73.190.54",
+    "device": "macOS Safari 18 / Hitec City, Hyderabad",
+    "status": "success",
+    "timestamp": "2026-10-19T09:15:00Z"
+  }
+]

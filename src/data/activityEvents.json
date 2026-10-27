@@ -1,0 +1,57 @@
+[
+  {
+    "id": "act-1",
+    "entityType": "appointment",
+    "entityId": "apt-1",
+    "action": "appointment_confirmed",
+    "actorId": "cons-1",
+    "actorName": "Dr. Meera Nambiar",
+    "actorRole": "Consultant",
+    "timestamp": "2026-10-10T10:00:00Z",
+    "metadata": { "status": "confirmed", "mode": "video" }
+  },
+  {
+    "id": "act-2",
+    "entityType": "appointment",
+    "entityId": "apt-1",
+    "action": "scan_shared",
+    "actorId": "cust-1",
+    "actorName": "Ritu Sharma",
+    "actorRole": "Customer",
+    "timestamp": "2026-10-10T10:05:00Z",
+    "metadata": { "scanId": "scan-sample-1" }
+  },
+  {
+    "id": "act-3",
+    "entityType": "appointment",
+    "entityId": "apt-1",
+    "action": "session_completed",
+    "actorId": "cons-1",
+    "actorName": "Dr. Meera Nambiar",
+    "actorRole": "Consultant",
+    "timestamp": "2026-10-14T11:58:00Z",
+    "metadata": { "durationMinutes": 26 }
+  },
+  {
+    "id": "act-4",
+    "entityType": "plan",
+    "entityId": "cplan-1",
+    "action": "plan_published",
+    "actorId": "cons-1",
+    "actorName": "Dr. Meera Nambiar",
+    "actorRole": "Consultant",
+    "timestamp": "2026-10-14T12:30:00Z",
+    "metadata": { "version": 1, "durationWeeks": 4 }
+  },
+  {
+    "id": "act-5",
+    "entityType": "order",
+    "entityId": "ord-101",
+    "action": "order_placed",
+    "actorId": "user-customer",
+    "actorName": "Ritu Sharma",
+    "actorRole": "Customer",
+    "timestamp": "2026-10-14T14:00:00Z",
+    "metadata": { "amountPaise": 485000 }
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "id": "ing-1",
+    "name": "Hyaluronic Acid (Multi-Molecular)",
+    "inciName": "Sodium Hyaluronate",
+    "benefits": [
+      "Deep hydration",
+      "Plumps fine lines",
+      "Enhances elasticity"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Dryness",
+      "Dehydration",
+      "Fine Lines"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-2",
+    "name": "Niacinamide (Vitamin B3)",
+    "inciName": "Niacinamide",
+    "benefits": [
+      "Reduces pore visibility",
+      "Strengthens barrier",
+      "Balances oil"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Pores",
+      "Oiliness",
+      "Pigmentation"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-3",
+    "name": "Encapsulated Retinaldehyde",
+    "inciName": "Retinal",
+    "benefits": [
+      "Stimulates collagen",
+      "Accelerates cellular turnover",
+      "Firms skin"
+    ],
+    "contraindications": [
+      "Pregnancy",
+      "Direct UV without SPF"
+    ],
+    "concernTags": [
+      "Aging",
+      "Fine Lines",
+      "Texture"
+    ],
+    "safetyRating": 4
+  },
+  {
+    "id": "ing-4",
+    "name": "Ethylated Ascorbic Acid (Vitamin C)",
+    "inciName": "3-O-Ethyl Ascorbic Acid",
+    "benefits": [
+      "Brightens hyperpigmentation",
+      "Antioxidant defense",
+      "Radiance boost"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Dullness",
+      "Pigmentation",
+      "Uneven Tone"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-5",
+    "name": "Salicylic Acid (BHA 2%)",
+    "inciName": "Salicylic Acid",
+    "benefits": [
+      "Exfoliates inside pores",
+      "Calms inflammatory acne",
+      "Dissolves sebum"
+    ],
+    "contraindications": [
+      "Aspirin allergy"
+    ],
+    "concernTags": [
+      "Acne",
+      "Blackheads",
+      "Blemishes"
+    ],
+    "safetyRating": 4
+  },
+  {
+    "id": "ing-6",
+    "name": "Centella Asiatica (Cica / Madecassoside)",
+    "inciName": "Centella Asiatica Leaf Extract",
+    "benefits": [
+      "Soothes acute redness",
+      "Accelerates wound healing",
+      "Calms sensitivity"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Redness",
+      "Sensitivity",
+      "Compromised Barrier"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-7",
+    "name": "Matrixyl 3000 & Copper Peptides",
+    "inciName": "Palmitoyl Tripeptide-1, Copper Tripeptide-1",
+    "benefits": [
+      "Rebuilds extracellular matrix",
+      "Improves skin density",
+      "Smooths deep wrinkles"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Loss of Firmness",
+      "Fine Lines",
+      "Aging"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-8",
+    "name": "Ceramide NP, AP, EOP Complex",
+    "inciName": "Ceramide NP, Ceramide AP, Ceramide EOP",
+    "benefits": [
+      "Restores lipid bilayer",
+      "Prevents moisture loss",
+      "Strengthens defence"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Dryness",
+      "Flaking",
+      "Barrier Damage"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-9",
+    "name": "Plant-Derived Squalane",
+    "inciName": "Squalane",
+    "benefits": [
+      "Weightless non-comedogenic moisture",
+      "Mimics natural sebum",
+      "Silky feel"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Dryness",
+      "Dehydration"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-10",
+    "name": "Glycolic Acid (AHA 7%)",
+    "inciName": "Glycolic Acid",
+    "benefits": [
+      "Resurfaces dead stratum corneum",
+      "Instantly restores glow",
+      "Smooths texture"
+    ],
+    "contraindications": [
+      "Active eczema",
+      "Sunburn"
+    ],
+    "concernTags": [
+      "Rough Texture",
+      "Dullness"
+    ],
+    "safetyRating": 4
+  },
+  {
+    "id": "ing-11",
+    "name": "Azelaic Acid 10%",
+    "inciName": "Azelaic Acid",
+    "benefits": [
+      "Reduces rosacea erythema",
+      "Inhibits tyrosinase",
+      "Clarifies micro-comedones"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Redness",
+      "Rosacea",
+      "Pigmentation"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-12",
+    "name": "Bakuchiol (Phyto-Retinol)",
+    "inciName": "Bakuchiol",
+    "benefits": [
+      "Gentle anti-aging",
+      "Suitable for sensitive skin",
+      "Safe during daytime"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Aging",
+      "Fine Lines",
+      "Sensitivity"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-13",
+    "name": "Alpha Arbutin 2%",
+    "inciName": "Alpha-Arbutin",
+    "benefits": [
+      "Targets melasma & brown spots",
+      "Suppresses post-acne pigmentation",
+      "Even tone"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Dark Spots",
+      "Melasma",
+      "Blemishes"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-14",
+    "name": "Kojic Acid Dipalmitate",
+    "inciName": "Kojic Dipalmitate",
+    "benefits": [
+      "Natural melanin inhibitor",
+      "Fades chronic sun spots",
+      "Luminous complexion"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Sun Damage",
+      "Pigmentation"
+    ],
+    "safetyRating": 4
+  },
+  {
+    "id": "ing-15",
+    "name": "Zinc PCA 1%",
+    "inciName": "Zinc PCA",
+    "benefits": [
+      "Regulates 5-alpha reductase",
+      "Bacteriostatic against C. acnes",
+      "Matte finish"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Excess Sebum",
+      "Acne",
+      "Shine"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-16",
+    "name": "Camellia Sinensis (Green Tea) EGCG",
+    "inciName": "Camellia Sinensis Leaf Extract",
+    "benefits": [
+      "Neutralizes free radicals",
+      "Reduces micro-swelling",
+      "Photoprotective"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Environmental Stress",
+      "Redness"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-17",
+    "name": "Kashmiri Rosehip Seed Oil",
+    "inciName": "Rosa Canina Seed Oil",
+    "benefits": [
+      "Rich in provitamin A & omegas",
+      "Deep cellular regeneration",
+      "Dewy glow"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Scars",
+      "Dryness",
+      "Dullness"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-18",
+    "name": "Allantoin",
+    "inciName": "Allantoin",
+    "benefits": [
+      "Keratolytic soothing agent",
+      "Promotes tissue synthesis",
+      "Calms irritation"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Sensitivity",
+      "Chapped Skin"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-19",
+    "name": "D-Panthenol (Pro-Vitamin B5)",
+    "inciName": "Panthenol",
+    "benefits": [
+      "Deep penetrating humectant",
+      "Strengthens skin healing",
+      "Relieves itching"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Irritation",
+      "Post-Procedure",
+      "Dryness"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-20",
+    "name": "Fermented Black Snail Secretion",
+    "inciName": "Snail Secretion Filtrate",
+    "benefits": [
+      "Elastin recovery",
+      "Micro-scar repairing",
+      "Deep hydration web"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Texture",
+      "Scars",
+      "Dehydration"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-21",
+    "name": "Glycyrrhiza Glabra (Licorice Root)",
+    "inciName": "Glycyrrhiza Glabra Root Extract",
+    "benefits": [
+      "Potent glabridin brightening",
+      "Anti-inflammatory",
+      "UV erythema defense"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Dark Circles",
+      "Pigmentation",
+      "Redness"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-22",
+    "name": "Ferulic Acid (Pure 1%)",
+    "inciName": "Ferulic Acid",
+    "benefits": [
+      "Doubles Vitamin C & E efficacy",
+      "Neutralizes smog & ozone pollutants",
+      "Firming"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Pollution",
+      "Oxidative Aging"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-23",
+    "name": "Coenzyme Q10 (Ubiquinone)",
+    "inciName": "Ubiquinone",
+    "benefits": [
+      "Mitochondrial cellular energy booster",
+      "Defends against photoaging",
+      "Smooths skin"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Tired Skin",
+      "Fine Lines"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-24",
+    "name": "Lactic Acid (AHA 5%)",
+    "inciName": "Lactic Acid",
+    "benefits": [
+      "Gentle mild exfoliation",
+      "Natural moisturizing factor (NMF)",
+      "Instant silkiness"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Dryness",
+      "Keratosis",
+      "Uneven Texture"
+    ],
+    "safetyRating": 5
+  },
+  {
+    "id": "ing-25",
+    "name": "Tranexamic Acid 3%",
+    "inciName": "Tranexamic Acid",
+    "benefits": [
+      "Blocks plasmin-induced melanogenesis",
+      "Erases stubborn melasma",
+      "Evens tone"
+    ],
+    "contraindications": [],
+    "concernTags": [
+      "Melasma",
+      "PIH",
+      "Discoloration"
+    ],
+    "safetyRating": 5
+  }
+]

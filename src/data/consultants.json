@@ -1,0 +1,211 @@
+[
+  {
+    "id": "cons-1",
+    "name": "Dr. Meera Nambiar",
+    "slug": "dr-meera-nambiar",
+    "title": "Chief Aesthetic Dermatologist & MD",
+    "qualifications": "MD Dermatology, Venereology & Leprosy (AIIMS New Delhi), Fellow in Aesthetic Laser Medicine (Singapore)",
+    "bio": "Dr. Meera Nambiar is an internationally acclaimed cosmetic dermatologist with over 14 years of clinical mastery. She leads Celebs Alley's clinical AI calibration board and specializes in recalcitrant melasma, post-inflammatory hyperpigmentation, and sub-dermal barrier restoration.",
+    "specialties": [
+      "AI Skin Diagnostics",
+      "Melasma Correction",
+      "Barrier Rehabilitation",
+      "Clinical Peels"
+    ],
+    "languages": ["English", "Hindi", "Malayalam"],
+    "experienceYears": 14,
+    "rating": 4.96,
+    "reviewsCount": 412,
+    "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80",
+    "consultationFee": 1500,
+    "status": "active",
+    "modeAvailability": ["video", "in-clinic"],
+    "availability": [
+      "Mon 10:00-14:00",
+      "Wed 14:00-18:00",
+      "Sat 11:00-16:00"
+    ],
+    "testimonials": [
+      {
+        "author": "Ananya Singhania",
+        "rating": 5,
+        "comment": "Dr. Meera decoded my hormonal pigmentation like no one else before. The AI scan plus her 30-day regimen cleared my dark spots completely."
+      },
+      {
+        "author": "Priya Varma",
+        "rating": 5,
+        "comment": "Incredible attention to detail. She adjusted my retinal strength perfectly without any flaking or irritation."
+      }
+    ]
+  },
+  {
+    "id": "cons-2",
+    "name": "Dr. Aditya Singhal",
+    "slug": "dr-aditya-singhal",
+    "title": "Laser & Anti-Aging Specialist, MBBS, DDVL",
+    "qualifications": "MBBS (KMC Manipal), DDVL (CMC Vellore), Board Certified in Laser Dermatology",
+    "bio": "With 11 years of surgical and procedural dermatology expertise, Dr. Aditya is renowned for non-ablative laser resurfacing, RF microneedling, and cellular collagen induction for scarring and texture refinement.",
+    "specialties": [
+      "Retinoid Therapy",
+      "Collagen Induction",
+      "Acne Scar Remodeling",
+      "Laser Toning"
+    ],
+    "languages": ["English", "Hindi", "Punjabi"],
+    "experienceYears": 11,
+    "rating": 4.89,
+    "reviewsCount": 290,
+    "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+    "consultationFee": 1200,
+    "status": "active",
+    "modeAvailability": ["video", "in-clinic"],
+    "availability": [
+      "Tue 11:00-16:00",
+      "Thu 11:00-16:00",
+      "Sun 10:00-13:00"
+    ],
+    "testimonials": [
+      {
+        "author": "Rohan Kapur",
+        "rating": 5,
+        "comment": "Dr. Aditya's RF microneedling protocol smoothed out deep acne scars I had struggled with for a decade. Super professional."
+      }
+    ]
+  },
+  {
+    "id": "cons-3",
+    "name": "Dr. Shalini Deshmukh",
+    "slug": "dr-shalini-deshmukh",
+    "title": "Ayurvedic Cosmetologist & Formulator, MD (Ayu)",
+    "qualifications": "BAMS (Pune), MD Dravyaguna (Vaidya Academy Jaipur), Diploma in Cosmetic Chemistry",
+    "bio": "Dr. Shalini merges classical Ayurvedic toxicology-free botany with modern dermatological bio-conductors. She formulates Celebs Alley's proprietary 24K Swarna Bhasma and Kashmiri Saffron preparations.",
+    "specialties": [
+      "Botanical Ferments",
+      "Holistic Hormonal Acne",
+      "24K Gold Rituals",
+      "Ayurvedic Trichology"
+    ],
+    "languages": ["English", "Hindi", "Marathi"],
+    "experienceYears": 16,
+    "rating": 4.93,
+    "reviewsCount": 520,
+    "avatar": "https://images.unsplash.com/photo-1594824813581-ea0d6b63c9b6?auto=format&fit=crop&w=600&q=80",
+    "consultationFee": 1400,
+    "status": "active",
+    "modeAvailability": ["video", "in-clinic"],
+    "availability": [
+      "Mon 14:00-19:00",
+      "Fri 10:00-15:00",
+      "Sat 10:00-14:00"
+    ],
+    "testimonials": [
+      {
+        "author": "Devika Rathore",
+        "rating": 5,
+        "comment": "The Kanza glow facial ritual and saffron oil routine prescribed by Dr. Shalini gave me the exact glass skin bridal glow I dreamed of."
+      }
+    ]
+  },
+  {
+    "id": "cons-4",
+    "name": "Dr. Sneha Iyer",
+    "slug": "dr-sneha-iyer",
+    "title": "Clinical Photobiologist & Cosmetologist, MD",
+    "qualifications": "MD Dermatology (JIPMER), Fellowship in Photodermatology (Bristol)",
+    "bio": "Specialist in light-based therapeutics, rosacea management, and environmental UV/pollution barrier defense mechanisms with 9 years of clinical research experience.",
+    "specialties": [
+      "LED Phototherapy",
+      "Rosacea Soothing",
+      "Urban Pollution Defense",
+      "Sensitive Barrier Repair"
+    ],
+    "languages": ["English", "Hindi", "Tamil"],
+    "experienceYears": 9,
+    "rating": 4.91,
+    "reviewsCount": 215,
+    "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80",
+    "consultationFee": 1300,
+    "status": "active",
+    "modeAvailability": ["video", "in-clinic"],
+    "availability": [
+      "Tue 10:00-15:00",
+      "Thu 14:00-19:00",
+      "Fri 11:00-16:00"
+    ],
+    "testimonials": [
+      {
+        "author": "Gauri Sharma",
+        "rating": 5,
+        "comment": "My extreme rosacea flushing reduced dramatically after Dr. Sneha's soothing phototherapy regimen."
+      }
+    ]
+  },
+  {
+    "id": "cons-5",
+    "name": "Dr. Radhika Sen",
+    "slug": "dr-radhika-sen",
+    "title": "Chief Pediatric & Barrier Dermatologist, DDV",
+    "qualifications": "MBBS, DDV (Grant Medical College, Mumbai), Fellow in Atopic Dermatitis (Munich)",
+    "bio": "Pioneering cellular lipids researcher focusing on atopic eczema, lipid depletion, and microbiome balancing in high-pollution metropolises.",
+    "specialties": [
+      "Atopic Barrier Recovery",
+      "Ceramide Matrix Restructure",
+      "Microbiome Therapeutics",
+      "Eczema Management"
+    ],
+    "languages": ["English", "Hindi", "Bengali"],
+    "experienceYears": 15,
+    "rating": 4.94,
+    "reviewsCount": 380,
+    "avatar": "https://images.unsplash.com/photo-1594824813581-ea0d6b63c9b6?auto=format&fit=crop&w=600&q=80",
+    "consultationFee": 1600,
+    "status": "active",
+    "modeAvailability": ["video", "in-clinic"],
+    "availability": [
+      "Mon 11:00-15:00",
+      "Wed 11:00-15:00",
+      "Fri 14:00-18:00"
+    ],
+    "testimonials": [
+      {
+        "author": "Kavita Reddy",
+        "rating": 5,
+        "comment": "Restored my daughter's compromised skin barrier in 3 weeks with her gentle lipid emulsion."
+      }
+    ]
+  },
+  {
+    "id": "cons-6",
+    "name": "Dr. Farhan Alvi",
+    "slug": "dr-farhan-alvi",
+    "title": "Dermato-Surgeon & Trichology Specialist, MD",
+    "qualifications": "MD Dermatology (Osmania), Advanced Fellowship in Procedural Cosmetology (Milan)",
+    "bio": "Specializing in procedural chemical peels, sebaceous hyperplasia clearance, and micro-needling collagen synthesis for texture renewal.",
+    "specialties": [
+      "Clinical TCA Cross",
+      "Follicular Remodeling",
+      "Hyper-pigmentation Peels",
+      "Scalp Bio-Nutrients"
+    ],
+    "languages": ["English", "Hindi", "Telugu", "Urdu"],
+    "experienceYears": 12,
+    "rating": 4.88,
+    "reviewsCount": 260,
+    "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+    "consultationFee": 1350,
+    "status": "active",
+    "modeAvailability": ["video", "in-clinic"],
+    "availability": [
+      "Tue 14:00-19:00",
+      "Thu 10:00-14:00",
+      "Sat 12:00-17:00"
+    ],
+    "testimonials": [
+      {
+        "author": "Zeeshan Khan",
+        "rating": 5,
+        "comment": "The TCA cross procedure cleared my ice-pick scarring with zero downtime. Outstanding precision."
+      }
+    ]
+  }
+]

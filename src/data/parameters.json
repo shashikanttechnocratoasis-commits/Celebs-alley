@@ -1,0 +1,154 @@
+[
+  {
+    "id": "param-1",
+    "slug": "hydration",
+    "name": "Hydration",
+    "description": "Measurement of epidermal water retention and cellular moisture levels.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.15,
+    "status": "active",
+    "aiKey": "skin_hydration_index",
+    "displayOrder": 1,
+    "icon": "Droplets",
+    "interpretation": {
+      "low": "Severe transepidermal water loss. Skin barrier requires humectant infusion.",
+      "medium": "Moderate hydration. Minor dryness in seasonal transitions.",
+      "high": "Optimal barrier hydration with supple cellular volume."
+    }
+  },
+  {
+    "id": "param-2",
+    "slug": "oil_balance",
+    "name": "Oil Balance",
+    "description": "Sebum production equilibrium across the T-zone and U-zone facial quadrants.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.12,
+    "status": "active",
+    "aiKey": "sebum_equilibrium_metric",
+    "displayOrder": 2,
+    "icon": "Flame",
+    "interpretation": {
+      "low": "Alipic skin lacking essential lipid barrier oils.",
+      "medium": "Balanced lipidic secretion with minimal sheen.",
+      "high": "Hyperactive sebaceous activity leading to congestion."
+    }
+  },
+  {
+    "id": "param-3",
+    "slug": "texture",
+    "name": "Texture",
+    "description": "Micro-relief smoothness, cellular turnover rate, and dermal topography regularity.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.14,
+    "status": "active",
+    "aiKey": "dermal_topography_smoothness",
+    "displayOrder": 3,
+    "icon": "Layers",
+    "interpretation": {
+      "low": "Keratinized rough patches and sluggish desquamation.",
+      "medium": "Standard dermal texture with localized minor roughness.",
+      "high": "Silky, ultra-refined micro-topography with luminous light reflection."
+    }
+  },
+  {
+    "id": "param-4",
+    "slug": "pigmentation",
+    "name": "Pigmentation",
+    "description": "Melanin distribution uniformity, UV sun spots, and post-inflammatory marks.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.13,
+    "status": "active",
+    "aiKey": "melanin_uniformity_index",
+    "displayOrder": 4,
+    "icon": "Sun",
+    "interpretation": {
+      "low": "Visible dyschromia, solar lentigines, or melasma patches.",
+      "medium": "Subtle localized hyperpigmentation near orbital & malar zones.",
+      "high": "Flawless, crystal-clear tone uniformity with zero visible discoloration."
+    }
+  },
+  {
+    "id": "param-5",
+    "slug": "acne_blemishes",
+    "name": "Acne and Blemishes",
+    "description": "Follicular congestion, comedones, and active inflammatory papules detection.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.14,
+    "status": "active",
+    "aiKey": "comedone_inflammatory_score",
+    "displayOrder": 5,
+    "icon": "ShieldAlert",
+    "interpretation": {
+      "low": "Frequent breakouts, micro-cysts, and active follicular inflammation.",
+      "medium": "Occasional stress-induced or hormonal blemishes.",
+      "high": "Completely clarified, calm complexion free of inflammatory lesions."
+    }
+  },
+  {
+    "id": "param-6",
+    "slug": "fine_lines",
+    "name": "Fine Lines",
+    "description": "Collagen elasticity index, dynamic expression lines, and dermal matrix firmness.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.12,
+    "status": "active",
+    "aiKey": "elastin_matrix_integrity",
+    "displayOrder": 6,
+    "icon": "Activity",
+    "interpretation": {
+      "low": "Pronounced periorbital crow's feet and nascent nasolabial folds.",
+      "medium": "Early dehydration fine lines visible under harsh lighting.",
+      "high": "Plump, youthful elastin tension with resilient rebound."
+    }
+  },
+  {
+    "id": "param-7",
+    "slug": "redness_sensitivity",
+    "name": "Redness and Sensitivity",
+    "description": "Microvascular reactivity, capillary flush, erythema, and barrier fragility.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.1,
+    "status": "active",
+    "aiKey": "erythema_vascular_reactivity",
+    "displayOrder": 7,
+    "icon": "HeartPulse",
+    "interpretation": {
+      "low": "Hypersensitive barrier with persistent flushing or telangiectasia.",
+      "medium": "Mild transient redness triggered by thermal shifts or spicy foods.",
+      "high": "Resilient neurosensory threshold with calm, unperturbed tone."
+    }
+  },
+  {
+    "id": "param-8",
+    "slug": "pore_visibility",
+    "name": "Pore Visibility",
+    "description": "Pilosebaceous ostia diameter and follicular elasticity around central facial zones.",
+    "unit": "%",
+    "minScore": 0,
+    "maxScore": 100,
+    "weight": 0.1,
+    "status": "active",
+    "aiKey": "ostia_dilation_density",
+    "displayOrder": 8,
+    "icon": "Sparkles",
+    "interpretation": {
+      "low": "Dilated, congested follicular pores with visible architectural stretching.",
+      "medium": "Standard visible pores concentrated primarily on nasal wings.",
+      "high": "Porcelain-smooth, tightened pore architecture invisible to the naked eye."
+    }
+  }
+]

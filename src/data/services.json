@@ -1,0 +1,327 @@
+[
+  {
+    "id": "srv-1",
+    "title": "AI Cellular Skin Analysis & Prescription Consultation",
+    "slug": "ai-skin-analysis",
+    "durationMinutes": 45,
+    "price": 1500,
+    "category": "Virtual Dermatology",
+    "description": "One-on-one video consultation with a certified dermatologist to decode your 8-parameter scan results and create a bespoke prescription regimen.",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Sub-surface biological skin profiling across 8 parameters",
+      "Direct 1-on-1 consultation with an MD Dermatologist",
+      "Personalized 30-day morning and evening active prescription",
+      "Exclusive access to medical-grade compounded formulations"
+    ],
+    "idealFor": ["All skin types", "Persistent concerns needing root-cause diagnosis", "Pre-event skin priming"],
+    "notSuitableFor": ["Emergency acute dermatological conditions requiring urgent ER care"],
+    "steps": [
+      { "step": 1, "title": "AI Spectral Capture", "description": "High-resolution multi-angle scan capturing hydration, sebum, pigmentation, and vascular flush." },
+      { "step": 2, "title": "Algorithmic Decomposition", "description": "Neural processing compares your skin metrics against a database of 50,000+ clinical profiles." },
+      { "step": 3, "title": "MD Dermatologist Deep Dive", "description": "45-minute live consultation discussing lifestyle, hormonal triggers, and scan anomalies." },
+      { "step": 4, "title": "Custom Prescription Protocol", "description": "Receive your tailored digital protocol with matched products and dietary guidance." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "note": "Results after 4 weeks of tailored active compounding and dermatologist-guided barrier care."
+    },
+    "faqs": [
+      { "q": "How do I prepare for the AI scan?", "a": "Ensure your face is clean, free of heavy makeup, and seated in balanced natural ambient daylight." },
+      { "q": "Are the prescribed products available on the platform?", "a": "Yes, all verified products and custom compounded actives can be ordered directly from authorized sellers." }
+    ],
+    "relatedServiceIds": ["srv-8", "srv-10", "srv-3"]
+  },
+  {
+    "id": "srv-2",
+    "title": "Royal Gold Kanza Glow Facial Ritual",
+    "slug": "gold-kanza-facial",
+    "durationMinutes": 75,
+    "price": 4500,
+    "category": "In-Clinic Ritual",
+    "description": "Detoxifying marma point lymphatic massage using 24K gold infused botanical elixirs and hand-crafted bronze Kanza wands.",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Immediate lymphatic drainage and sculpting of jawline",
+      "Deep cellular oxygenation with 24K gold nano-particles",
+      "Calming of heated Pitta dosha and facial flushing",
+      "Luminous, camera-ready glass skin radiance"
+    ],
+    "idealFor": ["Dull, stressed complexion", "Pre-wedding & red-carpet events", "Sluggish circulation"],
+    "notSuitableFor": ["Active cystic acne flare-ups", "Severe open eczema lesions"],
+    "steps": [
+      { "step": 1, "title": "Saffron Steam & Double Cleanse", "description": "Pore opening using steamed Kashmiri saffron mist and cold-pressed Kumkumadi cleanser." },
+      { "step": 2, "title": "24K Gold Bhasma Mask", "description": "Application of pure colloidal gold and lotus extract rejuvenation serum." },
+      { "step": 3, "title": "Bronze Kanza Marma Massage", "description": "Rhythmic lymphatic drainage along facial energy meridians to release toxins." },
+      { "step": 4, "title": "Cryo-Herbal Infusion", "description": "Chilled rose quartz globes seal in botanical actives and shrink pore appearance." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "note": "Immediate post-ritual glow: note sculpted cheek contours and heightened optical luminescence."
+    },
+    "faqs": [
+      { "q": "Is real 24K gold used during the treatment?", "a": "Yes, we exclusively utilize Ayush Premium certified 24K edible-grade colloidal nano-bhasma." },
+      { "q": "Is there any downtime?", "a": "Zero downtime. You leave with immediate luminosity suitable for events on the same evening." }
+    ],
+    "relatedServiceIds": ["srv-4", "srv-6", "srv-8"]
+  },
+  {
+    "id": "srv-3",
+    "title": "Clinical Salicylic & AHA Pore Resurfacing Peel",
+    "slug": "clinical-pore-peel",
+    "durationMinutes": 30,
+    "price": 2800,
+    "category": "Clinical Treatment",
+    "description": "Gentle medical-grade multi-acid exfoliation that clears active comedones and refines rough epidermal texture without harsh peeling.",
+    "image": "https://images.unsplash.com/photo-1512290900672-1f5be6cb7529?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Unclogs deep sebaceous filaments and micro-comedones",
+      "Smooths bumpy texture and post-acne pigmentation marks",
+      "Regulates sebum production for up to 3 weeks",
+      "Accelerates basal cellular turnover"
+    ],
+    "idealFor": ["Oily and acne-prone skin", "Enlarged congested pores", "Stubborn blackheads"],
+    "notSuitableFor": ["Active sunburn", "Pregnancy (unless modified)", "Patrons on active oral isotretinoin"],
+    "steps": [
+      { "step": 1, "title": "Pre-Peel Lipid Prep", "description": "Gentle degreasing with chamomile balancing tonic." },
+      { "step": 2, "title": "Targeted Acid Layering", "description": "Controlled application of 20% Salicylic + 10% Mandelic acid complex." },
+      { "step": 3, "title": "Neutralization & Centella Soak", "description": "Thermal neutralizing mist infused with cica and panthenol to calm cellular heat." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "note": "Dramatic reduction in active follicular congestion and refined pore diameter after 2 sessions."
+    },
+    "faqs": [
+      { "q": "Will my skin visibly peel off in sheets?", "a": "No, our modern timed buffered peels produce microscopic sloughing without conspicuous sheets of peeling skin." }
+    ],
+    "relatedServiceIds": ["srv-1", "srv-7", "srv-9"]
+  },
+  {
+    "id": "srv-4",
+    "title": "Cryo-Peptide Firming & Sculpting Therapy",
+    "slug": "cryo-peptide-firming",
+    "durationMinutes": 60,
+    "price": 5200,
+    "category": "In-Clinic Ritual",
+    "description": "Sub-zero controlled cooling combined with concentrated copper tri-peptides for instant facial tightening and micro-circulation reset.",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Sub-zero cryo-vasoconstriction tightening sagging contours",
+      "Deep copper tripeptide GHK-Cu transdermal infusion",
+      "Reduces under-eye puffiness and facial edema",
+      "Stimulates natural fibroblast collagen synthesis"
+    ],
+    "idealFor": ["Loss of firmness", "Under-eye fluid retention", "Post-travel exhaustion"],
+    "notSuitableFor": ["Cold urticaria or severe Raynaud's syndrome"],
+    "steps": [
+      { "step": 1, "title": "Lymphatic Prep & Peptide Serum", "description": "Application of concentrated GHK-Cu bio-peptide serum." },
+      { "step": 2, "title": "Controlled Sub-Zero Cryo Pass", "description": "Precision wand delivering regulated -5°C cooling across facial contour lines." },
+      { "step": 3, "title": "Occlusive Alginate Collagen Shield", "description": "Cooling marine alginate mask locking in peptides for 20 minutes." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "note": "Immediate visible lifting around the jawline and brow arch."
+    },
+    "faqs": [
+      { "q": "Does the cold hurt?", "a": "Not at all; it feels like an invigorating, refreshing chilled mountain breeze." }
+    ],
+    "relatedServiceIds": ["srv-2", "srv-6", "srv-9"]
+  },
+  {
+    "id": "srv-5",
+    "title": "Melasma & Pigmentation Laser Tone Balancing",
+    "slug": "melasma-laser-toning",
+    "durationMinutes": 45,
+    "price": 6500,
+    "category": "Laser Aesthetics",
+    "description": "Medical Q-switched Nd:YAG non-ablative laser targeting deep dermal melanocytes without injuring the epidermis.",
+    "image": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Breaks down deep dermal melasma clusters into tiny particles",
+      "Even out persistent sun spots and hormonal pigmentation",
+      "No epidermal crusting or prolonged social downtime",
+      "Safe for higher Fitzpatrick South Asian skin phototypes"
+    ],
+    "idealFor": ["Stubborn melasma patches", "Sun damage & age spots", "Uneven skin tone"],
+    "notSuitableFor": ["Active open herpes or skin infections", "Recent chemical peels within 10 days"],
+    "steps": [
+      { "step": 1, "title": "Topical Numbing & Cleansing", "description": "Skin sanitization and optional mild topical numbing." },
+      { "step": 2, "title": "Precision Laser Toning", "description": "Multiple low-fluence passes with medical Nd:YAG laser." },
+      { "step": 3, "title": "Post-Laser Soothing Gel", "description": "Chilled aloe, ectoin, and zinc oxide soothing application." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "note": "Significant 70%+ lightening of stubborn malar melasma after 4 sessions."
+    },
+    "faqs": [
+      { "q": "How many sessions are typically required?", "a": "Most patients achieve optimal tone balance within 4 to 6 sessions spaced 3 weeks apart." }
+    ],
+    "relatedServiceIds": ["srv-1", "srv-3", "srv-7"]
+  },
+  {
+    "id": "srv-6",
+    "title": "Hydra-Infusion 7-Step Glass Glow Treatment",
+    "slug": "hydra-glass-glow",
+    "durationMinutes": 60,
+    "price": 3900,
+    "category": "In-Clinic Ritual",
+    "description": "Vortex vacuum extraction followed by multi-molecular weight Hyaluronic acid ultrasonic infusion and antioxidant nourishment.",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Painless vortex extraction of sebum plugs and impurities",
+      "Deep ultrasonic saturation of triple-weight hyaluronic acid",
+      "Instantly quenches dehydrated, flaky stratum corneum",
+      "Provides luminous dewy finish lasting for weeks"
+    ],
+    "idealFor": ["Dehydrated dull skin", "Frequent travelers", "Pre-party rejuvenation"],
+    "notSuitableFor": ["Severe active pustular acne over entire face"],
+    "steps": [
+      { "step": 1, "title": "Vortex Exfoliation", "description": "AHA/BHA solution gently sweeps away dead corneocytes." },
+      { "step": 2, "title": "Vacuum Extraction", "description": "Gentle suction cleanses congested pores painlessly." },
+      { "step": 3, "title": "Ultrasonic Hyaluronic Infusion", "description": "High-frequency ultrasound drives moisture into deep dermal layers." },
+      { "step": 4, "title": "Antioxidant Lock Shield", "description": "Rich peptide-barrier cream seals in maximum hydration." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "note": "Skin hydration index increased by 84% immediately post-procedure."
+    },
+    "faqs": [
+      { "q": "Can I wear makeup after Hydra-Infusion?", "a": "We recommend letting the botanical actives absorb for 6 hours before applying foundation." }
+    ],
+    "relatedServiceIds": ["srv-2", "srv-4", "srv-8"]
+  },
+  {
+    "id": "srv-7",
+    "title": "Rosacea Vascular Soothing & LED Phototherapy",
+    "slug": "rosacea-led-therapy",
+    "durationMinutes": 45,
+    "price": 2200,
+    "category": "Clinical Treatment",
+    "description": "Medical yellow and near-infrared light phototherapy combined with bio-active centella ampoules to calm chronic reactive facial redness.",
+    "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Calms hyperactive dilated micro-capillaries",
+      "Strengthens compromised lipid barrier resilience",
+      "Reduces stinging, burning, and sudden flushing episodes",
+      "Promotes cellular healing without thermal stress"
+    ],
+    "idealFor": ["Rosacea & erythema-prone skin", "Post-treatment sensitivity", "Windburned barrier"],
+    "notSuitableFor": ["Photosensitive medication users (e.g. high-dose tetracyclines)"],
+    "steps": [
+      { "step": 1, "title": "Hypoallergenic Calming Cleanse", "description": "Thermal water and colloidal oat milk cleansing." },
+      { "step": 2, "title": "High-Dose Centella & Ectoin Ampoule", "description": "Pure madecassoside soothing serum applied across redness zones." },
+      { "step": 3, "title": "590nm & 830nm LED Phototherapy", "description": "20-minute medical LED light bath targeting vascular inflammation." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "note": "Complete remission of vascular redness and burning sensation."
+    },
+    "faqs": [
+      { "q": "Does LED therapy produce UV radiation?", "a": "No, our certified medical LED panels produce pure therapeutic visible and near-IR wavelengths with zero ultraviolet rays." }
+    ],
+    "relatedServiceIds": ["srv-1", "srv-3", "srv-10"]
+  },
+  {
+    "id": "srv-8",
+    "title": "Holistic Bridal Radiance 30-Day Regimen Design",
+    "slug": "bridal-radiance-plan",
+    "durationMinutes": 60,
+    "price": 4999,
+    "category": "Virtual Dermatology",
+    "description": "Bespoke countdown routine including dietary antioxidant planning, scheduled clinical treatments, and targeted 24K gold formulations.",
+    "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "End-to-end 30-day scheduled bridal skincare calendar",
+      "AI scan tracking at Days 1, 15, and 28",
+      "Curated bridal kit of 24K gold elixirs and active serums",
+      "Direct WhatsApp access to your assigned dermatologist"
+    ],
+    "idealFor": ["Brides, grooms, and bridal party members", "Milestone celebrations", "Complete skin transformation"],
+    "notSuitableFor": ["Last-minute procedures within 24 hours of marriage ceremony"],
+    "steps": [
+      { "step": 1, "title": "Comprehensive AI Biomarker Scan", "description": "Baseline assessment of barrier status and pigment distribution." },
+      { "step": 2, "title": "Bridal Roadmap Design", "description": "Custom scheduling of peels, facials, and morning/evening actives." },
+      { "step": 3, "title": "Weekly Progress Checkpoints", "description": "Real-time adjustment of formulations for flawless wedding photography." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "note": "Flawless, photo-ready luminous skin achieved on wedding day."
+    },
+    "faqs": [
+      { "q": "How early before the wedding should I begin?", "a": "We recommend starting 4 to 8 weeks prior for maximum cellular remodeling." }
+    ],
+    "relatedServiceIds": ["srv-1", "srv-2", "srv-6"]
+  },
+  {
+    "id": "srv-9",
+    "title": "Microneedling RF Collagen Induction Session",
+    "slug": "microneedling-rf",
+    "durationMinutes": 90,
+    "price": 9500,
+    "category": "Clinical Treatment",
+    "description": "Gold-plated micro-needle fractional radiofrequency for deep acne scar remodeling, pore contraction, and skin laxity improvement.",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Triggers massive new type-I and type-III collagen synthesis",
+      "Permanently reduces ice-pick and boxcar acne scars",
+      "Tightens dilated pore walls",
+      "Custom depth control from 0.5mm to 3.5mm"
+    ],
+    "idealFor": ["Atrophic acne scarring", "Deep facial creases", "Enlarged pore architecture"],
+    "notSuitableFor": ["Active cystic breakouts", "Keloid scar tendencies", "Cardiac pacemakers"],
+    "steps": [
+      { "step": 1, "title": "Topical Anesthesia", "description": "45-minute medical grade numbing cream application." },
+      { "step": 2, "title": "Gold-Plated RF Micro-Needling", "description": "Fractional RF energy delivered precisely at targeted dermal depths." },
+      { "step": 3, "title": "Growth Factor Infusion & Cryo Mask", "description": "Recombinant growth factor serum and soothing collagen sheet mask." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "note": "Dramatic 65% smoothing of deep acne scarring after 3 sessions."
+    },
+    "faqs": [
+      { "q": "What is the expected downtime?", "a": "Mild redness resembling a sunburn for 24-48 hours, fully manageable with our post-procedure soothing balm." }
+    ],
+    "relatedServiceIds": ["srv-3", "srv-4", "srv-5"]
+  },
+  {
+    "id": "srv-10",
+    "title": "Custom Formulation Compounding Consultation",
+    "slug": "custom-compounding",
+    "durationMinutes": 30,
+    "price": 2000,
+    "category": "Virtual Dermatology",
+    "description": "Dermatologist prescribed custom-compounded active serum created specifically for your exact scan metrics and delivered to your doorstep.",
+    "image": "https://images.unsplash.com/photo-1608248597359-2b0c43632938?auto=format&fit=crop&w=1200&q=80",
+    "benefits": [
+      "Exact active concentrations calibrated to your barrier tolerance",
+      "Combines up to 4 clinical actives into a single elegant bottle",
+      "Freshly compounded in sterile ISO 22716 lab facility",
+      "Zero unwanted fillers, fragrance, or drying alcohols"
+    ],
+    "idealFor": ["Multi-concern skin (e.g. adult acne + aging)", "Sensitive skin intolerant to standard formulas"],
+    "notSuitableFor": ["Patrons seeking generic over-the-counter products"],
+    "steps": [
+      { "step": 1, "title": "Biometric Scan Review", "description": "Dermatologist analyzes your sebum, pigment, and hydration metrics." },
+      { "step": 2, "title": "Molecular Formulation Prescription", "description": "Selecting exact percentages (e.g., Niacinamide 4% + Azelaic Acid 8% + Hyaluronic 1.5%)." },
+      { "step": 3, "title": "Sterile Lab Compounding & Express Delivery", "description": "Fresh batch blended and dispatched in UV-protective airless pump bottles." }
+    ],
+    "beforeAfter": {
+      "before": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "after": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "note": "Clear, radiant skin achieved with a single targeted multi-active compound."
+    },
+    "faqs": [
+      { "q": "How long does a compounded bottle last?", "a": "Each 30ml bottle provides a 60-day supply when used as prescribed morning and evening." }
+    ],
+    "relatedServiceIds": ["srv-1", "srv-8", "srv-3"]
+  }
+]

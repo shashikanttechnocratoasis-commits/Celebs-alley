@@ -1,0 +1,88 @@
+[
+  {
+    "id": "rule-safety-allergy",
+    "name": "Mandatory Severe Allergy Hard Exclusion",
+    "description": "Strict exclusion of any formulation containing ingredients flagged in user declared allergy profile. Non-negotiable clinical safety guard.",
+    "conditionType": "allergy_exclude",
+    "actionType": "exclude_ingredients",
+    "priority": 1,
+    "status": "active",
+    "isLocked": true
+  },
+  {
+    "id": "rule-safety-pregnancy",
+    "name": "Maternal Safety & Teratogenic Exclusion",
+    "description": "Automatically filters out high-dose retinoids, salicylic acid (>2%), and hydroquinone for pregnant or nursing profiles.",
+    "conditionType": "pregnancy_safe",
+    "actionType": "exclude_ingredients",
+    "targetIngredientIds": ["ing-retinol", "ing-salicylic"],
+    "priority": 2,
+    "status": "active",
+    "isLocked": true
+  },
+  {
+    "id": "rule-boost-hydration",
+    "name": "Dehydrated Epidermis Moisture Boost",
+    "description": "IF hydration score < 60 THEN boost products mapped to hydration parameter by 20%.",
+    "conditionType": "parameter_score_below",
+    "targetParameterId": "param-1",
+    "threshold": 60,
+    "actionType": "boost_mapped_products",
+    "boostPercent": 20,
+    "priority": 3,
+    "status": "active",
+    "isLocked": false
+  },
+  {
+    "id": "rule-boost-redness",
+    "name": "Erythema & Barrier Repair Elevation",
+    "description": "IF redness score < 55 THEN boost barrier-repairing soothing products by 25%.",
+    "conditionType": "parameter_score_below",
+    "targetParameterId": "param-7",
+    "threshold": 55,
+    "actionType": "boost_mapped_products",
+    "boostPercent": 25,
+    "priority": 4,
+    "status": "active",
+    "isLocked": false
+  },
+  {
+    "id": "rule-boost-oil-balance",
+    "name": "Excess Sebum & Congestion Regulator",
+    "description": "IF oil balance score < 50 THEN boost niacinamide and zinc sebum-control formulations by 15%.",
+    "conditionType": "parameter_score_below",
+    "targetParameterId": "param-2",
+    "threshold": 50,
+    "actionType": "boost_mapped_products",
+    "boostPercent": 15,
+    "priority": 5,
+    "status": "active",
+    "isLocked": false
+  },
+  {
+    "id": "rule-boost-pigmentation",
+    "name": "Hyperpigmentation & Melanin Evening Priority",
+    "description": "IF pigmentation score < 65 THEN boost tyrosinase-inhibiting serums and antioxidants by 18%.",
+    "conditionType": "parameter_score_below",
+    "targetParameterId": "param-5",
+    "threshold": 65,
+    "actionType": "boost_mapped_products",
+    "boostPercent": 18,
+    "priority": 6,
+    "status": "active",
+    "isLocked": false
+  },
+  {
+    "id": "rule-boost-wrinkles",
+    "name": "Collagen Matrix & Deep Crease Restoration",
+    "description": "IF wrinkles score < 50 THEN boost biomimetic peptide and ceramide complexes by 22%.",
+    "conditionType": "parameter_score_below",
+    "targetParameterId": "param-6",
+    "threshold": 50,
+    "actionType": "boost_mapped_products",
+    "boostPercent": 22,
+    "priority": 7,
+    "status": "active",
+    "isLocked": false
+  }
+]

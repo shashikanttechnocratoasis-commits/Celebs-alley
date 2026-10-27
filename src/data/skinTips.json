@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tip-1",
+    "category": "Hydration",
+    "title": "The 30-Second Damp Skin Rule",
+    "tip": "Apply hyaluronic acid serums within 30 seconds of cleansing while the stratum corneum is still damp to lock in 3x more cellular moisture.",
+    "icon": "Droplets",
+    "parameterSlug": "hydration"
+  },
+  {
+    "id": "tip-2",
+    "category": "Barrier Defense",
+    "title": "Ceramides Before Nighttime Rest",
+    "tip": "Trans-epidermal water loss (TEWL) peaks around 2:00 AM. A bio-identical ceramide balm before sleep prevents overnight dehydration.",
+    "icon": "ShieldCheck",
+    "parameterSlug": "redness_sensitivity"
+  },
+  {
+    "id": "tip-3",
+    "category": "Photoprotection",
+    "title": "Two-Finger Rule for Indian UV Indices",
+    "tip": "Measure two full finger lengths of broad-spectrum SPF 50+ to ensure the rated PA++++ protection factor across face and neck.",
+    "icon": "Sun",
+    "parameterSlug": "pigmentation"
+  },
+  {
+    "id": "tip-4",
+    "category": "Cellular Renewal",
+    "title": "The Retinal Sandwich Technique",
+    "tip": "If introducing 0.1% Retinal, layer a light moisturizer underneath first, then active retinal, followed by a nourishing night cream.",
+    "icon": "Sparkles",
+    "parameterSlug": "fine_lines"
+  },
+  {
+    "id": "tip-5",
+    "category": "Sebum Balance",
+    "title": "Niacinamide with Zinc Synergy",
+    "tip": "Applying 10% Niacinamide in the morning regulates pore diameter and reduces mid-day T-zone shine under hot humid weather.",
+    "icon": "Activity",
+    "parameterSlug": "oil_balance"
+  }
+]

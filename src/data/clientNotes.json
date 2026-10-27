@@ -1,0 +1,58 @@
+[
+  {
+    "id": "note-1",
+    "consultantId": "cons-1",
+    "customerId": "cust-1",
+    "appointmentId": "apt-1",
+    "soap": {
+      "subjective": "Patient reports recurrent afternoon tightness across lateral cheekbones and flare-ups following outdoor sun exposure. Experiencing dullness and mild flaking around nasal crevices.",
+      "objective": "AI Biomarker scan revealed Hydration index 72% (mild sub-surface water loss) and Redness 88% (elevated microvascular reactivity). Stratum corneum thickness shows mild lipid compromise. No active cystic papules detected.",
+      "assessment": "Type III barrier impairment driven by transepidermal moisture loss and UV-induced capillary fragility. Skin demonstrates high cellular responsiveness.",
+      "plan": "1. Layer multi-molecular hyaluronic acid AM/PM under lipid ceramide cream.\n2. Prescribe 10% Azelaic Acid + Centella Asiatica serum for erythema control.\n3. Broad-spectrum Mineral SPF 50 reapplication every 3 hours.\n4. Follow-up digital scan review in 4 weeks."
+    },
+    "disclaimer": "Cosmetic wellness guidance, not a medical diagnosis. Formulations provided for skin barrier optimization.",
+    "createdAt": "2026-10-14T12:00:00Z",
+    "updatedAt": "2026-10-14T12:00:00Z",
+    "history": [
+      {
+        "timestamp": "2026-10-14T12:00:00Z",
+        "soap": {
+          "subjective": "Patient reports recurrent afternoon tightness across lateral cheekbones and flare-ups following outdoor sun exposure. Experiencing dullness and mild flaking around nasal crevices.",
+          "objective": "AI Biomarker scan revealed Hydration index 72% (mild sub-surface water loss) and Redness 88% (elevated microvascular reactivity). Stratum corneum thickness shows mild lipid compromise. No active cystic papules detected.",
+          "assessment": "Type III barrier impairment driven by transepidermal moisture loss and UV-induced capillary fragility. Skin demonstrates high cellular responsiveness.",
+          "plan": "1. Layer multi-molecular hyaluronic acid AM/PM under lipid ceramide cream.\n2. Prescribe 10% Azelaic Acid + Centella Asiatica serum for erythema control.\n3. Broad-spectrum Mineral SPF 50 reapplication every 3 hours.\n4. Follow-up digital scan review in 4 weeks."
+        }
+      }
+    ]
+  },
+  {
+    "id": "note-2",
+    "consultantId": "cons-2",
+    "customerId": "cust-2",
+    "appointmentId": "apt-2",
+    "soap": {
+      "subjective": "Patient reports persistent T-zone shine within 90 minutes of morning wash and recurring open comedones along chin apex. No history of topical retinoid sensitivity.",
+      "objective": "Digital scan indicates Oil Balance 38% (hyper-secretion), Pore Visibility 44% (dilated infundibula), and Acne score 52%. Good dermal collagen elasticity (92%).",
+      "assessment": "Seborrheic congestion with secondary micro-comedone formation. High epidermal thickness and robust barrier resilience.",
+      "plan": "1. Salicylic Acid 2% BHA cleansing solution AM.\n2. Encapsulated Retinaldehyde 0.05% every alternate PM.\n3. Oil-free squalane hydrator for night barrier protection."
+    },
+    "disclaimer": "Cosmetic wellness guidance, not a medical diagnosis. Formulations provided for skin barrier optimization.",
+    "createdAt": "2026-10-15T15:00:00Z",
+    "updatedAt": "2026-10-15T15:00:00Z"
+  },
+  {
+    "id": "note-3",
+    "consultantId": "cons-3",
+    "customerId": "cust-4",
+    "appointmentId": "apt-3",
+    "soap": {
+      "subjective": "Bride-to-be seeking luminous radiance and even cellular skin tone for winter wedding. Sensitive to synthetic fragrances.",
+      "objective": "Texture score 91% (smooth), Pigmentation 86%. Mild dullness under optical reflectance sensors. No active irritation.",
+      "assessment": "Normal-combination complexion with suboptimal micro-circulation and early cellular oxidative stress.",
+      "plan": "1. 24K Gold Swarna Bhasma facial nectar nightly with Kanza wand massage.\n2. Kashmiri Kumkumadi saffron elixir drops in AM prior to SPF.\n3. Weekly raw milk and saffron compress."
+    },
+    "disclaimer": "Cosmetic wellness guidance, not a medical diagnosis. Formulations provided for skin barrier optimization.",
+    "createdAt": "2026-10-16T17:15:00Z",
+    "updatedAt": "2026-10-16T17:15:00Z"
+  }
+]

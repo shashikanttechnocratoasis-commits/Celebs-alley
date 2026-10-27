@@ -1,0 +1,154 @@
+[
+  {
+    "role": "Super Admin",
+    "description": "Complete governance over platform, AI parameters, financial commissions, and security audit logs.",
+    "allowedGroups": [
+      "all"
+    ]
+  },
+  {
+    "role": "Admin",
+    "description": "General administration of users, distributors, catalog moderation, and marketing CMS.",
+    "allowedGroups": [
+      "dashboard",
+      "users",
+      "distributors",
+      "marketplace",
+      "commerce",
+      "cms",
+      "support"
+    ]
+  },
+  {
+    "role": "Product Manager",
+    "description": "Manages catalog, categories, ingredients, safety compliance, and brand relationships.",
+    "allowedGroups": [
+      "dashboard",
+      "marketplace",
+      "cms"
+    ]
+  },
+  {
+    "role": "AI/Rule Manager",
+    "description": "Configures the 8 skin parameters, AI diagnostic rules, weights, and scoring thresholds.",
+    "allowedGroups": [
+      "dashboard",
+      "ai_engine"
+    ]
+  },
+  {
+    "role": "Distributor Owner",
+    "description": "Full ownership of distributor SaaS portal, revenue analytics, staff, and subscription.",
+    "allowedGroups": [
+      "seller_dashboard",
+      "seller_products",
+      "seller_inventory",
+      "seller_orders",
+      "seller_customers",
+      "seller_analytics",
+      "seller_staff",
+      "seller_subscription",
+      "seller_payouts",
+      "seller_settings"
+    ]
+  },
+  {
+    "role": "Distributor Manager",
+    "description": "Operational management of catalog, orders, and customer queries.",
+    "allowedGroups": [
+      "seller_dashboard",
+      "seller_products",
+      "seller_inventory",
+      "seller_orders",
+      "seller_customers",
+      "seller_settings"
+    ]
+  },
+  {
+    "role": "Inventory Manager",
+    "description": "Focused solely on warehouse stock updates, SKU tracking, and low-stock alerts.",
+    "allowedGroups": [
+      "seller_dashboard",
+      "seller_inventory",
+      "seller_products"
+    ]
+  },
+  {
+    "role": "Order Manager",
+    "description": "Full processing of shipment queue, packing slips, courier dispatch, and return decisions.",
+    "allowedGroups": [
+      "seller_dashboard",
+      "seller_orders",
+      "seller_products",
+      "seller_inventory"
+    ]
+  },
+  {
+    "role": "Sales Executive",
+    "description": "Handles distributor customer orders, shipping labels, and customer communication.",
+    "allowedGroups": [
+      "seller_dashboard",
+      "seller_orders",
+      "seller_customers"
+    ]
+  },
+  {
+    "role": "Accountant",
+    "description": "Manages platform payouts, settlement cycles, GST invoices, and subscription expenses.",
+    "allowedGroups": [
+      "seller_dashboard",
+      "seller_payouts",
+      "seller_subscription",
+      "seller_analytics"
+    ]
+  },
+  {
+    "role": "Consultant",
+    "description": "Dermatologist and skin specialist handling appointments, diagnosis, and custom regimens.",
+    "allowedGroups": [
+      "consultant_dashboard",
+      "consultant_appointments",
+      "consultant_clients",
+      "consultant_plans",
+      "consultant_availability",
+      "consultant_messages",
+      "consultant_profile"
+    ]
+  },
+  {
+    "role": "Customer",
+    "description": "End consumer receiving AI skin scans, curated routines, and multi-seller checkout.",
+    "allowedGroups": [
+      "customer_home",
+      "customer_scan",
+      "customer_results",
+      "customer_shop",
+      "customer_cart",
+      "customer_orders",
+      "customer_wishlist",
+      "customer_consultations",
+      "customer_profile",
+      "customer_privacy"
+    ]
+  },
+  {
+    "role": "Support Agent",
+    "description": "Customer care specialist assisting with orders, refunds, and inquiries.",
+    "allowedGroups": [
+      "dashboard",
+      "support",
+      "commerce_orders"
+    ]
+  },
+  {
+    "role": "Finance Manager",
+    "description": "Governs platform commissions, distributor payouts, refunds, and financial ledgers.",
+    "allowedGroups": [
+      "dashboard",
+      "finance",
+      "commerce_payments",
+      "commerce_payouts",
+      "commerce_commissions"
+    ]
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "q-age",
+    "stepNumber": 1,
+    "category": "Demographics",
+    "title": "What is your age range?",
+    "description": "Biological dermal renewal cycles shift with each decade, influencing collagen synthesis and lipid retention.",
+    "type": "single",
+    "key": "ageRange",
+    "options": [
+      {
+        "label": "Under 22 years",
+        "value": "18-22",
+        "hint": "Focus on sebum balance & barrier fortification."
+      },
+      {
+        "label": "23 – 32 years",
+        "value": "23-32",
+        "hint": "Focus on early oxidative defense & deep hydration."
+      },
+      {
+        "label": "33 – 45 years",
+        "value": "33-45",
+        "hint": "Focus on cellular turnover & pigmentation correction."
+      },
+      {
+        "label": "46+ years",
+        "value": "46+",
+        "hint": "Focus on lipid replenishment, peptides & structural density."
+      }
+    ]
+  },
+  {
+    "id": "q-gender",
+    "stepNumber": 2,
+    "category": "Demographics",
+    "title": "Gender Identification (Optional)",
+    "description": "Androgen levels and epidermal thickness vary slightly across hormonal profiles.",
+    "type": "single",
+    "key": "gender",
+    "optional": true,
+    "options": [
+      {
+        "label": "Female",
+        "value": "female"
+      },
+      {
+        "label": "Male",
+        "value": "male"
+      },
+      {
+        "label": "Non-binary / Other",
+        "value": "non_binary"
+      },
+      {
+        "label": "Prefer not to disclose",
+        "value": "undisclosed"
+      }
+    ]
+  },
+  {
+    "id": "q-skintype",
+    "stepNumber": 3,
+    "category": "Skin Baseline",
+    "title": "How does your skin feel 2 hours after washing with water?",
+    "description": "Establishes your baseline transepidermal lipid replenishment rate.",
+    "type": "single",
+    "key": "skinType",
+    "options": [
+      {
+        "label": "Tight, parched & demanding rich cream",
+        "value": "dry",
+        "hint": "Depleted natural moisturizing factors."
+      },
+      {
+        "label": "Comfortable cheeks, but shiny along T-zone",
+        "value": "combination",
+        "hint": "Classic localized combination sebum gradient."
+      },
+      {
+        "label": "Glossy & slick across the entire face",
+        "value": "oily",
+        "hint": "Hyperactive sebaceous gland output."
+      },
+      {
+        "label": "Easily flushed, burning or stinging",
+        "value": "sensitive",
+        "hint": "Elevated neuro-vascular reactivity."
+      }
+    ]
+  },
+  {
+    "id": "q-concerns",
+    "stepNumber": 4,
+    "category": "Clinical Concerns",
+    "title": "What specific concerns would you like to address?",
+    "description": "Select all that apply. Our AI matrix will prioritize these in formulation scoring.",
+    "type": "multiple",
+    "key": "skinConcerns",
+    "options": [
+      {
+        "label": "Dehydration & Lack of Plumpness",
+        "value": "Dehydration"
+      },
+      {
+        "label": "Sun Melasma & Uneven Hyperpigmentation",
+        "value": "Pigmentation"
+      },
+      {
+        "label": "Fine Expression Lines & Loss of Elasticity",
+        "value": "Fine Lines"
+      },
+      {
+        "label": "Facial Redness, Rosacea & Heat Flush",
+        "value": "Redness"
+      },
+      {
+        "label": "Enlarged Pores & Congestion / Blackheads",
+        "value": "Enlarged Pores"
+      },
+      {
+        "label": "Rough Texture & Lack of Natural Radiance",
+        "value": "Dullness"
+      },
+      {
+        "label": "Active Hormonal Acne / Blemishes",
+        "value": "Acne"
+      }
+    ]
+  },
+  {
+    "id": "q-allergies",
+    "stepNumber": 5,
+    "category": "Safety & Sensitivities",
+    "title": "Known Allergies or Ingredient Sensitivities",
+    "description": "The formula engine strictly eliminates matched contraindications.",
+    "type": "multiple",
+    "key": "allergies",
+    "options": [
+      {
+        "label": "No Known Allergies (None)",
+        "value": "none"
+      },
+      {
+        "label": "Synthetic Fragrance / Perfumes",
+        "value": "fragrance"
+      },
+      {
+        "label": "Essential Oils (Eucalyptus, Citrus, Lavender)",
+        "value": "essential_oils"
+      },
+      {
+        "label": "Prescription Retinoids (Tretinoin/Adapalene sensitivity)",
+        "value": "retinoids"
+      },
+      {
+        "label": "Salicylic Acid / Aspirin / BHA",
+        "value": "salicylates"
+      },
+      {
+        "label": "Niacinamide Flush Sensitivity",
+        "value": "niacinamide"
+      },
+      {
+        "label": "Other Botanical Sensitivities",
+        "value": "other"
+      }
+    ]
+  },
+  {
+    "id": "q-routine",
+    "stepNumber": 6,
+    "category": "Current Regimen",
+    "title": "What is your current daily skincare commitment?",
+    "description": "Helps us recommend a routine complexity you will enjoy maintaining.",
+    "type": "single",
+    "key": "currentRoutine",
+    "options": [
+      {
+        "label": "Minimalist (Cleanser + Moisturizer + Sunscreen)",
+        "value": "minimal",
+        "hint": "3 high-impact multi-functional steps."
+      },
+      {
+        "label": "Intermediate (Includes 1-2 targeted active serums)",
+        "value": "moderate",
+        "hint": "Balanced morning protection and night renewal."
+      },
+      {
+        "label": "Advanced Connoisseur (5+ steps with toners, essences, retinoids)",
+        "value": "advanced",
+        "hint": "Complete bespoke multi-step layering."
+      },
+      {
+        "label": "Brand New (No current routine)",
+        "value": "none",
+        "hint": "Gentle step-by-step introduction."
+      }
+    ]
+  },
+  {
+    "id": "q-lifestyle",
+    "stepNumber": 7,
+    "category": "Environmental & Lifestyle",
+    "title": "Environmental Exposure & Wellness Factors",
+    "description": "External UV index, blue light, and systemic recovery influence skin longevity.",
+    "type": "slider_group",
+    "key": "lifestyle",
+    "subQuestions": [
+      {
+        "key": "sunExposure",
+        "label": "Daily Outdoor Sun Exposure",
+        "options": ["< 1 hour", "1 – 3 hours", "3 – 5 hours", "5+ hours"]
+      },
+      {
+        "key": "sleepHours",
+        "label": "Average Nightly Sleep",
+        "options": ["< 5 hours", "5 – 6 hours", "7 – 8 hours", "8+ hours"]
+      },
+      {
+        "key": "waterIntake",
+        "label": "Daily Water Hydration",
+        "options": ["< 1.5 Liters", "1.5 – 2.5 Liters", "3+ Liters"]
+      },
+      {
+        "key": "stressLevel",
+        "label": "Current Stress / Cortisol Level",
+        "options": ["Low / Relaxed", "Moderate", "High / Intense"]
+      }
+    ]
+  },
+  {
+    "id": "q-special",
+    "stepNumber": 8,
+    "category": "Special Conditions",
+    "title": "Special Biological Considerations",
+    "description": "Certain clinical ingredients (e.g. high-dose retinoids, salicylic acid) are contraindicated during pregnancy and breastfeeding.",
+    "type": "single",
+    "key": "pregnantOrNursing",
+    "options": [
+      {
+        "label": "Not Applicable",
+        "value": "not_applicable"
+      },
+      {
+        "label": "Currently Pregnant",
+        "value": "pregnant",
+        "hint": "Safe phyto-bakuchiol & azelaic acid will be prioritized."
+      },
+      {
+        "label": "Currently Breastfeeding",
+        "value": "nursing",
+        "hint": "Gentle, non-systemic bio-actives will be selected."
+      },
+      {
+        "label": "Prefer not to say",
+        "value": "undisclosed"
+      }
+    ]
+  }
+]

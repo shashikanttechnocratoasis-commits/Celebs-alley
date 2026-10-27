@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "badge": "ROYAL HERITAGE & AI DERMATOLOGY",
+    "headline": "Where Ancient Alchemy Meets Artificial Intelligence",
+    "scriptAccent": "Starts Here",
+    "description": "Experience India's first multi-spectral AI skin diagnostics combined with 24K gold formulations and bespoke clinical treatments prescribed by top dermatologists.",
+    "ctaPrimary": { "label": "Book Consultation", "href": "/book" },
+    "ctaSecondary": { "label": "Try AI Analysis", "href": "/technology" },
+    "trustBadges": [
+      { "id": "tb-1", "icon": "Cpu", "title": "AI-Powered Skin Analysis", "subtitle": "8 Spectral Metrics" },
+      { "id": "tb-2", "icon": "Sparkles", "title": "Personalized Solutions", "subtitle": "100% Bespoke Regimens" },
+      { "id": "tb-3", "icon": "ShieldCheck", "title": "Clinically Proven", "subtitle": "Dermatologist Validated" },
+      { "id": "tb-4", "icon": "Users", "title": "Trusted Experts", "subtitle": "Leading MD Specialists" }
+    ]
+  },
+  "benefits": [
+    {
+      "id": "ben-1",
+      "number": "01",
+      "title": "Sub-Surface Cellular Diagnostic",
+      "description": "Our neural vision model scans deep melanin distribution, hydration gradient, and micro-capillaries invisible to the naked eye."
+    },
+    {
+      "id": "ben-2",
+      "number": "02",
+      "title": "Clean Formulations, Royal Potency",
+      "description": "Every formulation pairs Kashmiri Mogra saffron, 24K gold bhasma, and clinical bio-peptides without parabens or harsh fillers."
+    },
+    {
+      "id": "ben-3",
+      "number": "03",
+      "title": "Direct MD Dermatologist Supervision",
+      "description": "Seamless video or in-clinic consultations with certified aesthetic dermatologists who calibrate your routine monthly."
+    }
+  ],
+  "about": {
+    "story": {
+      "subtitle": "OUR HERITAGE & VISION",
+      "title": "Born in the Royal Corridors of Rajasthan, Engineered for the World",
+      "p1": "Celebs Alley was founded with a singular conviction: that modern cosmetic science should not discard centuries of royal botanical wisdom, nor should traditional care operate without modern scientific precision.",
+      "p2": "From our flagship center in Kota, Rajasthan, we pioneered a unified architecture that unites multi-spectral artificial intelligence with clinical dermatology and authentic Ayurvedic alchemy.",
+      "p3": "Today, Celebs Alley powers consultations and bespoke treatment plans for over 48,000 discerning patrons across 24 Indian cities."
+    },
+    "mission": {
+      "title": "Our Sacred Mission",
+      "description": "To democratize clinical-grade dermatological intelligence and deliver hyper-personalized luxury wellness regimens that restore cellular vitality from within."
+    },
+    "vision": {
+      "title": "Our Global Vision",
+      "description": "To become the global gold standard in AI-driven aesthetic wellness, harmonizing ancient heritage with cutting-edge computer vision."
+    },
+    "values": [
+      {
+        "id": "val-1",
+        "icon": "Award",
+        "title": "Absolute Purity",
+        "description": "Ethically sourced rare botanical extracts and lab-certified 24K gold nano-compounds."
+      },
+      {
+        "id": "val-2",
+        "icon": "Cpu",
+        "title": "Evidence-Based AI",
+        "description": "All algorithmic diagnostics are peer-reviewed and verified by board-certified dermatologists."
+      },
+      {
+        "id": "val-3",
+        "icon": "HeartHandshake",
+        "title": "Patient-Centric Care",
+        "description": "Zero cookie-cutter prescriptions. Every customer gets a unique regimen adapted to their climate and lifestyle."
+      },
+      {
+        "id": "val-4",
+        "icon": "Shield",
+        "title": "Privacy & Trust",
+        "description": "Your biometric face-scan data is encrypted end-to-end and never sold to third-party advertisers."
+      }
+    ]
+  }
+}

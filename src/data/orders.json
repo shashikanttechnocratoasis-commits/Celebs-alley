@@ -1,0 +1,657 @@
+[
+  {
+    "id": "ord-1001",
+    "orderNumber": "CA-2026-8810",
+    "customerId": "cust-1",
+    "customerName": "Ritu Kapoor",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-1",
+        "name": "Golden Elixir Cellular Infusion Serum",
+        "quantity": 1,
+        "unitPrice": 4462,
+        "total": 4462
+      },
+      {
+        "productId": "prod-2",
+        "name": "Cica Barrier Soothing Calming Gel-Cream",
+        "quantity": 1,
+        "unitPrice": 2714,
+        "total": 2714
+      }
+    ],
+    "subtotal": 7176,
+    "discount": 500,
+    "tax": 1201,
+    "shippingFee": 0,
+    "total": 7877,
+    "status": "delivered",
+    "paymentMethod": "UPI (Google Pay)",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "42 Royal Orchid Heights, Civil Lines",
+      "city": "Kota",
+      "state": "Rajasthan",
+      "pincode": "324001"
+    },
+    "createdAt": "2026-09-28T14:20:00Z"
+  },
+  {
+    "id": "ord-1002",
+    "orderNumber": "CA-2026-8811",
+    "customerId": "cust-3",
+    "customerName": "Natasha Roy",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-5",
+        "name": "Overnight Chrono-Retinal 0.1% Intensive Fluid",
+        "quantity": 1,
+        "unitPrice": 5704,
+        "total": 5704
+      },
+      {
+        "productId": "prod-18",
+        "name": "Midnight Royal Truffle Restorative Sleeping Cream",
+        "quantity": 1,
+        "unitPrice": 5980,
+        "total": 5980
+      }
+    ],
+    "subtotal": 11684,
+    "discount": 1000,
+    "tax": 1923,
+    "shippingFee": 0,
+    "total": 12607,
+    "status": "shipped",
+    "paymentMethod": "Credit Card (HDFC Infinia)",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "12A Park Street, Flat 4B",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "700016"
+    },
+    "createdAt": "2026-10-05T11:15:00Z"
+  },
+  {
+    "id": "ord-1003",
+    "orderNumber": "CA-2026-8812",
+    "customerId": "cust-2",
+    "customerName": "Aarav Mehta",
+    "sellerId": "seller-2",
+    "items": [
+      {
+        "productId": "prod-4",
+        "name": "Pore-Clarifying Niacinamide 10% + Zinc PCA 1%",
+        "quantity": 1,
+        "unitPrice": 1377,
+        "total": 1377
+      },
+      {
+        "productId": "prod-13",
+        "name": "Clarifying Salicylic & BHA Foaming Mousse",
+        "quantity": 1,
+        "unitPrice": 1567,
+        "total": 1567
+      }
+    ],
+    "subtotal": 2944,
+    "discount": 0,
+    "tax": 530,
+    "shippingFee": 99,
+    "total": 3573,
+    "status": "processing",
+    "paymentMethod": "UPI (Paytm)",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "B-204 Vasant Vihar",
+      "city": "New Delhi",
+      "state": "Delhi NCR",
+      "pincode": "110057"
+    },
+    "createdAt": "2026-10-07T09:40:00Z"
+  },
+  {
+    "id": "ord-1004",
+    "orderNumber": "CA-2026-8813",
+    "customerId": "cust-4",
+    "customerName": "Devika Chauhan",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-3",
+        "name": "Saffron & 24K Gold Royal Luster Oil",
+        "quantity": 1,
+        "unitPrice": 4968,
+        "total": 4968
+      },
+      {
+        "productId": "prod-8",
+        "name": "Tranexamic & Kojic Dark Spot Fading Concentrate",
+        "quantity": 1,
+        "unitPrice": 2576,
+        "total": 2576
+      }
+    ],
+    "subtotal": 7544,
+    "discount": 750,
+    "tax": 1222,
+    "shippingFee": 0,
+    "total": 8016,
+    "status": "pending",
+    "paymentMethod": "NetBanking (ICICI)",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "108 C-Scheme, Ashok Nagar",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "302001"
+    },
+    "createdAt": "2026-10-08T16:50:00Z"
+  },
+  {
+    "id": "ord-1005",
+    "orderNumber": "CA-2026-8814",
+    "customerId": "cust-6",
+    "customerName": "Zoya Akhtar",
+    "sellerId": "seller-3",
+    "items": [
+      {
+        "productId": "prod-2",
+        "name": "Cica Barrier Soothing Calming Gel-Cream",
+        "quantity": 2,
+        "unitPrice": 2655,
+        "total": 5310
+      },
+      {
+        "productId": "prod-15",
+        "name": "Azelaic & Allantoin Rosacea Rescue Balm",
+        "quantity": 1,
+        "unitPrice": 2340,
+        "total": 2340
+      }
+    ],
+    "subtotal": 7650,
+    "discount": 500,
+    "tax": 1287,
+    "shippingFee": 0,
+    "total": 8437,
+    "status": "delivered",
+    "paymentMethod": "Credit Card (Amex)",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "Villa 14, Palm Avenue, Juhu",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400049"
+    },
+    "createdAt": "2026-09-20T10:05:00Z"
+  },
+  {
+    "id": "ord-1006",
+    "orderNumber": "CA-2026-8816",
+    "customerId": "cust-7",
+    "customerName": "Ishaan Khatter",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-7",
+        "name": "Desert Shield Invisible UV Veil SPF 50+ PA++++",
+        "quantity": 1,
+        "unitPrice": 2205,
+        "total": 2205
+      }
+    ],
+    "subtotal": 2205,
+    "discount": 300,
+    "tax": 441,
+    "shippingFee": 99,
+    "total": 2646,
+    "status": "shipped",
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-16T12:00:00Z"
+  },
+  {
+    "id": "ord-1007",
+    "orderNumber": "CA-2026-8817",
+    "customerId": "cust-8",
+    "customerName": "Tara Sutaria",
+    "sellerId": "seller-2",
+    "items": [
+      {
+        "productId": "prod-8",
+        "name": "Tranexamic & Kojic Dark Spot Fading Concentrate",
+        "quantity": 1,
+        "unitPrice": 2520,
+        "total": 2520
+      }
+    ],
+    "subtotal": 2520,
+    "discount": 0,
+    "tax": 504,
+    "shippingFee": 0,
+    "total": 3024,
+    "status": "processing",
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-17T12:00:00Z"
+  },
+  {
+    "id": "ord-1008",
+    "orderNumber": "CA-2026-8818",
+    "customerId": "cust-9",
+    "customerName": "Siddharth Rao",
+    "sellerId": "seller-3",
+    "items": [
+      {
+        "productId": "prod-9",
+        "name": "Aqua-Polyglutamic Glass Hydra Gel Mask",
+        "quantity": 1,
+        "unitPrice": 1665,
+        "total": 1665
+      }
+    ],
+    "subtotal": 1665,
+    "discount": 300,
+    "tax": 333,
+    "shippingFee": 0,
+    "total": 1998,
+    "status": "pending",
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-18T12:00:00Z"
+  },
+  {
+    "id": "ord-1009",
+    "orderNumber": "CA-2026-8819",
+    "customerId": "cust-10",
+    "customerName": "Alia Bhatt",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-10",
+        "name": "Royale Bee Peptide Micro-Firming Eye Cream",
+        "quantity": 1,
+        "unitPrice": 3690,
+        "total": 3690
+      }
+    ],
+    "subtotal": 3690,
+    "discount": 0,
+    "tax": 738,
+    "shippingFee": 99,
+    "total": 4428,
+    "status": "cancelled",
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "failed",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-19T12:00:00Z"
+  },
+  {
+    "id": "ord-1010",
+    "orderNumber": "CA-2026-8820",
+    "customerId": "cust-11",
+    "customerName": "Ranbir Kapoor",
+    "sellerId": "seller-2",
+    "items": [
+      {
+        "productId": "prod-1",
+        "name": "Golden Elixir Cellular Infusion Serum",
+        "quantity": 1,
+        "unitPrice": 4365,
+        "total": 4365
+      }
+    ],
+    "subtotal": 4365,
+    "discount": 300,
+    "tax": 873,
+    "shippingFee": 0,
+    "total": 5238,
+    "status": "delivered",
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-20T12:00:00Z"
+  },
+  {
+    "id": "ord-1011",
+    "orderNumber": "CA-2026-8821",
+    "customerId": "cust-12",
+    "customerName": "Pooja Hegde",
+    "sellerId": "seller-3",
+    "items": [
+      {
+        "productId": "prod-2",
+        "name": "Cica Barrier Soothing Calming Gel-Cream",
+        "quantity": 1,
+        "unitPrice": 2655,
+        "total": 2655
+      }
+    ],
+    "subtotal": 2655,
+    "discount": 0,
+    "tax": 531,
+    "shippingFee": 0,
+    "total": 3186,
+    "status": "shipped",
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-21T12:00:00Z"
+  },
+  {
+    "id": "ord-1012",
+    "orderNumber": "CA-2026-8822",
+    "customerId": "cust-1",
+    "customerName": "Ritu Kapoor",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-3",
+        "name": "Saffron & 24K Gold Royal Luster Oil",
+        "quantity": 1,
+        "unitPrice": 4860,
+        "total": 4860
+      }
+    ],
+    "subtotal": 4860,
+    "discount": 300,
+    "tax": 972,
+    "shippingFee": 99,
+    "total": 5832,
+    "status": "processing",
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-22T12:00:00Z"
+  },
+  {
+    "id": "ord-1013",
+    "orderNumber": "CA-2026-8823",
+    "customerId": "cust-2",
+    "customerName": "Aarav Mehta",
+    "sellerId": "seller-2",
+    "items": [
+      {
+        "productId": "prod-4",
+        "name": "Pore-Clarifying Niacinamide 10% + Zinc PCA 1%",
+        "quantity": 1,
+        "unitPrice": 1305,
+        "total": 1305
+      }
+    ],
+    "subtotal": 1305,
+    "discount": 0,
+    "tax": 261,
+    "shippingFee": 0,
+    "total": 1566,
+    "status": "pending",
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-23T12:00:00Z"
+  },
+  {
+    "id": "ord-1014",
+    "orderNumber": "CA-2026-8824",
+    "customerId": "cust-3",
+    "customerName": "Natasha Roy",
+    "sellerId": "seller-3",
+    "items": [
+      {
+        "productId": "prod-5",
+        "name": "Overnight Chrono-Retinal 0.1% Intensive Fluid",
+        "quantity": 1,
+        "unitPrice": 5580,
+        "total": 5580
+      }
+    ],
+    "subtotal": 5580,
+    "discount": 300,
+    "tax": 1116,
+    "shippingFee": 0,
+    "total": 6696,
+    "status": "cancelled",
+    "paymentMethod": "UPI",
+    "paymentStatus": "failed",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-24T12:00:00Z"
+  },
+  {
+    "id": "ord-1015",
+    "orderNumber": "CA-2026-8825",
+    "customerId": "cust-4",
+    "customerName": "Devika Chauhan",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-6",
+        "name": "Pure Silk Velvet Cleansing Balm",
+        "quantity": 1,
+        "unitPrice": 2880,
+        "total": 2880
+      }
+    ],
+    "subtotal": 2880,
+    "discount": 0,
+    "tax": 576,
+    "shippingFee": 99,
+    "total": 3456,
+    "status": "delivered",
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-25T12:00:00Z"
+  },
+  {
+    "id": "ord-1016",
+    "orderNumber": "CA-2026-8826",
+    "customerId": "cust-5",
+    "customerName": "Karan Johar",
+    "sellerId": "seller-2",
+    "items": [
+      {
+        "productId": "prod-7",
+        "name": "Desert Shield Invisible UV Veil SPF 50+ PA++++",
+        "quantity": 1,
+        "unitPrice": 2205,
+        "total": 2205
+      }
+    ],
+    "subtotal": 2205,
+    "discount": 300,
+    "tax": 441,
+    "shippingFee": 0,
+    "total": 2646,
+    "status": "shipped",
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-26T12:00:00Z"
+  },
+  {
+    "id": "ord-1017",
+    "orderNumber": "CA-2026-8827",
+    "customerId": "cust-6",
+    "customerName": "Zoya Akhtar",
+    "sellerId": "seller-3",
+    "items": [
+      {
+        "productId": "prod-8",
+        "name": "Tranexamic & Kojic Dark Spot Fading Concentrate",
+        "quantity": 1,
+        "unitPrice": 2520,
+        "total": 2520
+      }
+    ],
+    "subtotal": 2520,
+    "discount": 0,
+    "tax": 504,
+    "shippingFee": 0,
+    "total": 3024,
+    "status": "processing",
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-27T12:00:00Z"
+  },
+  {
+    "id": "ord-1018",
+    "orderNumber": "CA-2026-8828",
+    "customerId": "cust-7",
+    "customerName": "Ishaan Khatter",
+    "sellerId": "seller-1",
+    "items": [
+      {
+        "productId": "prod-9",
+        "name": "Aqua-Polyglutamic Glass Hydra Gel Mask",
+        "quantity": 1,
+        "unitPrice": 1665,
+        "total": 1665
+      }
+    ],
+    "subtotal": 1665,
+    "discount": 300,
+    "tax": 333,
+    "shippingFee": 99,
+    "total": 1998,
+    "status": "pending",
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-10T12:00:00Z"
+  },
+  {
+    "id": "ord-1019",
+    "orderNumber": "CA-2026-8829",
+    "customerId": "cust-8",
+    "customerName": "Tara Sutaria",
+    "sellerId": "seller-2",
+    "items": [
+      {
+        "productId": "prod-10",
+        "name": "Royale Bee Peptide Micro-Firming Eye Cream",
+        "quantity": 1,
+        "unitPrice": 3690,
+        "total": 3690
+      }
+    ],
+    "subtotal": 3690,
+    "discount": 0,
+    "tax": 738,
+    "shippingFee": 0,
+    "total": 4428,
+    "status": "cancelled",
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "failed",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-11T12:00:00Z"
+  },
+  {
+    "id": "ord-1020",
+    "orderNumber": "CA-2026-8830",
+    "customerId": "cust-9",
+    "customerName": "Siddharth Rao",
+    "sellerId": "seller-3",
+    "items": [
+      {
+        "productId": "prod-1",
+        "name": "Golden Elixir Cellular Infusion Serum",
+        "quantity": 1,
+        "unitPrice": 4365,
+        "total": 4365
+      }
+    ],
+    "subtotal": 4365,
+    "discount": 300,
+    "tax": 873,
+    "shippingFee": 0,
+    "total": 5238,
+    "status": "delivered",
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "shippingAddress": {
+      "street": "102 Heritage Residency",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    },
+    "createdAt": "2026-09-12T12:00:00Z"
+  }
+]

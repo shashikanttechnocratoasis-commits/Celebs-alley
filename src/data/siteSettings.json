@@ -1,0 +1,22 @@
+{
+  "siteName": "Celebs Alley",
+  "tagline": "BEAUTY | WELLNESS | TREATMENT",
+  "contactPhone": "+91 98244 24455",
+  "contactEmail": "connect@celebsalley.com",
+  "address": "Heritage Square, Civil Lines, Kota, Rajasthan 324001, India",
+  "businessHours": "Mon – Sat: 09:00 AM – 08:00 PM IST",
+  "socialLinks": {
+    "instagram": "https://instagram.com/celebsalley",
+    "youtube": "https://youtube.com/@celebsalley",
+    "linkedin": "https://linkedin.com/company/celebsalley",
+    "facebook": "https://facebook.com/celebsalley"
+  },
+  "stats": {
+    "clients": 48200,
+    "satisfaction": "99.4%",
+    "treatments": 14850,
+    "rating": "4.96",
+    "cities": 24,
+    "brands": 8
+  }
+}

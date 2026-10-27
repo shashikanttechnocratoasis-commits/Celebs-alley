@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cert-1",
+    "name": "ISO 22716 GMP Certified",
+    "issuer": "International Standards Organization",
+    "description": "Certified Good Manufacturing Practice for cosmetic compounding and sterile formulation.",
+    "icon": "ShieldCheck"
+  },
+  {
+    "id": "cert-2",
+    "name": "Dermatologically Tested & Approved",
+    "issuer": "Indian Association of Dermatologists (IADVL)",
+    "description": "100% of formulations clinically vetted for hypoallergenicity and non-comedogenic index.",
+    "icon": "Award"
+  },
+  {
+    "id": "cert-3",
+    "name": "Cruelty-Free & Ethical Sourcing",
+    "issuer": "PETA Certified",
+    "description": "Zero animal testing across all ingredient pipelines and end-product lines.",
+    "icon": "Heart"
+  },
+  {
+    "id": "cert-4",
+    "name": "HIPAA & DISHA Data Privacy Compliant",
+    "issuer": "Healthcare Data Security Council",
+    "description": "End-to-end biometric facial analysis data encryption and zero-knowledge storage.",
+    "icon": "Lock"
+  },
+  {
+    "id": "cert-5",
+    "name": "Ayush Premium Mark",
+    "issuer": "Ministry of Ayush, Govt of India",
+    "description": "Highest purity standard for traditional botanical and 24K Bhasma formulations.",
+    "icon": "Sparkles"
+  }
+]

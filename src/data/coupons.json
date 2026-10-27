@@ -1,0 +1,78 @@
+[
+  {
+    "id": "coup-1",
+    "code": "LUXEGOLD20",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minOrderValue": 5000,
+    "maxDiscount": 2000,
+    "validFrom": "2026-01-01",
+    "validUntil": "2026-12-31",
+    "usageCount": 420,
+    "usageLimit": 1000,
+    "status": "active"
+  },
+  {
+    "id": "coup-2",
+    "code": "CELEBS10",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minOrderValue": 2000,
+    "maxDiscount": 1000,
+    "validFrom": "2026-01-01",
+    "validUntil": "2026-12-31",
+    "usageCount": 890,
+    "usageLimit": 5000,
+    "status": "active"
+  },
+  {
+    "id": "coup-3",
+    "code": "FIRST500",
+    "discountType": "fixed",
+    "discountValue": 500,
+    "minOrderValue": 2500,
+    "validFrom": "2026-01-01",
+    "validUntil": "2026-12-31",
+    "usageCount": 650,
+    "usageLimit": 2000,
+    "status": "active"
+  },
+  {
+    "id": "coup-4",
+    "code": "FESTIVE15",
+    "discountType": "percentage",
+    "discountValue": 15,
+    "minOrderValue": 3500,
+    "maxDiscount": 1500,
+    "validFrom": "2026-10-01",
+    "validUntil": "2026-11-15",
+    "usageCount": 120,
+    "usageLimit": 1500,
+    "status": "active"
+  },
+  {
+    "id": "coup-5",
+    "code": "GLOWVIP",
+    "discountType": "percentage",
+    "discountValue": 25,
+    "minOrderValue": 8000,
+    "maxDiscount": 3000,
+    "validFrom": "2026-06-01",
+    "validUntil": "2026-12-31",
+    "usageCount": 45,
+    "usageLimit": 200,
+    "status": "active"
+  },
+  {
+    "id": "coup-6",
+    "code": "SUMMERCARE",
+    "discountType": "fixed",
+    "discountValue": 300,
+    "minOrderValue": 1500,
+    "validFrom": "2026-03-01",
+    "validUntil": "2026-08-31",
+    "usageCount": 310,
+    "usageLimit": 500,
+    "status": "expired"
+  }
+]

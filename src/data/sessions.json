@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sess-apt-1",
+    "appointmentId": "apt-1",
+    "consultantId": "cons-1",
+    "customerId": "cust-1",
+    "scheduledStart": "2026-10-14T11:30:00Z",
+    "actualStart": "2026-10-14T11:32:00Z",
+    "actualEnd": "2026-10-14T11:58:00Z",
+    "durationMinutes": 26,
+    "notesSummary": "Discussed 8-parameter scan results, reviewed transepidermal water loss. Prescribed 4-week barrier rehabilitation protocol.",
+    "status": "completed"
+  },
+  {
+    "id": "sess-apt-2",
+    "appointmentId": "apt-2",
+    "consultantId": "cons-2",
+    "customerId": "cust-2",
+    "scheduledStart": "2026-10-15T14:00:00Z",
+    "actualStart": "2026-10-15T14:01:00Z",
+    "actualEnd": "2026-10-15T14:31:00Z",
+    "durationMinutes": 30,
+    "notesSummary": "Analyzed sebaceous hyperactivity and comedone congestion. Formulated 8-week clarifying protocol.",
+    "status": "completed"
+  }
+]

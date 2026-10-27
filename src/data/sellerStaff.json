@@ -1,0 +1,101 @@
+[
+  {
+    "id": "staff-s1-1",
+    "sellerId": "seller-1",
+    "name": "Kabir Singhania",
+    "email": "kabir@royalbeauty.in",
+    "phone": "+91 98200 11005",
+    "role": "Distributor Owner",
+    "status": "active",
+    "lastActive": "2026-10-10T11:45:00Z",
+    "joinedAt": "2025-01-15T09:00:00Z"
+  },
+  {
+    "id": "staff-s1-2",
+    "sellerId": "seller-1",
+    "name": "Priya Verma",
+    "email": "priya.m@royalbeauty.in",
+    "phone": "+91 98200 11006",
+    "role": "Distributor Manager",
+    "status": "active",
+    "lastActive": "2026-10-10T10:12:00Z",
+    "joinedAt": "2025-02-01T10:00:00Z"
+  },
+  {
+    "id": "staff-s1-3",
+    "sellerId": "seller-1",
+    "name": "Rohan Gupta",
+    "email": "rohan.inv@royalbeauty.in",
+    "phone": "+91 98200 11007",
+    "role": "Inventory Manager",
+    "status": "active",
+    "lastActive": "2026-10-10T09:30:00Z",
+    "joinedAt": "2025-02-15T10:00:00Z"
+  },
+  {
+    "id": "staff-s1-4",
+    "sellerId": "seller-1",
+    "name": "Vikas Sethi",
+    "email": "vikas.orders@royalbeauty.in",
+    "phone": "+91 98200 11012",
+    "role": "Order Manager",
+    "status": "active",
+    "lastActive": "2026-10-10T12:05:00Z",
+    "joinedAt": "2025-03-01T10:00:00Z"
+  },
+  {
+    "id": "staff-s1-5",
+    "sellerId": "seller-1",
+    "name": "Amit Patel",
+    "email": "amit.sales@royalbeauty.in",
+    "phone": "+91 98200 11008",
+    "role": "Sales Executive",
+    "status": "active",
+    "lastActive": "2026-10-09T16:20:00Z",
+    "joinedAt": "2025-03-10T10:00:00Z"
+  },
+  {
+    "id": "staff-s1-6",
+    "sellerId": "seller-1",
+    "name": "Suresh Menon",
+    "email": "suresh.acc@royalbeauty.in",
+    "phone": "+91 98200 11013",
+    "role": "Accountant",
+    "status": "active",
+    "lastActive": "2026-10-10T08:50:00Z",
+    "joinedAt": "2025-03-15T10:00:00Z"
+  },
+  {
+    "id": "staff-s2-1",
+    "sellerId": "seller-2",
+    "name": "Devendra Oberoi",
+    "email": "supply@velvetroute.com",
+    "phone": "+91 98110 33445",
+    "role": "Distributor Owner",
+    "status": "active",
+    "lastActive": "2026-10-09T17:00:00Z",
+    "joinedAt": "2025-01-20T10:00:00Z"
+  },
+  {
+    "id": "staff-s2-2",
+    "sellerId": "seller-2",
+    "name": "Kavita Sethi",
+    "email": "kavita.ops@velvetroute.com",
+    "phone": "+91 98110 33446",
+    "role": "Distributor Manager",
+    "status": "active",
+    "lastActive": "2026-10-10T11:00:00Z",
+    "joinedAt": "2025-02-10T10:00:00Z"
+  },
+  {
+    "id": "staff-s3-1",
+    "sellerId": "seller-3",
+    "name": "Nandita Hegde",
+    "email": "ops@deccanwellness.co",
+    "phone": "+91 98450 77889",
+    "role": "Distributor Owner",
+    "status": "active",
+    "lastActive": "2026-10-10T10:40:00Z",
+    "joinedAt": "2025-02-01T10:00:00Z"
+  }
+]

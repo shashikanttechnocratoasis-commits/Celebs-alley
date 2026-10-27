@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rev-c1-1",
+    "consultantId": "cons-1",
+    "customerId": "cust-1",
+    "customerName": "Ritu Sharma",
+    "rating": 5,
+    "review": "Dr. Meera decoded my facial redness and barrier dryness with astonishing clarity. The customized Cica regimen brought calmness back to my skin in under a week.",
+    "createdAt": "2026-10-14T13:30:00Z",
+    "verifiedConsultation": true
+  },
+  {
+    "id": "rev-c1-2",
+    "consultantId": "cons-1",
+    "customerId": "cust-3",
+    "customerName": "Natasha Roy",
+    "rating": 5,
+    "review": "Extremely knowledgeable with AI skin diagnostics. She explained each biomarker patiently and prescribed only what my barrier truly needed.",
+    "createdAt": "2026-09-26T11:00:00Z",
+    "verifiedConsultation": true
+  },
+  {
+    "id": "rev-c2-1",
+    "consultantId": "cons-2",
+    "customerId": "cust-2",
+    "customerName": "Aarav Mehta",
+    "rating": 5,
+    "review": "Dr. Aditya's acne and pore refinement protocol gave me clear results without any peeling or discomfort. Professional and direct.",
+    "createdAt": "2026-10-15T16:30:00Z",
+    "verifiedConsultation": true
+  },
+  {
+    "id": "rev-c3-1",
+    "consultantId": "cons-3",
+    "customerId": "cust-4",
+    "customerName": "Devika Chauhan",
+    "rating": 5,
+    "review": "The 24K gold facial ritual and Ayurvedic saffron advice created the most luminous glow for my pre-wedding functions.",
+    "createdAt": "2026-10-16T18:30:00Z",
+    "verifiedConsultation": true
+  }
+]

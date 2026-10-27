@@ -1,0 +1,273 @@
+[
+  {
+    "id": "cust-1",
+    "name": "Ritu Sharma",
+    "email": "ritu.sharma@example.com",
+    "phone": "+91 98200 11010",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Combination / Dehydrated",
+    "concerns": [
+      "Dehydration",
+      "Redness",
+      "Fine Lines"
+    ],
+    "allergies": ["Niacinamide", "Synthetic Fragrances"],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-01-15",
+    "totalOrders": 5,
+    "totalSpent": 18450
+  },
+  {
+    "id": "cust-2",
+    "name": "Aarav Mehta",
+    "email": "aarav.m@yahoo.com",
+    "phone": "+91 98112 33441",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Oily / Acne-Prone",
+    "concerns": [
+      "Enlarged Pores",
+      "Blemishes"
+    ],
+    "allergies": ["Benzoyl Peroxide"],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-02-10",
+    "totalOrders": 3,
+    "totalSpent": 6200
+  },
+  {
+    "id": "cust-3",
+    "name": "Natasha Roy",
+    "email": "natasha.roy@outlook.com",
+    "phone": "+91 98301 99882",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Dry / Mature",
+    "concerns": [
+      "Deep Wrinkles",
+      "Loss of Elasticity"
+    ],
+    "allergies": ["Sulfates"],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-01-20",
+    "totalOrders": 8,
+    "totalSpent": 39500
+  },
+  {
+    "id": "cust-4",
+    "name": "Devika Chauhan",
+    "email": "devika.c@gmail.com",
+    "phone": "+91 98290 12345",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Normal / Dull",
+    "concerns": [
+      "Melasma",
+      "Uneven Tone"
+    ],
+    "allergies": ["Retinoids", "Essential Oils"],
+    "pregnancyFlag": true,
+    "registeredAt": "2026-03-05",
+    "totalOrders": 4,
+    "totalSpent": 14200
+  },
+  {
+    "id": "cust-5",
+    "name": "Karan Johar",
+    "email": "karan.j@gmail.com",
+    "phone": "+91 98200 44556",
+    "avatar": "",
+    "skinType": "Combination",
+    "concerns": [
+      "Under-Eye Bags",
+      "Pollution"
+    ],
+    "registeredAt": "2026-03-12",
+    "totalOrders": 2,
+    "totalSpent": 8900
+  },
+  {
+    "id": "cust-6",
+    "name": "Zoya Akhtar",
+    "email": "zoya.a@gmail.com",
+    "phone": "+91 98201 66778",
+    "avatar": "",
+    "skinType": "Sensitive",
+    "concerns": [
+      "Rosacea",
+      "Flushing"
+    ],
+    "registeredAt": "2026-04-01",
+    "totalOrders": 6,
+    "totalSpent": 22800
+  },
+  {
+    "id": "cust-7",
+    "name": "Ishaan Khatter",
+    "email": "ishaan.k@gmail.com",
+    "phone": "+91 98211 88990",
+    "avatar": "",
+    "skinType": "Oily",
+    "concerns": [
+      "Sun Spots",
+      "Acne Scars"
+    ],
+    "registeredAt": "2026-04-18",
+    "totalOrders": 3,
+    "totalSpent": 7500
+  },
+  {
+    "id": "cust-8",
+    "name": "Tara Sutaria",
+    "email": "tara.s@gmail.com",
+    "phone": "+91 98205 11234",
+    "avatar": "",
+    "skinType": "Normal / Glow Seekers",
+    "concerns": [
+      "Glass Skin Maintenance"
+    ],
+    "registeredAt": "2026-05-02",
+    "totalOrders": 7,
+    "totalSpent": 31000
+  },
+  {
+    "id": "cust-9",
+    "name": "Siddharth Rao",
+    "email": "sid.rao@gmail.com",
+    "phone": "+91 98451 22334",
+    "avatar": "",
+    "skinType": "Combination",
+    "concerns": [
+      "Shaving Irritation",
+      "Dark Circles"
+    ],
+    "registeredAt": "2026-05-20",
+    "totalOrders": 2,
+    "totalSpent": 5400
+  },
+  {
+    "id": "cust-10",
+    "name": "Alia Bhatt",
+    "email": "alia.b@gmail.com",
+    "phone": "+91 98209 87654",
+    "avatar": "",
+    "skinType": "Dry / Sensitive",
+    "concerns": [
+      "Pregnancy Safe Anti-Aging",
+      "Hydration"
+    ],
+    "registeredAt": "2026-06-11",
+    "totalOrders": 9,
+    "totalSpent": 48000
+  },
+  {
+    "id": "cust-11",
+    "name": "Ranbir Kapoor",
+    "email": "ranbir.k@gmail.com",
+    "phone": "+91 98208 76543",
+    "avatar": "",
+    "skinType": "Mature / Tired",
+    "concerns": [
+      "Dehydration",
+      "Deep Expression Lines"
+    ],
+    "registeredAt": "2026-07-04",
+    "totalOrders": 5,
+    "totalSpent": 26400
+  },
+  {
+    "id": "cust-13",
+    "name": "Sunita Varma",
+    "email": "sunita.v@example.com",
+    "phone": "+91 98200 99001",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Combination / Pitta",
+    "concerns": ["Hormonal Jawline Acne", "Pitta Excess"],
+    "allergies": [],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-08-05",
+    "totalOrders": 3,
+    "totalSpent": 12500
+  },
+  {
+    "id": "cust-14",
+    "name": "Sunita Rao",
+    "email": "sunita.rao@example.com",
+    "phone": "+91 98200 11224",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Dry / Mature",
+    "concerns": ["Lymphatic Congestion", "Puffiness"],
+    "allergies": ["Synthetic Fragrance"],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-08-12",
+    "totalOrders": 6,
+    "totalSpent": 28400
+  },
+  {
+    "id": "cust-15",
+    "name": "Meenakshi Sundaram",
+    "email": "meenakshi.s@example.com",
+    "phone": "+91 98200 22335",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Normal / Dull",
+    "concerns": ["Dull Complexion", "Uneven Radiance"],
+    "allergies": [],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-08-18",
+    "totalOrders": 2,
+    "totalSpent": 9200
+  },
+  {
+    "id": "cust-16",
+    "name": "Kunal Bahl",
+    "email": "kunal.b@example.com",
+    "phone": "+91 98110 77889",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Oily / Congested",
+    "concerns": ["Large Pores", "Blackheads"],
+    "allergies": [],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-08-22",
+    "totalOrders": 4,
+    "totalSpent": 15600
+  },
+  {
+    "id": "cust-17",
+    "name": "Shreya Ghoshal",
+    "email": "shreya.g@example.com",
+    "phone": "+91 98200 33446",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Sensitive / Reactive",
+    "concerns": ["Dryness", "Barrier Sensitivity"],
+    "allergies": ["Lavender"],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-08-28",
+    "totalOrders": 5,
+    "totalSpent": 21800
+  },
+  {
+    "id": "cust-18",
+    "name": "Tanvi Malvade",
+    "email": "tanvi.m@example.com",
+    "phone": "+91 98110 66778",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Combination / Pigmented",
+    "concerns": ["Dermal Hyperpigmentation", "Sun Spots"],
+    "allergies": [],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-09-02",
+    "totalOrders": 3,
+    "totalSpent": 14900
+  },
+  {
+    "id": "cust-19",
+    "name": "Mira Rajput",
+    "email": "mira.r@example.com",
+    "phone": "+91 98200 44557",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "skinType": "Sensitive / Acne-Prone",
+    "concerns": ["Post-inflammatory Erythema", "Redness"],
+    "allergies": ["Salicylic Acid"],
+    "pregnancyFlag": false,
+    "registeredAt": "2026-09-05",
+    "totalOrders": 2,
+    "totalSpent": 8400
+  }
+]

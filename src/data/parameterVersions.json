@@ -1,0 +1,216 @@
+[
+  {
+    "id": "ver-1.0",
+    "version": "v1.0",
+    "authorId": "user-super-admin",
+    "authorName": "Rajesh Sharma",
+    "createdAt": "2026-09-01T10:00:00Z",
+    "changeSummary": "Initial production baseline for 8-parameter clinical facial analysis.",
+    "status": "live",
+    "scanCount": 1280,
+    "changes": [
+      {
+        "parameterId": "param-1",
+        "parameterName": "Hydration",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.15 }]
+      },
+      {
+        "parameterId": "param-2",
+        "parameterName": "Oil Balance",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.12 }]
+      },
+      {
+        "parameterId": "param-3",
+        "parameterName": "Texture",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.14 }]
+      },
+      {
+        "parameterId": "param-4",
+        "parameterName": "Pores",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.11 }]
+      },
+      {
+        "parameterId": "param-5",
+        "parameterName": "Pigmentation",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.13 }]
+      },
+      {
+        "parameterId": "param-6",
+        "parameterName": "Wrinkles",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.12 }]
+      },
+      {
+        "parameterId": "param-7",
+        "parameterName": "Redness",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.11 }]
+      },
+      {
+        "parameterId": "param-8",
+        "parameterName": "Firmness",
+        "changeType": "added",
+        "diffs": [{ "field": "weight", "oldValue": null, "newValue": 0.12 }]
+      }
+    ],
+    "parametersSnapshot": [
+      {
+        "id": "param-1",
+        "slug": "hydration",
+        "name": "Hydration",
+        "description": "Measurement of epidermal water retention and cellular moisture levels.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.15,
+        "status": "active",
+        "aiKey": "skin_hydration_index",
+        "displayOrder": 1,
+        "icon": "Droplets",
+        "interpretation": {
+          "low": "Severe transepidermal water loss. Skin barrier requires humectant infusion.",
+          "medium": "Moderate hydration. Minor dryness in seasonal transitions.",
+          "high": "Optimal barrier hydration with supple cellular volume."
+        }
+      },
+      {
+        "id": "param-2",
+        "slug": "oil_balance",
+        "name": "Oil Balance",
+        "description": "Sebum production equilibrium across the T-zone and U-zone facial quadrants.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.12,
+        "status": "active",
+        "aiKey": "sebum_equilibrium_metric",
+        "displayOrder": 2,
+        "icon": "Flame",
+        "interpretation": {
+          "low": "Alipic skin lacking essential lipid barrier oils.",
+          "medium": "Balanced lipidic secretion with minimal sheen.",
+          "high": "Hyperactive sebaceous activity leading to congestion."
+        }
+      },
+      {
+        "id": "param-3",
+        "slug": "texture",
+        "name": "Texture",
+        "description": "Micro-relief smoothness, cellular turnover rate, and dermal topography regularity.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.14,
+        "status": "active",
+        "aiKey": "dermal_topography_smoothness",
+        "displayOrder": 3,
+        "icon": "Layers",
+        "interpretation": {
+          "low": "Keratinized rough patches and sluggish desquamation.",
+          "medium": "Standard dermal texture with localized minor roughness.",
+          "high": "Silky, ultra-refined micro-topography with luminous light reflection."
+        }
+      },
+      {
+        "id": "param-4",
+        "slug": "pores",
+        "name": "Pores",
+        "description": "Follicular pore visibility, dilatation depth, and surrounding elasticity.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.11,
+        "status": "active",
+        "aiKey": "pore_dilation_geometry",
+        "displayOrder": 4,
+        "icon": "CircleDot",
+        "interpretation": {
+          "low": "Dilated follicular openings prone to sebaceous filament oxidation.",
+          "medium": "Minimal visible pores localized to the nose and inner cheeks.",
+          "high": "Ultra-tight, porcelain pore architecture."
+        }
+      },
+      {
+        "id": "param-5",
+        "slug": "pigmentation",
+        "name": "Pigmentation",
+        "description": "Melanin dispersion uniformity, solar lentigines, and post-inflammatory erythema.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.13,
+        "status": "active",
+        "aiKey": "melanin_uniformity_index",
+        "displayOrder": 5,
+        "icon": "Sparkles",
+        "interpretation": {
+          "low": "Noticeable hyperpigmentation clusters and UV photo-damage spots.",
+          "medium": "Slight localized discolouration and uneven tone.",
+          "high": "Crystal clarity with luminous, uniform complexion tone."
+        }
+      },
+      {
+        "id": "param-6",
+        "slug": "wrinkles",
+        "name": "Wrinkles",
+        "description": "Dynamic expression lines, periorbital fine lines, and nasolabial crease depth.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.12,
+        "status": "active",
+        "aiKey": "periorbital_crease_depth",
+        "displayOrder": 6,
+        "icon": "Activity",
+        "interpretation": {
+          "low": "Pronounced structural dynamic wrinkles requiring peptide support.",
+          "medium": "Early fine dehydration lines around eyes and forehead.",
+          "high": "Taut, line-free dermal resilience."
+        }
+      },
+      {
+        "id": "param-7",
+        "slug": "redness",
+        "name": "Redness",
+        "description": "Vascular reactivity, capillary fragility, and cutaneous micro-inflammation.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.11,
+        "status": "active",
+        "aiKey": "microvascular_erythema_density",
+        "displayOrder": 7,
+        "icon": "ShieldAlert",
+        "interpretation": {
+          "low": "Significant erythematous flushing and compromised barrier sensitivity.",
+          "medium": "Occasional reactivity to environmental stressors and active acids.",
+          "high": "Calm, resilient micro-vascular tone with zero flush."
+        }
+      },
+      {
+        "id": "param-8",
+        "slug": "firmness",
+        "name": "Firmness",
+        "description": "Viscoelastic recoil elasticity and dermal collagen network density.",
+        "unit": "%",
+        "minScore": 0,
+        "maxScore": 100,
+        "weight": 0.12,
+        "status": "active",
+        "aiKey": "viscoelastic_recoil_coefficient",
+        "displayOrder": 8,
+        "icon": "Gauge",
+        "interpretation": {
+          "low": "Loss of dermal matrix tension and early tissue laxity.",
+          "medium": "Good baseline elasticity with minor softening along jawline.",
+          "high": "Plump, high-tensile cellular bounce and defined facial contours."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "cplan-1",
+    "consultantId": "cons-1",
+    "consultantName": "Dr. Meera Nambiar, MD",
+    "customerId": "cust-1",
+    "customerName": "Ritu Sharma",
+    "title": "Clinical Barrier Rehabilitation & Erythema Control Regimen",
+    "goals": [
+      "Quench transepidermal water loss across cheek area",
+      "Soothe vascular redness and sensitivity spikes",
+      "Accelerate epidermal barrier lipid regeneration"
+    ],
+    "durationWeeks": 4,
+    "amRoutine": [
+      {
+        "id": "step-cp1-1",
+        "order": 1,
+        "productId": "prod-1",
+        "productName": "Golden Elixir Cellular Infusion Serum",
+        "productBrand": "Aura Botanica",
+        "productImage": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 94,
+        "usageInstructions": "Apply 3 drops onto clean, damp skin. Gently press into cheeks and orbital bone.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 2
+      },
+      {
+        "id": "step-cp1-2",
+        "order": 2,
+        "productId": "prod-2",
+        "productName": "Cica Barrier Soothing Calming Gel-Cream",
+        "productBrand": "Kashmir Organics",
+        "productImage": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 96,
+        "usageInstructions": "Layer a dime-sized amount over serum to lock in barrier hydration.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 3
+      }
+    ],
+    "pmRoutine": [
+      {
+        "id": "step-cp1-3",
+        "order": 1,
+        "productId": "prod-1",
+        "productName": "Golden Elixir Cellular Infusion Serum",
+        "productBrand": "Aura Botanica",
+        "productImage": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 94,
+        "usageInstructions": "Apply 4 drops across entire face and neck.",
+        "frequency": "Daily PM",
+        "waitTimeMinutes": 2
+      },
+      {
+        "id": "step-cp1-4",
+        "order": 2,
+        "productId": "prod-2",
+        "productName": "Cica Barrier Soothing Calming Gel-Cream",
+        "productBrand": "Kashmir Organics",
+        "productImage": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 96,
+        "usageInstructions": "Apply as an overnight replenishing mask.",
+        "frequency": "Daily PM",
+        "waitTimeMinutes": 0
+      }
+    ],
+    "lifestyleTips": [
+      "Avoid direct harsh sunlight between 11 AM and 3 PM.",
+      "Cleanse face only with lukewarm water; no physical scrubs or abrasive towels.",
+      "Keep facial mist chilled in refrigerator for instant cooling relief."
+    ],
+    "dietNotes": [
+      "Increase daily antioxidant intake with pomegranate and green tea.",
+      "Consume 30ml aloe vera juice on an empty stomach in the morning.",
+      "Stay hydrated with at least 8 glasses of water."
+    ],
+    "followUpSchedule": "Virtual check-in scheduled for Week 4 to re-scan hydration index.",
+    "status": "published",
+    "version": 1,
+    "changeNotes": "Initial bespoke clinical regimen issued following diagnostic baseline scan.",
+    "createdAt": "2026-10-14T12:30:00Z",
+    "updatedAt": "2026-10-14T12:30:00Z"
+  },
+  {
+    "id": "cplan-2",
+    "consultantId": "cons-2",
+    "consultantName": "Dr. Aditya Singhal, MBBS",
+    "customerId": "cust-2",
+    "customerName": "Aarav Mehta",
+    "title": "Sebum Balance & Follicular Clearing Protocol",
+    "goals": [
+      "Normalize sebaceous rate across T-zone",
+      "Clarify persistent micro-comedones",
+      "Refine appearance of dilated facial ostia"
+    ],
+    "durationWeeks": 8,
+    "amRoutine": [
+      {
+        "id": "step-cp2-1",
+        "order": 1,
+        "productId": "prod-4",
+        "productName": "Pore-Clarifying Niacinamide 10% + Zinc PCA 1%",
+        "productBrand": "Vedic Alchemy",
+        "productImage": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 92,
+        "usageInstructions": "Apply 3 drops across forehead, nose, and chin apex.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 2
+      }
+    ],
+    "pmRoutine": [
+      {
+        "id": "step-cp2-2",
+        "order": 1,
+        "productId": "prod-4",
+        "productName": "Pore-Clarifying Niacinamide 10% + Zinc PCA 1%",
+        "productBrand": "Vedic Alchemy",
+        "productImage": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 92,
+        "usageInstructions": "Apply 3 drops followed by gentle water gel.",
+        "frequency": "Alternate PM",
+        "waitTimeMinutes": 3
+      }
+    ],
+    "lifestyleTips": [
+      "Avoid resting phone against cheek during calls.",
+      "Use clean sports headband during gym sessions."
+    ],
+    "dietNotes": [
+      "Limit dairy whey protein supplements which exacerbate sebum flare-ups."
+    ],
+    "followUpSchedule": "Check-in at Week 6 for progress review.",
+    "status": "published",
+    "version": 1,
+    "createdAt": "2026-10-15T15:30:00Z",
+    "updatedAt": "2026-10-15T15:30:00Z"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "msg-101",
+    "threadId": "thread-cons-1-cust-1",
+    "senderId": "cust-1",
+    "senderRole": "customer",
+    "senderName": "Ritu Sharma",
+    "text": "Hello Dr. Meera, I just completed my morning scan. I'm noticing persistent redness around my cheekbones after outdoor meetings.",
+    "timestamp": "2026-10-14T11:45:00Z",
+    "read": true,
+    "attachedScanId": "scan-sample-1"
+  },
+  {
+    "id": "msg-102",
+    "threadId": "thread-cons-1-cust-1",
+    "senderId": "cons-1",
+    "senderRole": "consultant",
+    "senderName": "Dr. Meera Nambiar",
+    "text": "Hello Ritu! I examined your 8-parameter diagnostic map. Your hydration score is 72% and erythema reactivity is 88%. This indicates superficial transepidermal barrier moisture loss.",
+    "timestamp": "2026-10-14T12:00:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-103",
+    "threadId": "thread-cons-1-cust-1",
+    "senderId": "cons-1",
+    "senderRole": "consultant",
+    "senderName": "Dr. Meera Nambiar",
+    "text": "I strongly recommend adding our Cica Barrier Calming Gel-Cream right after the Golden Elixir Serum.",
+    "timestamp": "2026-10-14T12:05:00Z",
+    "read": true,
+    "attachedProductId": "prod-2"
+  },
+  {
+    "id": "msg-104",
+    "threadId": "thread-cons-1-cust-1",
+    "senderId": "cons-1",
+    "senderRole": "consultant",
+    "senderName": "Dr. Meera Nambiar",
+    "text": "I've reviewed your baseline scan. The barrier lipid formula is published to your regimen.",
+    "timestamp": "2026-10-14T12:45:00Z",
+    "read": false
+  },
+  {
+    "id": "msg-201",
+    "threadId": "thread-cons-1-cust-3",
+    "senderId": "cust-3",
+    "senderRole": "customer",
+    "senderName": "Natasha Roy",
+    "text": "Should I introduce the retinal every night or every alternate night?",
+    "timestamp": "2026-10-14T09:15:00Z",
+    "read": false
+  },
+  {
+    "id": "msg-301",
+    "threadId": "thread-cons-2-cust-2",
+    "senderId": "cons-2",
+    "senderRole": "consultant",
+    "senderName": "Dr. Aditya Singhal",
+    "text": "Aarav, please adhere to the alternate night schedule for the Pore-Clarifying solution to prevent irritation.",
+    "timestamp": "2026-10-15T14:30:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-302",
+    "threadId": "thread-cons-2-cust-2",
+    "senderId": "cust-2",
+    "senderRole": "customer",
+    "senderName": "Aarav Mehta",
+    "text": "The 2% salicylic acid wash has eliminated my morning shine effectively.",
+    "timestamp": "2026-10-15T16:00:00Z",
+    "read": true
+  },
+  {
+    "id": "msg-401",
+    "threadId": "thread-cons-3-cust-4",
+    "senderId": "cons-3",
+    "senderRole": "consultant",
+    "senderName": "Dr. Shalini Deshmukh",
+    "text": "Devika, be sure to use the Kanza wand in upward strokes when applying the Saffron Oil.",
+    "timestamp": "2026-10-16T17:30:00Z",
+    "read": true,
+    "attachedProductId": "prod-3"
+  },
+  {
+    "id": "msg-402",
+    "threadId": "thread-cons-3-cust-4",
+    "senderId": "cust-4",
+    "senderRole": "customer",
+    "senderName": "Devika Chauhan",
+    "text": "The 24K saffron oil ritual feels wonderfully luxurious on my skin.",
+    "timestamp": "2026-10-16T18:00:00Z",
+    "read": true
+  }
+]

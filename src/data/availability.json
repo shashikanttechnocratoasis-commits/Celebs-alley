@@ -1,0 +1,143 @@
+[
+  {
+    "id": "avail-cons-1-mon",
+    "consultantId": "cons-1",
+    "dayOfWeek": 1,
+    "dayName": "Monday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "10:00", "end": "14:00" },
+      { "start": "15:30", "end": "18:00" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 8,
+    "mode": ["video", "in-clinic"]
+  },
+  {
+    "id": "avail-cons-1-wed",
+    "consultantId": "cons-1",
+    "dayOfWeek": 3,
+    "dayName": "Wednesday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "14:00", "end": "19:00" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 6,
+    "mode": ["video"]
+  },
+  {
+    "id": "avail-cons-1-fri",
+    "consultantId": "cons-1",
+    "dayOfWeek": 5,
+    "dayName": "Friday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "10:00", "end": "13:30" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 5,
+    "mode": ["video", "in-clinic"]
+  },
+  {
+    "id": "avail-cons-1-sat",
+    "consultantId": "cons-1",
+    "dayOfWeek": 6,
+    "dayName": "Saturday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "11:00", "end": "16:00" }
+    ],
+    "slotDurationMinutes": 45,
+    "bufferMinutes": 15,
+    "maxAppointmentsPerDay": 6,
+    "mode": ["video", "in-clinic"]
+  },
+  {
+    "id": "avail-cons-2-tue",
+    "consultantId": "cons-2",
+    "dayOfWeek": 2,
+    "dayName": "Tuesday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "11:00", "end": "16:00" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 7,
+    "mode": ["video", "in-clinic"]
+  },
+  {
+    "id": "avail-cons-2-thu",
+    "consultantId": "cons-2",
+    "dayOfWeek": 4,
+    "dayName": "Thursday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "11:00", "end": "17:00" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 8,
+    "mode": ["video"]
+  },
+  {
+    "id": "avail-cons-2-sun",
+    "consultantId": "cons-2",
+    "dayOfWeek": 0,
+    "dayName": "Sunday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "10:00", "end": "13:00" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 4,
+    "mode": ["video"]
+  },
+  {
+    "id": "avail-cons-3-mon",
+    "consultantId": "cons-3",
+    "dayOfWeek": 1,
+    "dayName": "Monday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "14:00", "end": "19:00" }
+    ],
+    "slotDurationMinutes": 45,
+    "bufferMinutes": 15,
+    "maxAppointmentsPerDay": 5,
+    "mode": ["video", "in-clinic"]
+  },
+  {
+    "id": "avail-cons-3-fri",
+    "consultantId": "cons-3",
+    "dayOfWeek": 5,
+    "dayName": "Friday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "10:00", "end": "15:00" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 6,
+    "mode": ["video", "in-clinic"]
+  },
+  {
+    "id": "avail-cons-3-sat",
+    "consultantId": "cons-3",
+    "dayOfWeek": 6,
+    "dayName": "Saturday",
+    "enabled": true,
+    "timeRanges": [
+      { "start": "10:00", "end": "14:00" }
+    ],
+    "slotDurationMinutes": 30,
+    "bufferMinutes": 10,
+    "maxAppointmentsPerDay": 5,
+    "mode": ["video"]
+  }
+]

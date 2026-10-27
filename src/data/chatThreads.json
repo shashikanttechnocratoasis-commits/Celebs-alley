@@ -1,0 +1,46 @@
+[
+  {
+    "id": "thread-cons-1-cust-1",
+    "consultantId": "cons-1",
+    "consultantName": "Dr. Meera Nambiar, MD",
+    "customerId": "cust-1",
+    "customerName": "Ritu Sharma",
+    "lastMessageText": "I've reviewed your baseline scan. The barrier lipid formula is published to your regimen.",
+    "lastMessageTimestamp": "2026-10-14T12:45:00Z",
+    "unreadCountConsultant": 0,
+    "unreadCountCustomer": 1
+  },
+  {
+    "id": "thread-cons-1-cust-3",
+    "consultantId": "cons-1",
+    "consultantName": "Dr. Meera Nambiar, MD",
+    "customerId": "cust-3",
+    "customerName": "Natasha Roy",
+    "lastMessageText": "Should I introduce the retinal every night or every alternate night?",
+    "lastMessageTimestamp": "2026-10-14T09:15:00Z",
+    "unreadCountConsultant": 1,
+    "unreadCountCustomer": 0
+  },
+  {
+    "id": "thread-cons-2-cust-2",
+    "consultantId": "cons-2",
+    "consultantName": "Dr. Aditya Singhal, MBBS",
+    "customerId": "cust-2",
+    "customerName": "Aarav Mehta",
+    "lastMessageText": "The 2% salicylic acid wash has eliminated my morning shine effectively.",
+    "lastMessageTimestamp": "2026-10-15T16:00:00Z",
+    "unreadCountConsultant": 0,
+    "unreadCountCustomer": 0
+  },
+  {
+    "id": "thread-cons-3-cust-4",
+    "consultantId": "cons-3",
+    "consultantName": "Dr. Shalini Deshmukh, MD",
+    "customerId": "cust-4",
+    "customerName": "Devika Chauhan",
+    "lastMessageText": "The 24K saffron oil ritual feels wonderfully luxurious on my skin.",
+    "lastMessageTimestamp": "2026-10-16T18:00:00Z",
+    "unreadCountConsultant": 0,
+    "unreadCountCustomer": 0
+  }
+]

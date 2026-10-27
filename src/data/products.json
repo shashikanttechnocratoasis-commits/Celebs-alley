@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Golden Elixir Cellular Infusion Serum",
+    "sku": "CA-LUX-001",
+    "brandId": "brand-2",
+    "categoryId": "cat-2",
+    "description": "Ultra-concentrated restorative serum infused with 24K colloidal gold, Matrixyl 3000, and 5-weight Hyaluronic Acid. Instantly floods the skin with deep moisture while lifting tired facial contours.",
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 4850,
+    "ingredients": [
+      "ing-1",
+      "ing-7",
+      "ing-23"
+    ],
+    "targetParameters": {
+      "hydration": 3,
+      "fine_lines": 3,
+      "texture": 2,
+      "redness_sensitivity": 1
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Dry",
+      "Combination",
+      "Mature"
+    ],
+    "concernTags": [
+      "Dehydration",
+      "Fine Lines",
+      "Loss of Firmness"
+    ],
+    "contraindications": [],
+    "usage": "Apply 4-5 drops every morning and evening on cleansed face before heavier creams.",
+    "rating": 4.9,
+    "reviewCount": 142,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": true,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-2",
+    "name": "Cica Barrier Soothing Calming Gel-Cream",
+    "sku": "CA-AUR-002",
+    "brandId": "brand-1",
+    "categoryId": "cat-3",
+    "description": "High-altitude Swiss Centella extract combined with pure Ceramides and D-Panthenol. Instantly reduces epidermal heat and quenches sensitized, reactive skin.",
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2950,
+    "ingredients": [
+      "ing-6",
+      "ing-8",
+      "ing-19"
+    ],
+    "targetParameters": {
+      "redness_sensitivity": 3,
+      "hydration": 2,
+      "texture": 1,
+      "acne_blemishes": 1
+    },
+    "suitableSkinTypes": [
+      "Sensitive",
+      "Reactive",
+      "Acne-Prone",
+      "Combination"
+    ],
+    "concernTags": [
+      "Redness",
+      "Barrier Breakdown",
+      "Rosacea"
+    ],
+    "contraindications": [],
+    "usage": "Gently smooth over face after treatments or active serums. Use AM & PM.",
+    "rating": 4.8,
+    "reviewCount": 98,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-3",
+    "name": "Saffron & 24K Gold Royal Luster Oil",
+    "sku": "CA-AYU-003",
+    "brandId": "brand-3",
+    "categoryId": "cat-2",
+    "description": "Ayurvedic Kumkumadi formulation infused with wild Kashmiri saffron filaments and cold-pressed organic rosehip. Leaves an unmatched golden-hour radiance.",
+    "images": [
+      "https://images.unsplash.com/photo-1608248597359-2b0c43632938?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 5400,
+    "ingredients": [
+      "ing-17",
+      "ing-21",
+      "ing-9"
+    ],
+    "targetParameters": {
+      "pigmentation": 3,
+      "texture": 2,
+      "hydration": 2,
+      "oil_balance": -1
+    },
+    "suitableSkinTypes": [
+      "Normal",
+      "Dry",
+      "Dull",
+      "Mature"
+    ],
+    "concernTags": [
+      "Dullness",
+      "Melasma",
+      "Uneven Tone"
+    ],
+    "contraindications": [
+      "Very Oily / Active Cystic Acne"
+    ],
+    "usage": "Warm 3 drops between palms and press gently into face as the final nighttime step.",
+    "rating": 4.9,
+    "reviewCount": 210,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-4",
+    "name": "Pore-Clarifying Niacinamide 10% + Zinc PCA 1%",
+    "sku": "CA-VED-004",
+    "brandId": "brand-5",
+    "categoryId": "cat-2",
+    "description": "High-strength clinical serum specifically calibrated for Indian urban climates. Tightens enlarged ostia, inhibits excess shine, and prevents future congestions.",
+    "images": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1450,
+    "ingredients": [
+      "ing-2",
+      "ing-15",
+      "ing-18"
+    ],
+    "targetParameters": {
+      "oil_balance": 3,
+      "pore_visibility": 3,
+      "acne_blemishes": 2,
+      "texture": 2
+    },
+    "suitableSkinTypes": [
+      "Oily",
+      "Combination",
+      "Acne-Prone"
+    ],
+    "concernTags": [
+      "Enlarged Pores",
+      "Excess Sebum",
+      "Blackheads"
+    ],
+    "contraindications": [],
+    "usage": "Apply 3 drops across T-zone and cheeks morning and evening after toning.",
+    "rating": 4.7,
+    "reviewCount": 318,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-5",
+    "name": "Overnight Chrono-Retinal 0.1% Intensive Fluid",
+    "sku": "CA-CEL-005",
+    "brandId": "brand-6",
+    "categoryId": "cat-5",
+    "description": "Direct-action encapsulated retinaldehyde that converts 11x faster than standard retinol. Visibly erases fine expression lines and tightens loose dermal matrices without flaking.",
+    "images": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 6200,
+    "ingredients": [
+      "ing-3",
+      "ing-8",
+      "ing-12"
+    ],
+    "targetParameters": {
+      "fine_lines": 3,
+      "texture": 3,
+      "pore_visibility": 2,
+      "acne_blemishes": 2
+    },
+    "suitableSkinTypes": [
+      "Normal",
+      "Combination",
+      "Mature"
+    ],
+    "concernTags": [
+      "Deep Wrinkles",
+      "Loss of Elasticity",
+      "Roughness"
+    ],
+    "contraindications": [
+      "Pregnancy",
+      "Nursing",
+      "Concurrent strong AHA use"
+    ],
+    "usage": "PM only. Introduce gradually 2 times per week, building up to nightly use. Always wear SPF next day.",
+    "rating": 4.9,
+    "reviewCount": 165,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-6",
+    "name": "Pure Silk Velvet Cleansing Balm",
+    "sku": "CA-LUX-006",
+    "brandId": "brand-2",
+    "categoryId": "cat-1",
+    "description": "Luxurious aromatic balm that melts on touch to dissolve long-wear foundation, water-resistant sunscreen, and pollution particles without disrupting the acid mantle.",
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 3200,
+    "ingredients": [
+      "ing-9",
+      "ing-17",
+      "ing-19"
+    ],
+    "targetParameters": {
+      "hydration": 2,
+      "redness_sensitivity": 2,
+      "texture": 1
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Dry",
+      "Sensitive"
+    ],
+    "concernTags": [
+      "Makeup Removal",
+      "Pollution",
+      "Dryness"
+    ],
+    "contraindications": [],
+    "usage": "Massage over dry skin. Emulsify with warm water to create a rich milky wash, then rinse.",
+    "rating": 4.8,
+    "reviewCount": 88,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Sunscreen"
+  },
+  {
+    "id": "prod-7",
+    "name": "Desert Shield Invisible UV Veil SPF 50+ PA++++",
+    "sku": "CA-OAS-007",
+    "brandId": "brand-7",
+    "categoryId": "cat-4",
+    "description": "Featherweight fluid sunscreen designed for extreme heat and humidity. Leaves zero white cast, zero greasy film, and is infused with EGCG and Vitamin C for dual photo-defense.",
+    "images": [
+      "https://images.unsplash.com/photo-1556228722-d0b77a06a208?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2450,
+    "ingredients": [
+      "ing-4",
+      "ing-16",
+      "ing-22"
+    ],
+    "targetParameters": {
+      "pigmentation": 3,
+      "redness_sensitivity": 2,
+      "fine_lines": 2
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Oily",
+      "Combination",
+      "Normal"
+    ],
+    "concernTags": [
+      "UV Protection",
+      "Sun Spots",
+      "Photoaging"
+    ],
+    "contraindications": [],
+    "usage": "Apply 2 finger-lengths generously as the final skincare step 15 minutes before sun exposure.",
+    "rating": 4.9,
+    "reviewCount": 420,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": true,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-8",
+    "name": "Tranexamic & Kojic Dark Spot Fading Concentrate",
+    "sku": "CA-VED-008",
+    "brandId": "brand-5",
+    "categoryId": "cat-5",
+    "description": "Multi-pathway brightening treatment combining 3% Tranexamic Acid with Alpha Arbutin and Licorice Glabridin. Clinically targets stubborn melasma and post-acne marks.",
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2800,
+    "ingredients": [
+      "ing-25",
+      "ing-13",
+      "ing-14",
+      "ing-21"
+    ],
+    "targetParameters": {
+      "pigmentation": 3,
+      "acne_blemishes": 1,
+      "texture": 2
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Hyperpigmented",
+      "Combination"
+    ],
+    "concernTags": [
+      "Melasma",
+      "PIH",
+      "Brown Spots"
+    ],
+    "contraindications": [],
+    "usage": "Apply 1 pump directly onto target dark spots or over entire face prior to moisturizer.",
+    "rating": 4.7,
+    "reviewCount": 174,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Cleanser"
+  },
+  {
+    "id": "prod-9",
+    "name": "Aqua-Polyglutamic Glass Hydra Gel Mask",
+    "sku": "CA-KGL-009",
+    "brandId": "brand-4",
+    "categoryId": "cat-6",
+    "description": "Bio-fermented hydrogel sheet mask delivering 5,000x water-binding Polyglutamic acid and Snail Mucin into thirsty skin. Transforms dry tightness into dewy glass luminescence.",
+    "images": [
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1850,
+    "ingredients": [
+      "ing-1",
+      "ing-20",
+      "ing-19"
+    ],
+    "targetParameters": {
+      "hydration": 3,
+      "texture": 2,
+      "fine_lines": 2
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Dehydrated",
+      "Dull"
+    ],
+    "concernTags": [
+      "Dryness",
+      "Event Prep",
+      "Dehydration"
+    ],
+    "contraindications": [],
+    "usage": "Leave mask on face for 20-25 minutes. Pat remaining serum into neck and décolleté.",
+    "rating": 4.8,
+    "reviewCount": 92,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-10",
+    "name": "Royale Bee Peptide Micro-Firming Eye Cream",
+    "sku": "CA-ROY-010",
+    "brandId": "brand-8",
+    "categoryId": "cat-7",
+    "description": "Delicate micro-sculpting eye elixir with royal peptides and caffeine. De-puffs under-eye bags, lifts sagging upper lids, and softens crow's feet wrinkles.",
+    "images": [
+      "https://images.unsplash.com/photo-1608248597359-2b0c43632938?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 4100,
+    "ingredients": [
+      "ing-7",
+      "ing-21",
+      "ing-23"
+    ],
+    "targetParameters": {
+      "fine_lines": 3,
+      "texture": 2,
+      "redness_sensitivity": 1
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Mature",
+      "Tired Eyes"
+    ],
+    "concernTags": [
+      "Dark Circles",
+      "Crow's Feet",
+      "Under-Eye Puffiness"
+    ],
+    "contraindications": [],
+    "usage": "Dab a rice-grain amount around orbital bone using ring finger with gentle tapping motions.",
+    "rating": 4.9,
+    "reviewCount": 130,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Treatment"
+  },
+  {
+    "id": "prod-11",
+    "name": "AHA 7% Glycolic & Lactic Glow Resurfacing Tonic",
+    "sku": "CA-VED-011",
+    "brandId": "brand-5",
+    "categoryId": "cat-5",
+    "description": "Exfoliating glow elixir combining bio-glycolic acid with calming Tasmanian pepperberry and green tea. Sweeps away dull keratin cells for instant glass radiance.",
+    "images": [
+      "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1950,
+    "ingredients": [
+      "ing-10",
+      "ing-24",
+      "ing-16"
+    ],
+    "targetParameters": {
+      "texture": 3,
+      "pore_visibility": 2,
+      "pigmentation": 2,
+      "oil_balance": 1
+    },
+    "suitableSkinTypes": [
+      "Normal",
+      "Combination",
+      "Oily"
+    ],
+    "concernTags": [
+      "Dullness",
+      "Roughness",
+      "Clogged Pores"
+    ],
+    "contraindications": [
+      "Extremely sensitive skin",
+      "Broken barrier"
+    ],
+    "usage": "Saturate a cotton pad and sweep across face at night 2-3 times per week.",
+    "rating": 4.6,
+    "reviewCount": 154,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Treatment"
+  },
+  {
+    "id": "prod-12",
+    "name": "Marine Bioactive Tri-Peptide Beauty Collagen Elixir",
+    "sku": "CA-LUX-012",
+    "brandId": "brand-2",
+    "categoryId": "cat-8",
+    "description": "Pure hydrolysed wild Atlantic fish collagen (10,000mg) fortified with Hyaluronic Acid and Glutathione. Clinically proven to enhance dermal elasticity from within.",
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 4500,
+    "ingredients": [
+      "ing-1",
+      "ing-4",
+      "ing-7"
+    ],
+    "targetParameters": {
+      "fine_lines": 3,
+      "hydration": 2,
+      "texture": 2
+    },
+    "suitableSkinTypes": [
+      "All"
+    ],
+    "concernTags": [
+      "Systemic Aging",
+      "Skin Slackening",
+      "Brittle Nails"
+    ],
+    "contraindications": [
+      "Fish / Seafood allergy"
+    ],
+    "usage": "Mix one single-dose sachet into warm water, juice, or morning smoothie daily.",
+    "rating": 4.9,
+    "reviewCount": 84,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": true,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-13",
+    "name": "Clarifying Salicylic & BHA Foaming Mousse",
+    "sku": "CA-AUR-013",
+    "brandId": "brand-1",
+    "categoryId": "cat-1",
+    "description": "Featherlight purifying cloud cleanser that deep-cleans pores without stripping natural hydration. Enriched with Centella to keep skin calmed.",
+    "images": [
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1650,
+    "ingredients": [
+      "ing-5",
+      "ing-6",
+      "ing-15"
+    ],
+    "targetParameters": {
+      "acne_blemishes": 3,
+      "pore_visibility": 2,
+      "oil_balance": 2
+    },
+    "suitableSkinTypes": [
+      "Oily",
+      "Acne-Prone",
+      "Combination"
+    ],
+    "concernTags": [
+      "Acne",
+      "Comedones",
+      "Shine"
+    ],
+    "contraindications": [],
+    "usage": "Pump 2 clouds onto wet palms, massage onto face for 60 seconds, and rinse with lukewarm water.",
+    "rating": 4.7,
+    "reviewCount": 160,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Cleanser"
+  },
+  {
+    "id": "prod-14",
+    "name": "Liposomal Vitamin C 20% + Ferulic Super Serum",
+    "sku": "CA-CEL-014",
+    "brandId": "brand-6",
+    "categoryId": "cat-2",
+    "description": "Stabilized clinical antioxidant serum that fights environmental pollution, reverses UV oxidation, and imparts an unmistakable diamond glow.",
+    "images": [
+      "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 3800,
+    "ingredients": [
+      "ing-4",
+      "ing-22",
+      "ing-1"
+    ],
+    "targetParameters": {
+      "pigmentation": 3,
+      "fine_lines": 2,
+      "texture": 2,
+      "redness_sensitivity": -1
+    },
+    "suitableSkinTypes": [
+      "Normal",
+      "Dry",
+      "Combination"
+    ],
+    "concernTags": [
+      "Dullness",
+      "Urban Pollution",
+      "Dark Spots"
+    ],
+    "contraindications": [
+      "Active flare-up of rosacea"
+    ],
+    "usage": "Apply 4 drops every morning on dry face followed by moisturizer and sunscreen.",
+    "rating": 4.8,
+    "reviewCount": 290,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-15",
+    "name": "Azelaic & Allantoin Rosacea Rescue Balm",
+    "sku": "CA-AUR-015",
+    "brandId": "brand-1",
+    "categoryId": "cat-5",
+    "description": "Soothing clinical cream formulated with 10% micronized Azelaic Acid to diminish facial erythema, calm reactive flushing, and smooth bumpy texture.",
+    "images": [
+      "https://images.unsplash.com/photo-1608248597359-2b0c43632938?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2600,
+    "ingredients": [
+      "ing-11",
+      "ing-18",
+      "ing-6"
+    ],
+    "targetParameters": {
+      "redness_sensitivity": 3,
+      "acne_blemishes": 2,
+      "texture": 2,
+      "pigmentation": 1
+    },
+    "suitableSkinTypes": [
+      "Sensitive",
+      "Rosacea-Prone",
+      "Acne-Prone"
+    ],
+    "concernTags": [
+      "Facial Redness",
+      "Flushing",
+      "Micro-bumps"
+    ],
+    "contraindications": [],
+    "usage": "Smooth a pea-sized amount over areas prone to redness morning and night.",
+    "rating": 4.8,
+    "reviewCount": 112,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Sunscreen"
+  },
+  {
+    "id": "prod-16",
+    "name": "Cellular Peptide Hydro-Plump Emulsion",
+    "sku": "CA-KGL-016",
+    "brandId": "brand-4",
+    "categoryId": "cat-3",
+    "description": "Lightweight moisture veil packed with 7 biocompatible peptides and Squalane. Drenches epidermal cells with moisture while keeping the surface weightless.",
+    "images": [
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2750,
+    "ingredients": [
+      "ing-7",
+      "ing-9",
+      "ing-1"
+    ],
+    "targetParameters": {
+      "hydration": 3,
+      "fine_lines": 2,
+      "texture": 2
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Combination",
+      "Oily Dehydrated"
+    ],
+    "concernTags": [
+      "Dehydration",
+      "Loss of Bounce",
+      "Tired Look"
+    ],
+    "contraindications": [],
+    "usage": "Dispense 2 pumps onto face and neck after serum application.",
+    "rating": 4.8,
+    "reviewCount": 76,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Treatment"
+  },
+  {
+    "id": "prod-17",
+    "name": "Volcanic Mineral Pore Refiner Clay Mask",
+    "sku": "CA-OAS-017",
+    "brandId": "brand-7",
+    "categoryId": "cat-6",
+    "description": "Purifying desert clay enriched with Zinc PCA and Salicylic Acid. Pulls impurities, micro-dust, and stubborn sebum out of pores in just 10 minutes.",
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2100,
+    "ingredients": [
+      "ing-5",
+      "ing-15",
+      "ing-16"
+    ],
+    "targetParameters": {
+      "pore_visibility": 3,
+      "oil_balance": 3,
+      "acne_blemishes": 2
+    },
+    "suitableSkinTypes": [
+      "Oily",
+      "Congested",
+      "Combination"
+    ],
+    "concernTags": [
+      "Large Pores",
+      "Blackheads",
+      "Shiny T-Zone"
+    ],
+    "contraindications": [],
+    "usage": "Apply an even layer on T-zone once a week. Wash off before clay completely hardens.",
+    "rating": 4.7,
+    "reviewCount": 140,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-18",
+    "name": "Midnight Royal Truffle Restorative Sleeping Cream",
+    "sku": "CA-ROY-018",
+    "brandId": "brand-8",
+    "categoryId": "cat-3",
+    "description": "Decadent velvet night cream infused with rare Italian white truffle extract and Ceramides. Rebuilds lipid architecture and erases cellular fatigue while you sleep.",
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 6500,
+    "ingredients": [
+      "ing-8",
+      "ing-17",
+      "ing-23"
+    ],
+    "targetParameters": {
+      "hydration": 3,
+      "fine_lines": 3,
+      "texture": 3,
+      "redness_sensitivity": 2
+    },
+    "suitableSkinTypes": [
+      "Dry",
+      "Very Dry",
+      "Mature"
+    ],
+    "concernTags": [
+      "Extreme Dryness",
+      "Deep Wrinkles",
+      "Barrier Depletion"
+    ],
+    "contraindications": [],
+    "usage": "Massage generously onto face, neck, and chest before retiring for sleep.",
+    "rating": 5,
+    "reviewCount": 95,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-19",
+    "name": "Phyto-Bakuchiol Gentle Age-Defying Essence",
+    "sku": "CA-AYU-019",
+    "brandId": "brand-3",
+    "categoryId": "cat-2",
+    "description": "Ayurvedic Babchi seed extract formulated to 2% purity. Mimics retinol's cellular renewal without causing photo-sensitization or flaking.",
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 3100,
+    "ingredients": [
+      "ing-12",
+      "ing-1",
+      "ing-17"
+    ],
+    "targetParameters": {
+      "fine_lines": 2,
+      "texture": 2,
+      "pigmentation": 2,
+      "redness_sensitivity": 2
+    },
+    "suitableSkinTypes": [
+      "Sensitive",
+      "Normal",
+      "Mature",
+      "Pregnant/Nursing"
+    ],
+    "concernTags": [
+      "Early Aging",
+      "Sensitive Aging",
+      "Uneven Texture"
+    ],
+    "contraindications": [],
+    "usage": "Apply 3-4 drops morning and evening as a gentle anti-aging serum.",
+    "rating": 4.8,
+    "reviewCount": 180,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-20",
+    "name": "Centella & Green Tea Calming Mist",
+    "sku": "CA-AUR-020",
+    "brandId": "brand-1",
+    "categoryId": "cat-1",
+    "description": "Fine micro-mist infused with pure Centella Asiatica leaf water and Camellia Sinensis antioxidants. Instantly quells heat, stress, and office AC dryness.",
+    "images": [
+      "https://images.unsplash.com/photo-1556228722-d0b77a06a208?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1200,
+    "ingredients": [
+      "ing-6",
+      "ing-16",
+      "ing-18"
+    ],
+    "targetParameters": {
+      "redness_sensitivity": 3,
+      "hydration": 2
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Sensitive",
+      "Dehydrated"
+    ],
+    "concernTags": [
+      "Flushing",
+      "Office Dryness",
+      "Post-Workout Heat"
+    ],
+    "contraindications": [],
+    "usage": "Mist liberally over face whenever skin feels tight, flushed, or fatigued.",
+    "rating": 4.7,
+    "reviewCount": 220,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-21",
+    "name": "Ceramide Tri-Action Moisture Balm",
+    "sku": "CA-VED-021",
+    "brandId": "brand-5",
+    "categoryId": "cat-3",
+    "description": "Concentrated 3:1:1 physiological lipid ratio barrier cream that instantly seals in cellular moisture and shields against harsh urban smog.",
+    "images": [
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1850,
+    "ingredients": [
+      "ing-8",
+      "ing-9",
+      "ing-19"
+    ],
+    "targetParameters": {
+      "hydration": 3,
+      "redness_sensitivity": 2,
+      "texture": 2
+    },
+    "suitableSkinTypes": [
+      "Dry",
+      "Compromised",
+      "Sensitive"
+    ],
+    "concernTags": [
+      "Peeling",
+      "Compromised Barrier",
+      "Itching"
+    ],
+    "contraindications": [],
+    "usage": "Warm a hazelnut amount and press into skin after active serums.",
+    "rating": 4.9,
+    "reviewCount": 110,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Treatment"
+  },
+  {
+    "id": "prod-22",
+    "name": "Snail Mucin 96% Collagen Elasticity Essence",
+    "sku": "CA-KGL-022",
+    "brandId": "brand-4",
+    "categoryId": "cat-2",
+    "description": "High-density Korean filtered snail secretion concentrate that repairs micro-damage, plumps sunken lines, and delivers a glossy glass skin finish.",
+    "images": [
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1950,
+    "ingredients": [
+      "ing-20",
+      "ing-1",
+      "ing-18"
+    ],
+    "targetParameters": {
+      "texture": 3,
+      "hydration": 3,
+      "fine_lines": 1,
+      "acne_blemishes": 1
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Combination",
+      "Acne-Scarred"
+    ],
+    "concernTags": [
+      "Rough Patches",
+      "Acne Scars",
+      "Loss of Bounce"
+    ],
+    "contraindications": [],
+    "usage": "Pump 2-3 drops onto damp skin and pat until fully absorbed.",
+    "rating": 4.9,
+    "reviewCount": 512,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Treatment"
+  },
+  {
+    "id": "prod-23",
+    "name": "Blemish SOS Salicylic Micro-Spot Patch (36 patches)",
+    "sku": "CA-VED-023",
+    "brandId": "brand-5",
+    "categoryId": "cat-5",
+    "description": "Hydrocolloid micro-dart patches loaded with 0.5% Salicylic Acid, Tea Tree, and Niacinamide to flatten cystic papules overnight.",
+    "images": [
+      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 850,
+    "ingredients": [
+      "ing-5",
+      "ing-2",
+      "ing-6"
+    ],
+    "targetParameters": {
+      "acne_blemishes": 3,
+      "redness_sensitivity": 2
+    },
+    "suitableSkinTypes": [
+      "All"
+    ],
+    "concernTags": [
+      "Emergency Breakouts",
+      "Whiteheads",
+      "Inflamed Pimples"
+    ],
+    "contraindications": [],
+    "usage": "Stick patch over cleaned dry pimple before bed. Peel off in the morning.",
+    "rating": 4.8,
+    "reviewCount": 340,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-24",
+    "name": "24K Gold Lift & Glow Collagen Hydrogel Eye Patches (30 pairs)",
+    "sku": "CA-ROY-024",
+    "brandId": "brand-8",
+    "categoryId": "cat-7",
+    "description": "Shimmering gold hydrogel eye wraps soaked in caffeine, peptides, and collagen to banish morning puffiness and erase tired shadows.",
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2900,
+    "ingredients": [
+      "ing-7",
+      "ing-1",
+      "ing-21"
+    ],
+    "targetParameters": {
+      "fine_lines": 2,
+      "hydration": 2,
+      "texture": 2
+    },
+    "suitableSkinTypes": [
+      "All"
+    ],
+    "concernTags": [
+      "Dark Circles",
+      "Tired Eyes",
+      "Morning Puffiness"
+    ],
+    "contraindications": [],
+    "usage": "Place under eyes for 15 minutes before makeup application.",
+    "rating": 4.8,
+    "reviewCount": 175,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-25",
+    "name": "Pure Mineral Zinc Matte Fluid SPF 50",
+    "sku": "CA-OAS-025",
+    "brandId": "brand-7",
+    "categoryId": "cat-4",
+    "description": "100% Non-nano Zinc Oxide mineral sunscreen that keeps oily complexions matte all day while providing chemical-free protection for hypersensitive skin.",
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2650,
+    "ingredients": [
+      "ing-15",
+      "ing-18",
+      "ing-6"
+    ],
+    "targetParameters": {
+      "oil_balance": 2,
+      "redness_sensitivity": 3,
+      "pigmentation": 2
+    },
+    "suitableSkinTypes": [
+      "Sensitive",
+      "Oily",
+      "Rosacea-Prone"
+    ],
+    "concernTags": [
+      "Sun Sensitivity",
+      "Excess Shine",
+      "Chemical Sunscreen Allergy"
+    ],
+    "contraindications": [],
+    "usage": "Shake well and apply 2 finger-lengths across face and neck every morning.",
+    "rating": 4.7,
+    "reviewCount": 95,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Treatment"
+  },
+  {
+    "id": "prod-26",
+    "name": "Botanical Lactic & Papaya Enzymatic Peeling Mask",
+    "sku": "CA-AYU-026",
+    "brandId": "brand-3",
+    "categoryId": "cat-6",
+    "description": "Non-abrasive enzymatic peel blending green papaya enzymes with 5% Lactic Acid to dissolve dull surface cells and unveil velvety cashmere skin.",
+    "images": [
+      "https://images.unsplash.com/photo-1512290900672-1f5be6cb7529?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2800,
+    "ingredients": [
+      "ing-24",
+      "ing-17",
+      "ing-21"
+    ],
+    "targetParameters": {
+      "texture": 3,
+      "pigmentation": 2,
+      "pore_visibility": 2
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Sensitive",
+      "Dull"
+    ],
+    "concernTags": [
+      "Dull Complexion",
+      "Flaking",
+      "Uneven Grain"
+    ],
+    "contraindications": [],
+    "usage": "Apply thin layer on dry face for 10 minutes, then rinse with warm water.",
+    "rating": 4.8,
+    "reviewCount": 104,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Serum"
+  },
+  {
+    "id": "prod-27",
+    "name": "Cellular Multi-Omegas Radiance Face Oil",
+    "sku": "CA-CEL-027",
+    "brandId": "brand-6",
+    "categoryId": "cat-2",
+    "description": "Ultra-pure botanical lipid blend containing Omega 3, 6, 7 & 9 from Sea Buckthorn, Rosehip, and Squalane. Imparts an instant runway glow.",
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 4200,
+    "ingredients": [
+      "ing-9",
+      "ing-17",
+      "ing-23"
+    ],
+    "targetParameters": {
+      "hydration": 2,
+      "fine_lines": 2,
+      "texture": 2,
+      "oil_balance": -1
+    },
+    "suitableSkinTypes": [
+      "Dry",
+      "Very Dry",
+      "Dull"
+    ],
+    "concernTags": [
+      "Extreme Dryness",
+      "Lack of Radiance",
+      "Flaky Skin"
+    ],
+    "contraindications": [
+      "Heavy acne-prone skin"
+    ],
+    "usage": "Press 2-3 drops into skin morning and night after moisturizer.",
+    "rating": 4.9,
+    "reviewCount": 88,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Cleanser"
+  },
+  {
+    "id": "prod-28",
+    "name": "Glutathione & Astaxanthin Oral Radiance Drops",
+    "sku": "CA-LUX-028",
+    "brandId": "brand-2",
+    "categoryId": "cat-8",
+    "description": "Sublingual nano-liposomal drops combining Setria Glutathione with Hawaiian Astaxanthin to supercharge internal free-radical defense and brighten tone.",
+    "images": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 5200,
+    "ingredients": [
+      "ing-4",
+      "ing-23"
+    ],
+    "targetParameters": {
+      "pigmentation": 3,
+      "fine_lines": 2
+    },
+    "suitableSkinTypes": [
+      "All"
+    ],
+    "concernTags": [
+      "Stubborn Hyperpigmentation",
+      "Photo-Aging",
+      "Tired Skin"
+    ],
+    "contraindications": [],
+    "usage": "Place 1ml under tongue for 30 seconds before swallowing once daily.",
+    "rating": 4.9,
+    "reviewCount": 65,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-29",
+    "name": "Centella & Peptide Soothing Sleeping Pack",
+    "sku": "CA-KGL-029",
+    "brandId": "brand-4",
+    "categoryId": "cat-6",
+    "description": "Overnight memory-gel sleeping mask that blankets stressed, sunburnt, or over-exfoliated skin in a cooling cocoon of Madecassoside and Peptides.",
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2300,
+    "ingredients": [
+      "ing-6",
+      "ing-7",
+      "ing-19"
+    ],
+    "targetParameters": {
+      "redness_sensitivity": 3,
+      "hydration": 3,
+      "texture": 2
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Sensitive",
+      "Over-Exfoliated"
+    ],
+    "concernTags": [
+      "Skin Burnout",
+      "Redness",
+      "Barrier Repair"
+    ],
+    "contraindications": [],
+    "usage": "Apply as final step of nighttime routine. Rinse with water in the morning.",
+    "rating": 4.8,
+    "reviewCount": 140,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Treatment"
+  },
+  {
+    "id": "prod-30",
+    "name": "Pore-Tightening Witch Hazel & Niacinamide Toner",
+    "sku": "CA-AUR-030",
+    "brandId": "brand-1",
+    "categoryId": "cat-1",
+    "description": "Alcohol-free botanical balancing tonic that clears residual impurities, balances pH to 5.5, and refines open pore appearance.",
+    "images": [
+      "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1400,
+    "ingredients": [
+      "ing-2",
+      "ing-16",
+      "ing-18"
+    ],
+    "targetParameters": {
+      "pore_visibility": 2,
+      "oil_balance": 2,
+      "hydration": 1
+    },
+    "suitableSkinTypes": [
+      "Combination",
+      "Oily",
+      "Normal"
+    ],
+    "concernTags": [
+      "Oily Residue",
+      "Visible Pores"
+    ],
+    "contraindications": [],
+    "usage": "Pat onto clean face using hands or a reusable bamboo pad.",
+    "rating": 4.6,
+    "reviewCount": 90,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Cleanser"
+  },
+  {
+    "id": "prod-31",
+    "name": "Multi-Ceramide Daily Barrier Defense Cream",
+    "sku": "CA-OAS-031",
+    "brandId": "brand-7",
+    "categoryId": "cat-3",
+    "description": "Non-greasy daily barrier fortress with 5 essential ceramides and cholesterol. Shields skin from air-conditioning dehydration and urban pollution.",
+    "images": [
+      "https://images.unsplash.com/photo-1512290900672-1f5be6cb7529?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 2200,
+    "ingredients": [
+      "ing-8",
+      "ing-1",
+      "ing-9"
+    ],
+    "targetParameters": {
+      "hydration": 2,
+      "redness_sensitivity": 2,
+      "texture": 1
+    },
+    "suitableSkinTypes": [
+      "All",
+      "Normal",
+      "Dry"
+    ],
+    "concernTags": [
+      "Dehydration",
+      "City Smog",
+      "Weak Barrier"
+    ],
+    "contraindications": [],
+    "usage": "Massage into face and neck morning and night.",
+    "rating": 4.8,
+    "reviewCount": 118,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Moisturizer"
+  },
+  {
+    "id": "prod-32",
+    "name": "Rose Water & Kashmiri Saffron Facial Mist",
+    "sku": "CA-AYU-032",
+    "brandId": "brand-3",
+    "categoryId": "cat-1",
+    "description": "Pure steam-distilled Kannauj damask rose water infused with organic saffron threads. Leaves skin refreshed, soft, and delicately perfumed.",
+    "images": [
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80"
+    ],
+    "mrp": 1100,
+    "ingredients": [
+      "ing-17",
+      "ing-21"
+    ],
+    "targetParameters": {
+      "hydration": 2,
+      "redness_sensitivity": 1,
+      "pigmentation": 1
+    },
+    "suitableSkinTypes": [
+      "All"
+    ],
+    "concernTags": [
+      "Midday Refresh",
+      "Dullness"
+    ],
+    "contraindications": [],
+    "usage": "Spritz anytime over face and neck.",
+    "rating": 4.9,
+    "reviewCount": 380,
+    "status": "active",
+    "taxRate": 0.18,
+    "hsn": "330499",
+    "sponsored": false,
+    "routineStep": "Cleanser"
+  }
+]

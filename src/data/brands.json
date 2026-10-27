@@ -1,0 +1,66 @@
+[
+  {
+    "id": "brand-1",
+    "name": "Aura Botanicals",
+    "logo": "/brand/brand-1.svg",
+    "origin": "Geneva, Switzerland",
+    "description": "Alpine botanical bio-ferments tailored for high-altitude skin resilience.",
+    "status": "active"
+  },
+  {
+    "id": "brand-2",
+    "name": "LuxeDerm Paris",
+    "logo": "/brand/brand-2.svg",
+    "origin": "Paris, France",
+    "description": "Haute-couture dermatological science blending clinical peptides with precious oils.",
+    "status": "active"
+  },
+  {
+    "id": "brand-3",
+    "name": "AyurVeda Radiance",
+    "logo": "/brand/brand-3.svg",
+    "origin": "Udaipur, India",
+    "description": "Royal Indian botanical elixirs crafted with 24K gold bhasma and wild Kashmiri saffron.",
+    "status": "active"
+  },
+  {
+    "id": "brand-4",
+    "name": "K-Glow Labs",
+    "logo": "/brand/brand-4.svg",
+    "origin": "Seoul, South Korea",
+    "description": "Next-generation cellular glass skin technologies powered by polyglutamic acid.",
+    "status": "active"
+  },
+  {
+    "id": "brand-5",
+    "name": "Veda Pure Science",
+    "logo": "/brand/brand-5.svg",
+    "origin": "Bengaluru, India",
+    "description": "Biotech dermoceuticals merging Indian herbs with stabilized liposomal vitamins.",
+    "status": "active"
+  },
+  {
+    "id": "brand-6",
+    "name": "Celestia Skincare",
+    "logo": "/brand/brand-6.svg",
+    "origin": "London, UK",
+    "description": "Chronobiological nighttime recovery serums with encapsulated retinaldehyde.",
+    "status": "active"
+  },
+  {
+    "id": "brand-7",
+    "name": "Oasis Dermatology",
+    "logo": "/brand/brand-7.svg",
+    "origin": "Dubai, UAE",
+    "description": "Extreme desert climate defense formulated for high UV index and barrier repair.",
+    "status": "active"
+  },
+  {
+    "id": "brand-8",
+    "name": "Royale Nectar",
+    "logo": "/brand/brand-8.svg",
+    "origin": "Milan, Italy",
+    "description": "Bee venom, royal jelly, and white truffle extracts for royal lifting rituals.",
+    "status": "active"
+  }
+]

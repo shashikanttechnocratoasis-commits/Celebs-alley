@@ -1,0 +1,31 @@
+{
+  "commissionPlans": {
+    "Free": 12,
+    "Starter": 10,
+    "Business": 8,
+    "Empire": 6
+  },
+  "sellerCommissionOverrides": {
+    "seller-1": 8
+  },
+  "defaultGSTRate": 18,
+  "paymentGatewayFeePercent": 2,
+  "consultantCommissionPercent": 15,
+  "returnWindowDays": 7,
+  "freeShippingThresholdPaise": 99900,
+  "activeModelVersionId": "model-sim-1.0",
+  "maxRecommendationScoreCap": 98,
+  "minimumStockForRecommendation": 1,
+  "sellerRankingWeights": {
+    "price": 35,
+    "stock": 20,
+    "rating": 25,
+    "delivery": 15,
+    "status": 5
+  },
+  "matchScoreThresholds": {
+    "excellent": 85,
+    "good": 70,
+    "fair": 50
+  }
+}

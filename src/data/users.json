@@ -1,0 +1,178 @@
+[
+  {
+    "id": "user-super-admin",
+    "name": "Rajesh Sharma",
+    "email": "rajesh.admin@celebsalley.com",
+    "phone": "+91 98200 11001",
+    "role": "Super Admin",
+    "avatar": "",
+    "city": "Mumbai"
+  },
+  {
+    "id": "user-admin",
+    "name": "Ananya Roy",
+    "email": "ananya.ops@celebsalley.com",
+    "phone": "+91 98200 11002",
+    "role": "Admin",
+    "avatar": "",
+    "city": "New Delhi"
+  },
+  {
+    "id": "user-product-manager",
+    "name": "Vikram Malhotra",
+    "email": "vikram.pm@celebsalley.com",
+    "phone": "+91 98200 11003",
+    "role": "Product Manager",
+    "avatar": "",
+    "city": "Bengaluru"
+  },
+  {
+    "id": "user-ai-manager",
+    "name": "Dr. Sneha Iyer",
+    "email": "sneha.ai@celebsalley.com",
+    "phone": "+91 98200 11004",
+    "role": "AI/Rule Manager",
+    "avatar": "",
+    "city": "Hyderabad"
+  },
+  {
+    "id": "user-seller-owner",
+    "name": "Kabir Singhania",
+    "email": "kabir@royalbeauty.in",
+    "phone": "+91 98200 11005",
+    "role": "Distributor Owner",
+    "avatar": "",
+    "sellerId": "seller-1",
+    "city": "Mumbai"
+  },
+  {
+    "id": "user-seller-manager",
+    "name": "Priya Verma",
+    "email": "priya.m@royalbeauty.in",
+    "phone": "+91 98200 11006",
+    "role": "Distributor Manager",
+    "avatar": "",
+    "sellerId": "seller-1",
+    "city": "Mumbai"
+  },
+  {
+    "id": "user-inventory-manager",
+    "name": "Rohan Gupta",
+    "email": "rohan.inv@royalbeauty.in",
+    "phone": "+91 98200 11007",
+    "role": "Inventory Manager",
+    "avatar": "",
+    "sellerId": "seller-1",
+    "city": "Mumbai"
+  },
+  {
+    "id": "user-sales-exec",
+    "name": "Amit Patel",
+    "email": "amit.sales@royalbeauty.in",
+    "phone": "+91 98200 11008",
+    "role": "Sales Executive",
+    "avatar": "",
+    "sellerId": "seller-1",
+    "city": "Ahmedabad"
+  },
+  {
+    "id": "user-order-manager",
+    "name": "Vikas Sethi",
+    "email": "vikas.orders@royalbeauty.in",
+    "phone": "+91 98200 11012",
+    "role": "Order Manager",
+    "avatar": "",
+    "sellerId": "seller-1",
+    "city": "Mumbai"
+  },
+  {
+    "id": "user-accountant",
+    "name": "Suresh Menon",
+    "email": "suresh.acc@royalbeauty.in",
+    "phone": "+91 98200 11013",
+    "role": "Accountant",
+    "avatar": "",
+    "sellerId": "seller-1",
+    "city": "Mumbai"
+  },
+  {
+    "id": "user-seller-pending",
+    "name": "Mahesh Rathore",
+    "email": "mahesh@rajputanabeauty.com",
+    "phone": "+91 98290 88991",
+    "role": "Distributor Owner",
+    "avatar": "",
+    "sellerId": "seller-5",
+    "city": "Jaipur"
+  },
+  {
+    "id": "user-seller-rejected",
+    "name": "Tariq Mir",
+    "email": "tariq@kashmirdistillers.in",
+    "phone": "+91 94190 22335",
+    "role": "Distributor Owner",
+    "avatar": "",
+    "sellerId": "seller-7",
+    "city": "Srinagar"
+  },
+  {
+    "id": "user-consultant",
+    "name": "Dr. Meera Nambiar",
+    "email": "meera.derm@celebsalley.com",
+    "phone": "+91 98200 11009",
+    "role": "Consultant",
+    "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80",
+    "consultantId": "cons-1",
+    "city": "Bengaluru",
+    "status": "active"
+  },
+  {
+    "id": "user-consultant-2",
+    "name": "Dr. Aditya Singhal",
+    "email": "aditya.derm@celebsalley.com",
+    "phone": "+91 98200 11019",
+    "role": "Consultant",
+    "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+    "consultantId": "cons-2",
+    "city": "New Delhi",
+    "status": "active"
+  },
+  {
+    "id": "user-consultant-3",
+    "name": "Dr. Shalini Deshmukh",
+    "email": "shalini.derm@celebsalley.com",
+    "phone": "+91 98200 11029",
+    "role": "Consultant",
+    "avatar": "https://images.unsplash.com/photo-1594824813581-ea0d6b63c9b6?auto=format&fit=crop&w=600&q=80",
+    "consultantId": "cons-3",
+    "city": "Mumbai",
+    "status": "active"
+  },
+  {
+    "id": "user-customer",
+    "name": "Ritu Sharma",
+    "email": "ritu.sharma@example.com",
+    "phone": "+91 98200 11010",
+    "role": "Customer",
+    "avatar": "",
+    "city": "Kota"
+  },
+  {
+    "id": "user-support",
+    "name": "Tarun Joshi",
+    "email": "support.tarun@celebsalley.com",
+    "phone": "+91 98200 11011",
+    "role": "Support Agent",
+    "avatar": "",
+    "city": "Pune"
+  },
+  {
+    "id": "user-finance",
+    "name": "Suresh Menon",
+    "email": "finance.suresh@celebsalley.com",
+    "phone": "+91 98200 11012",
+    "role": "Finance Manager",
+    "avatar": "",
+    "city": "Chennai"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "team-1",
+    "name": "Dr. Meera Nambiar",
+    "role": "Chief Aesthetic Dermatologist & Co-Founder",
+    "bio": "MD Dermatology with 14+ years in laser therapeutics, clinical cosmeceuticals, and facial aging biology. Former consultant at AIIMS.",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80",
+    "specialty": "AI Clinical Diagnostics & Melasma",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com"
+    }
+  },
+  {
+    "id": "team-2",
+    "name": "Vikram Malhotra",
+    "role": "Chief Technology Officer & Head of AI",
+    "bio": "IIT Delhi alumnus and former computer vision researcher at Stanford Vision Lab. Specializes in spectral image processing.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
+    "specialty": "Neural Vision Architectures",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "team-3",
+    "name": "Dr. Shalini Deshmukh",
+    "role": "Head of Ayurvedic Formulations",
+    "bio": "MD in Dravyaguna (Ayurvedic Herbology) with 16 years of clinical practice blending Vedic pharmacology with modern transdermal delivery systems.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+    "specialty": "Phyto-chemistry & 24K Gold Alchemy",
+    "social": {
+      "linkedin": "https://linkedin.com"
+    }
+  },
+  {
+    "id": "team-4",
+    "name": "Dr. Aditya Singhal",
+    "role": "Lead Dermatologic Surgeon",
+    "bio": "MBBS, DDVL specializing in fractional RF, deep acne remodeling, and clinical phototherapy treatments.",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=600&q=80",
+    "specialty": "Laser & Collagen Induction",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com"
+    }
+  }
+]

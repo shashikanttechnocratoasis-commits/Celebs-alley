@@ -1,0 +1,52 @@
+[
+  {
+    "step": 1,
+    "key": "capture",
+    "title": "Multi-Angle Spectral Capture",
+    "subtitle": "Front, Left & Right Profiles",
+    "description": "Using your device camera with guided lighting alignment, our scanner captures high-resolution frontal and profile views to reconstruct a 3D facial topology.",
+    "icon": "Camera",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "metrics": ["Ambient Light Check", "Mesh Alignment", "Focus Calibration"]
+  },
+  {
+    "step": 2,
+    "key": "analyze",
+    "title": "Sub-Surface Neural Analysis",
+    "subtitle": "8 Core Skin Parameters",
+    "description": "Deep learning convolutional models dissect dermal layers to quantify Hydration, Sebum, Pigmentation, Pore Density, Texture, Firmness, Redness, and Fine Lines.",
+    "icon": "Cpu",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+    "metrics": ["99.4% Clinical Precision", "Multi-Layer Decomposition", "Sub-Dermal Scoring"]
+  },
+  {
+    "step": 3,
+    "key": "personalize",
+    "title": "Algorithmic Formulation Matching",
+    "subtitle": "Ingredient Compatibility Matrix",
+    "description": "The recommendation engine cross-references your 8 scores against 40+ active ingredients and 30+ products to eliminate irritants and maximize synergy.",
+    "icon": "Sparkles",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+    "metrics": ["Contraindication Filter", "Climate Adjustment", "Targeted Potency"]
+  },
+  {
+    "step": 4,
+    "key": "transform",
+    "title": "Dermatologist Supervised Care",
+    "subtitle": "Clinical Validation & Treatment",
+    "description": "Board-certified aesthetic dermatologists review your diagnostics, fine-tune your morning/evening ritual, and schedule virtual or in-clinic rituals.",
+    "icon": "UserCheck",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=80",
+    "metrics": ["MD Review", "Custom Compounding", "Clinic Integration"]
+  },
+  {
+    "step": 5,
+    "key": "monitor",
+    "title": "Continuous Progress Tracking",
+    "subtitle": "Adaptive Routine Evolution",
+    "description": "Repeat scans every 30 days dynamically adjust ingredient strengths as your skin barrier regenerates and seasonal weather conditions change.",
+    "icon": "LineChart",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    "metrics": ["30-Day Re-Assessment", "Score Delta Graphs", "Dynamic Refills"]
+  }
+]

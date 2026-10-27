@@ -1,0 +1,42 @@
+[
+  {
+    "id": "courier-1",
+    "name": "Blue Dart Express",
+    "code": "BLUEDART",
+    "trackingPrefix": "BD",
+    "avgDeliveryDays": 2,
+    "status": "active"
+  },
+  {
+    "id": "courier-2",
+    "name": "Delhivery Surface & Express",
+    "code": "DELHIVERY",
+    "trackingPrefix": "DEL",
+    "avgDeliveryDays": 3,
+    "status": "active"
+  },
+  {
+    "id": "courier-3",
+    "name": "DTDC Express Prime",
+    "code": "DTDC",
+    "trackingPrefix": "DT",
+    "avgDeliveryDays": 3,
+    "status": "active"
+  },
+  {
+    "id": "courier-4",
+    "name": "Shadowfax Premium Logistics",
+    "code": "SHADOWFAX",
+    "trackingPrefix": "SFX",
+    "avgDeliveryDays": 2,
+    "status": "active"
+  },
+  {
+    "id": "courier-5",
+    "name": "Xpressbees Cosmeceutical Air",
+    "code": "XPRESSBEES",
+    "trackingPrefix": "XB",
+    "avgDeliveryDays": 4,
+    "status": "active"
+  }
+]

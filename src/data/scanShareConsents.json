@@ -1,0 +1,34 @@
+[
+  {
+    "id": "consent-cust-1-cons-1",
+    "customerId": "cust-1",
+    "consultantId": "cons-1",
+    "granted": true,
+    "timestamp": "2026-10-10T09:15:00Z",
+    "revocable": true
+  },
+  {
+    "id": "consent-cust-2-cons-2",
+    "customerId": "cust-2",
+    "consultantId": "cons-2",
+    "granted": true,
+    "timestamp": "2026-10-11T14:30:00Z",
+    "revocable": true
+  },
+  {
+    "id": "consent-cust-4-cons-3",
+    "customerId": "cust-4",
+    "consultantId": "cons-3",
+    "granted": true,
+    "timestamp": "2026-10-12T11:00:00Z",
+    "revocable": true
+  },
+  {
+    "id": "consent-cust-3-cons-1",
+    "customerId": "cust-3",
+    "consultantId": "cons-1",
+    "granted": false,
+    "timestamp": "2026-10-13T16:45:00Z",
+    "revocable": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "test-1",
+    "author": "Princess Gayatri Kumari",
+    "role": "Heritage Hotelier, Jaipur",
+    "rating": 5,
+    "comment": "Celebs Alley feels like having a Harley Street dermatology clinic and a royal apothecary right on my phone. The AI scan decoded my dehydration issues with astonishing accuracy.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  },
+  {
+    "id": "test-2",
+    "author": "Dr. Rehan Merchant",
+    "role": "Aesthetic Physician, Mumbai",
+    "rating": 5,
+    "comment": "As a distributor, the B2B SaaS portal gives us unprecedented transparency into regional inventory flow. The instant AI product matching brings us qualified, high-intent luxury buyers.",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  },
+  {
+    "id": "test-3",
+    "author": "Rhea Singhania",
+    "role": "Vogue India Contributor",
+    "rating": 5,
+    "comment": "The 8-parameter breakdown is brilliant! It pointed out sub-surface UV pigmentation before it even showed up on my cheeks. The recommended saffron oil worked magic.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  },
+  {
+    "id": "test-4",
+    "author": "Ananya Deshmukh",
+    "role": "Architect, Bengaluru",
+    "rating": 5,
+    "comment": "Zero fluff, zero generic routines. Every single serum suggested aligned with my rosacea redness score. My skin has never looked more luminous.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  },
+  {
+    "id": "test-5",
+    "author": "Karan Oberoi",
+    "role": "Creative Director, New Delhi",
+    "rating": 5,
+    "comment": "The checkout experience across multiple luxury distributors is seamless. Products arrive in temperature-controlled luxury gold packaging within 48 hours.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  },
+  {
+    "id": "test-6",
+    "author": "Shreya Ghoshal-Pillai",
+    "role": "Classical Vocalist, Chennai",
+    "rating": 5,
+    "comment": "The virtual consultation with Dr. Meera Nambiar was sublime. She reviewed my AI scan live on screen and custom-calibrated my evening routine.",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  },
+  {
+    "id": "test-7",
+    "author": "Kabir Wadia",
+    "role": "Founder, Wadia Logistics",
+    "rating": 5,
+    "comment": "Managing 32 high-value luxury SKUs with real-time stock sync has cut our operational overhead by 40%. Celebs Alley is the gold standard for beauty SaaS.",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  },
+  {
+    "id": "test-8",
+    "author": "Mahira Khan-Verma",
+    "role": "Film Producer, Mumbai",
+    "rating": 5,
+    "comment": "The Gold on Black visual design is pure indulgence. It makes beauty tech feel glamorous rather than clinical.",
+    "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=300&q=80",
+    "verified": true
+  }
+]

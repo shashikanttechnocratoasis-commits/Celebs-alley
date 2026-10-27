@@ -1,0 +1,30 @@
+[
+  {
+    "id": "addr-1",
+    "customerId": "cust-1",
+    "name": "Radhika Singhania",
+    "mobile": "9824424455",
+    "addressLine1": "Penthouse 42, Altamount Signature Tower, Altamount Road",
+    "addressLine2": "Near Cumballa Hill Hospital",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400026",
+    "type": "home",
+    "isDefault": true,
+    "createdAt": "2026-09-12T10:00:00Z"
+  },
+  {
+    "id": "addr-2",
+    "customerId": "cust-1",
+    "name": "Radhika Singhania",
+    "mobile": "9824424455",
+    "addressLine1": "Level 14, Tower B, Peninsula Business Park, Lower Parel",
+    "addressLine2": "Corporate Suite 1402",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400013",
+    "type": "work",
+    "isDefault": false,
+    "createdAt": "2026-09-18T14:30:00Z"
+  }
+]

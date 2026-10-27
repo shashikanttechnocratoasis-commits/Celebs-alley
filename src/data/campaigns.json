@@ -1,0 +1,51 @@
+[
+  {
+    "id": "camp-1",
+    "name": "Intense Moisture Infusion Protocol",
+    "targetSegment": "low_hydration",
+    "channel": "email",
+    "status": "sent",
+    "scheduledDate": "2026-10-12T10:00:00Z",
+    "sentDate": "2026-10-12T10:05:00Z",
+    "audienceCount": 420,
+    "subject": "Your Hydration Score Alert: Clinically Selected Humectant Regimens",
+    "messageBody": "Dear Radhika, your recent 8-parameter facial scan identified an epidermal hydration score below optimal thresholds. We have curated three medical-grade hyaluronic and polyglutamic complexes with 15% complimentary boutique credit.",
+    "results": {
+      "delivered": 418,
+      "opened": 284,
+      "converted": 62
+    }
+  },
+  {
+    "id": "camp-2",
+    "name": "Diwali Luxury Regimen Private Access",
+    "targetSegment": "repeat_buyers",
+    "channel": "push",
+    "status": "scheduled",
+    "scheduledDate": "2026-10-28T09:00:00Z",
+    "audienceCount": 185,
+    "subject": "Exclusive Tier Invitation: 24K Gold Cellular Serum First Release",
+    "messageBody": "As an esteemed Celebs Alley Patron, unlock early reservation rights for our limited 100-batch 24K Gold Nanoparticle Compounding run.",
+    "results": {
+      "delivered": 0,
+      "opened": 0,
+      "converted": 0
+    }
+  },
+  {
+    "id": "camp-3",
+    "name": "Sebum Balance & Pore Refining Advisory",
+    "targetSegment": "high_sebum",
+    "channel": "sms",
+    "status": "draft",
+    "scheduledDate": "2026-11-02T11:00:00Z",
+    "audienceCount": 310,
+    "subject": "Targeted Zinc & Niacinamide Clarification",
+    "messageBody": "Regulate T-zone shine within 14 days. Review your personalized sebum control formulation on Celebs Alley with code CLARITY10.",
+    "results": {
+      "delivered": 0,
+      "opened": 0,
+      "converted": 0
+    }
+  }
+]

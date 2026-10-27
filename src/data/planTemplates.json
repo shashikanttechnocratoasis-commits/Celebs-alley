@@ -1,0 +1,182 @@
+[
+  {
+    "id": "template-1",
+    "title": "Barrier Rehabilitation 4-Week Reset",
+    "description": "High-affinity ceramide and cica regimen designed to quench sub-dermal redness, restore the acid mantle, and eliminate flaking.",
+    "durationWeeks": 4,
+    "goals": [
+      "Quench transepidermal water loss",
+      "Soothe microvascular capillary flushing",
+      "Restore epidermal lipid barrier integrity"
+    ],
+    "amRoutine": [
+      {
+        "id": "step-t1-1",
+        "order": 1,
+        "productId": "prod-1",
+        "productName": "Golden Elixir Cellular Infusion Serum",
+        "productBrand": "Aura Botanica",
+        "productImage": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 94,
+        "usageInstructions": "Press 3-4 drops onto damp skin after misting. Pat gently without rubbing.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 2
+      },
+      {
+        "id": "step-t1-2",
+        "order": 2,
+        "productId": "prod-2",
+        "productName": "Cica Barrier Soothing Calming Gel-Cream",
+        "productBrand": "Kashmir Organics",
+        "productImage": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 96,
+        "usageInstructions": "Apply a dime-sized amount across cheeks, forehead, and chin to seal in hydration.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 3
+      }
+    ],
+    "pmRoutine": [
+      {
+        "id": "step-t1-3",
+        "order": 1,
+        "productId": "prod-1",
+        "productName": "Golden Elixir Cellular Infusion Serum",
+        "productBrand": "Aura Botanica",
+        "productImage": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 94,
+        "usageInstructions": "Apply 4 drops to clean skin. Target orbital perimeter and dry cheek areas.",
+        "frequency": "Daily PM",
+        "waitTimeMinutes": 2
+      },
+      {
+        "id": "step-t1-4",
+        "order": 2,
+        "productId": "prod-2",
+        "productName": "Cica Barrier Soothing Calming Gel-Cream",
+        "productBrand": "Kashmir Organics",
+        "productImage": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 96,
+        "usageInstructions": "Layer generously as an intensive sleeping barrier mask.",
+        "frequency": "Daily PM",
+        "waitTimeMinutes": 0
+      }
+    ],
+    "lifestyleTips": [
+      "Avoid hot water facial washes; keep water lukewarm or cool.",
+      "Switch to 100% mulberry silk pillowcases to prevent friction transepidermal loss.",
+      "Run an ultrasonic cool mist humidifier in bedroom overnight."
+    ],
+    "dietNotes": [
+      "Increase essential fatty acid intake with chia seeds and cold-pressed walnuts.",
+      "Drink minimum 2.5L structured room-temperature water daily.",
+      "Reduce spicy capsaicin and high-histamine fermented foods."
+    ]
+  },
+  {
+    "id": "template-2",
+    "title": "Pore Clarifying & Retinal Matrix 8-Week Protocol",
+    "description": "Targeted clinical protocol combining BHA, niacinamide, and encapsulated retinaldehyde for sebum equilibrium and dilated ostia refinement.",
+    "durationWeeks": 8,
+    "goals": [
+      "Regulate sebaceous hyper-excretion",
+      "Decongest follicular micro-comedones",
+      "Stimulate cellular collagen turnover"
+    ],
+    "amRoutine": [
+      {
+        "id": "step-t2-1",
+        "order": 1,
+        "productId": "prod-4",
+        "productName": "Pore-Clarifying Niacinamide 10% + Zinc PCA 1%",
+        "productBrand": "Vedic Alchemy",
+        "productImage": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 92,
+        "usageInstructions": "Apply 3 drops across T-zone and congested areas before hydrator.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 2
+      },
+      {
+        "id": "step-t2-2",
+        "order": 2,
+        "productId": "prod-2",
+        "productName": "Cica Barrier Soothing Calming Gel-Cream",
+        "productBrand": "Kashmir Organics",
+        "productImage": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 88,
+        "usageInstructions": "Apply light layer to protect barrier without adding occlusive weight.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 3
+      }
+    ],
+    "pmRoutine": [
+      {
+        "id": "step-t2-3",
+        "order": 1,
+        "productId": "prod-4",
+        "productName": "Pore-Clarifying Niacinamide 10% + Zinc PCA 1%",
+        "productBrand": "Vedic Alchemy",
+        "productImage": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 92,
+        "usageInstructions": "Apply 3 drops to clear pores.",
+        "frequency": "Alternate Nights",
+        "waitTimeMinutes": 5
+      }
+    ],
+    "lifestyleTips": [
+      "Double-cleanse with oil cleanser followed by amino acid foaming wash.",
+      "Sanitize mobile phone screens daily with isopropyl alcohol wipes.",
+      "Wear broad-spectrum non-comedogenic SPF 50 every morning."
+    ],
+    "dietNotes": [
+      "Limit high-glycemic dairy and refined sugars which spike IGF-1 sebum activity.",
+      "Incorporate green tea polyphenols and zinc-rich pumpkin seeds."
+    ]
+  },
+  {
+    "id": "template-3",
+    "title": "Ayurvedic 24K Saffron Radiance 12-Week Protocol",
+    "description": "Ancient royal Swarna Bhasma and Kashmiri Kumkumadi preparations formulated for glass skin clarity, hyperpigmentation fading, and bridal vitality.",
+    "durationWeeks": 12,
+    "goals": [
+      "Accelerate epidermal melanin clearance",
+      "Boost dermal reflectance and luminous glow",
+      "Soothe environmental oxidative stress"
+    ],
+    "amRoutine": [
+      {
+        "id": "step-t3-1",
+        "order": 1,
+        "productId": "prod-1",
+        "productName": "Golden Elixir Cellular Infusion Serum",
+        "productBrand": "Aura Botanica",
+        "productImage": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 95,
+        "usageInstructions": "Massage 4 drops over face in upward lymphatic strokes.",
+        "frequency": "Daily AM",
+        "waitTimeMinutes": 2
+      }
+    ],
+    "pmRoutine": [
+      {
+        "id": "step-t3-2",
+        "order": 1,
+        "productId": "prod-3",
+        "productName": "Saffron & 24K Gold Royal Luster Oil",
+        "productBrand": "Swarna Ayurveda",
+        "productImage": "https://images.unsplash.com/photo-1608248597359-2b0c43632938?auto=format&fit=crop&w=800&q=80",
+        "matchScore": 98,
+        "usageInstructions": "Warm 3 precious drops on fingertips and press into skin with gentle acupressure along cheekbones.",
+        "frequency": "Every Night",
+        "waitTimeMinutes": 0
+      }
+    ],
+    "lifestyleTips": [
+      "Perform 5 minutes of Kanza bronze wand facial massage in upward outward motions.",
+      "Practice Anulom Vilom pranayama for 10 minutes every morning for tissue oxygenation."
+    ],
+    "dietNotes": [
+      "Drink warm saffron and crushed almond milk before bedtime.",
+      "Include soaked raisins and amla juice for natural Vitamin C bioflavonoids."
+    ]
+  }
+]
